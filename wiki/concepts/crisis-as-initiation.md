@@ -4,8 +4,10 @@
 
 **Sources**:
 - [Borysenko, J. (1993). *Fire in the soul: A new psychology of spiritual optimism*. Warner Books.](../sources/fire-in-the-soul.md)
+- [Frankl, V. E. (1992). *Man's search for meaning: An introduction to logotherapy* (4th ed., I. Lasch, Trans.). Beacon Press. (Original work published 1946)](../sources/mans-search-for-meaning.md)
+- [Turner, V. (1969). *The ritual process: Structure and anti-structure*. Aldine Publishing.](../sources/the-ritual-process.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-14
 
 ---
 
@@ -31,6 +33,8 @@ Anthropologist [Victor Turner](../thinkers/victor-turner.md) studied the Ndembu 
 
 Turner's crucial observation: the liminal state strips the initiate of everything that provided false security — social role, accumulated possessions, ego identity — leaving only what is irreducibly real. This stripping is not punishment; it is the prerequisite for the larger identity that follows.
 
+This three-phase structure is only the entry point to Turner's own theory, now ingested in full — see [Liminality](liminality.md) for the fuller account (including his analysis of the Ndembu chieftainship installation rite and his famous table of oppositions between liminal and structured status) and [Communitas](communitas.md) for the egalitarian bond liminality generates, the dialectical partner Turner sets against ordinary social "structure."
+
 **The Western absence of this framework**: contemporary psychiatric and medical culture has no equivalent category. The person in crisis is "disordered" — a diagnostic label that reinforces the pathology frame. The psychiatrist, therapist, or physician operating without the initiation framework tends to work *against* the process, seeking to restore the prior state rather than holding the liminal space until the new identity can emerge.
 
 Borysenko's twelve-step recovery programs as a corrective: the language of "bottoming out" and "surrendering to a Higher Power" is the language of liminality. The sponsor who has been through the same darkness becomes the Turner-style "liminal elder" who can hold the space of the mwadi without panic.
@@ -55,7 +59,7 @@ From the camps, Frankl observed that the variable predicting survival was not ph
 
 Logotherapy's insight: suffering that cannot be eliminated can still be transformed if the person can find a meaning in it. This is not rationalization; it is the fundamental psychological act of *orientation*. The initiation frame provides exactly this: a meaning-context for suffering. The person who understands themselves as being initiated — not punished, not broken, but being forged — has access to a different set of psychological resources than the person who understands themselves as a random victim.
 
-Frankl's dictum: "Those who have a *why* to live can bear almost any *how*."
+Frankl's dictum: "Those who have a *why* to live can bear almost any *how*." See [Logotherapy](logotherapy.md) for the full clinical framework Frankl built from these observations, and [Man's Search for Meaning](../sources/mans-search-for-meaning.md) for the primary source, now ingested directly rather than at second hand through Borysenko.
 
 Borysenko links Frankl directly to [Abraham Maslow](../thinkers/abraham-maslow.md)'s concept of peak experiences and self-actualisation: Maslow spoke of the "metapathology" — the suffering caused by a thwarted need for meaning, distinct from neurotic suffering (anxiety, guilt) and physical suffering (pain). Jack, a patient in his forties who had everything — money, family, stability — and yet felt "I'm not living" was suffering the metapathology: the meaning drive was blocked. He needed not therapy but initiation into a larger purpose.
 
@@ -116,7 +120,7 @@ Borysenko's significance: the Inner Self Helper demonstrates that even under con
 
 **Empirical status**: Grof's birth-stage model is clinically observed but not established through controlled research. The claim that the birth experience leaves memories that can be therapeutically accessed is biologically plausible (given what is now known about implicit and procedural memory) but not demonstrated in ways that mainstream psychiatry accepts.
 
-**Cultural specificity**: Turner's model of liminality is derived from traditional societies with clear communal structures and elder-held rites of passage. Contemporary Western individuals undergoing crisis often lack the elder support, communal container, and cultural framework that make rites of passage transformative rather than simply chaotic. The initiation frame may work best when the "tribe" shows up to hold the space.
+**Cultural specificity**: Turner's model of liminality is derived from traditional societies with clear communal structures and elder-held rites of passage. Contemporary Western individuals undergoing crisis often lack the elder support, communal container, and cultural framework that make rites of passage transformative rather than simply chaotic. The initiation frame may work best when the "tribe" shows up to hold the space. Turner's own theory has also been criticized within anthropology for overgeneralizing from a limited set of small-scale societies, and for idealizing the [Communitas](communitas.md) his model predicts liminality produces — see [Liminality](liminality.md#critique) and [Communitas](communitas.md#critique) for the fuller discussion.
 
 **Religious claims**: The Inner Self Helper research shades from clinical observation into spiritual claim (the Helper says it "continues after death"). Borysenko acknowledges this threshold and does not fully resolve it.
 
@@ -125,6 +129,11 @@ Borysenko's significance: the Inner Self Helper demonstrates that even under con
 ## Related pages
 
 - [Fire in the Soul (source)](../sources/fire-in-the-soul.md)
+- [Man's Search for Meaning (source)](../sources/mans-search-for-meaning.md)
+- [The Ritual Process (source)](../sources/the-ritual-process.md)
+- [Logotherapy](logotherapy.md)
+- [Liminality](liminality.md)
+- [Communitas](communitas.md)
 - [Joan Borysenko](../thinkers/joan-borysenko.md)
 - [Victor Turner](../thinkers/victor-turner.md)
 - [Viktor Frankl](../thinkers/viktor-frankl.md)

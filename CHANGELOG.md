@@ -4,6 +4,22 @@ All notable changes to the Psyche and Spirit Wiki are recorded here, newest firs
 
 ---
 
+## 2026-07-14
+
+### Added — *The Ritual Process* (Turner, 1969)
+
+New pages: `wiki/sources/the-ritual-process.md`, `wiki/concepts/liminality.md` (Turner's elaboration of van Gennep's threshold phase; the Ndembu Isoma ritual and Kanongesha chieftainship installation; the table of oppositions between liminal and structured status; status-elevation vs. status-reversal rituals), `wiki/concepts/communitas.md` (the structure/anti-structure dialectic; spontaneous, normative, and ideological communitas; the Franciscan poverty movement and the Bengali Sahajiya-Vaishnava devotional movement as historical case studies), and `wiki/thinkers/arnold-van-gennep.md` (the direct theoretical source of Turner's three-phase schema, previously unlinked in the wiki). This is the primary source for material previously known only second-hand via `wiki/thinkers/victor-turner.md` and `wiki/concepts/crisis-as-initiation.md` (created 2026-07-10/11 from `wiki/sources/fire-in-the-soul.md`). Updated `wiki/thinkers/victor-turner.md` (new source citation, fuller theoretical summary), `wiki/concepts/crisis-as-initiation.md` and `wiki/concepts/initiation-rites.md` (cross-links to the new pages and van Gennep). Updated `wiki/index.md`, `README.md` (52 -> 53 sources, 77 -> 78 thinkers, 190 -> 192 concepts, 321 -> 325 pages), and `wiki/potential-sources.md` (marked the existing Turner entry as ingested).
+
+### Added — *Re-Visioning Psychology* (Hillman, 1975)
+
+New pages: `wiki/sources/re-visioning-psychology.md` and three concept pages — `wiki/concepts/soul-making.md` (soul vs. spirit, personifying, the imaginal as basic psychic reality), `wiki/concepts/pathologizing.md` (symptom and disorder as necessary soul-activity, critique of the medical model and of Maslow's "peak experience" transcendence), and `wiki/concepts/polytheistic-psychology.md` (the psyche as inherently plural, the direct "crypto-monotheism" charge against Jung's Self, and the critique of ego-centred humanism). This is the primary source for material previously known in the wiki only second-hand via `wiki/sources/souls-code.md` and Myss's citations in `wiki/sources/sacred-contracts.md`. Updated `wiki/thinkers/james-hillman.md` (added the new source citation and a structural summary of the book's four essays), `wiki/concepts/the-self.md`, `wiki/concepts/archetypes.md`, and `wiki/concepts/individuation.md` (added cross-links and the sharper, directly-stated version of Hillman's polytheism-vs-monotheism critique of Jung's individuation-toward-the-Self). Updated `wiki/index.md`, `README.md` (51 -> 52 sources, 187 -> 190 concepts, 317 -> 321 pages), and `wiki/potential-sources.md` (marked both existing duplicate Hillman entries as ingested).
+
+## 2026-07-11
+
+### Added — *Man's Search for Meaning* (Frankl, 1946/1992)
+
+New pages: `wiki/sources/mans-search-for-meaning.md` and `wiki/concepts/logotherapy.md` (the full clinical framework — will to meaning, noo-dynamics, existential vacuum, noogenic neurosis, three routes to meaning, paradoxical intention and dereflection, and the 1984 "tragic optimism" postscript). This is the primary source for material previously known in the wiki only second-hand via `wiki/thinkers/viktor-frankl.md` (created 2026-06-24 from `wiki/sources/fire-in-the-soul.md`). Updated `wiki/thinkers/viktor-frankl.md` (added the new source citation, linked the Logotherapy concept page, updated Major Works citation), `wiki/concepts/crisis-as-initiation.md` and `wiki/concepts/spiritual-optimism.md` (added the primary source and cross-links, and — for spiritual optimism — an explicit comparison between Frankl's philosophically minimal "tragic optimism" and Borysenko's theologically grounded "spiritual optimism"), and `wiki/concepts/human-evil.md` (added a fifth account to the wiki's psychology-of-evil cluster: Frankl's direct-observation argument that camp guards and prisoners alike resist sorting into a stable "evil" and "good" type, in tension with Peck's, Fromm's, and Martin's more categorical accounts). Updated `wiki/index.md`, `README.md` (50 -> 51 sources, 186 -> 187 concepts, 315 -> 317 pages), and `wiki/potential-sources.md` (marked the existing Frankl entry as ingested; added three new entries for Frankl's other major works and Gordon Allport's *The Individual and His Religion*).
+
 ## 2026-07-10
 
 ### Changed — wiki lint fixes (post-Bohm/Radin)

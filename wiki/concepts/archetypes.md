@@ -100,7 +100,7 @@ For Hillman, the most important archetype is not a universal figure (Shadow, Ani
 ### Archetypal Psychology: Key Distinctions from Jung
 Hillman's school of archetypal psychology differs from Jungian analytical psychology in important ways:
 
-- **Polytheism vs. monotheism**: Hillman argues the psyche is inherently polytheistic — animated by multiple divine presences. Jung's individuation tends toward a single goal (the Self), which Hillman regards as a crypto-monotheism that flattens the psyche's actual pluralism.
+- **Polytheism vs. monotheism**: Hillman argues the psyche is inherently polytheistic — animated by multiple divine presences. Jung's individuation tends toward a single goal (the Self), which Hillman regards as a crypto-monotheism that flattens the psyche's actual pluralism. This argument is stated directly (rather than inferred from *The Soul's Code*) in [*Re-Visioning Psychology*](../sources/re-visioning-psychology.md) (1975); see [Polytheistic Psychology](polytheistic-psychology.md) for the full treatment.
 - **Soul-making vs. individuation**: Hillman's goal is *soul-making* (Keats) — deepening the imagination and the capacity for image — rather than integration of the unconscious toward wholeness. Soul does not aim at health or completeness; it aims at depth.
 - **Pathology as meaning**: Where Jungian psychology seeks to integrate symptoms, Hillman argues symptoms should be *followed* as the psyche's own intelligence — the daimon speaking through the body or the mood.
 - **Image over interpretation**: Hillman resists reducing archetypal images to meanings. An image is not a symbol to be decoded; it is a presence to be inhabited and amplified.
@@ -185,3 +185,6 @@ For full profiles of the ten archetypes, see [Ten Contemporary Archetypes](ten-c
 - [Inner Net](inner-net.md)
 - [Ten Contemporary Archetypes](ten-contemporary-archetypes.md)
 - [Archetypal Grace](archetypal-grace.md)
+- [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)
+- [Polytheistic Psychology](polytheistic-psychology.md)
+- [Soul-Making and the Imaginal](soul-making.md)

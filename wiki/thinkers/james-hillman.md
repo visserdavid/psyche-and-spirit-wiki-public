@@ -1,12 +1,13 @@
 # James Hillman
 
-**Summary**: American post-Jungian psychologist (1926–2011), founder of archetypal psychology, and author of *The Soul's Code* (1996) — an argument that every person is born with a unique image of their calling, guided by a daimon (guardian spirit), and that biography must be read as the unfolding of this image rather than the effect of parental causes.
+**Summary**: American post-Jungian psychologist (1926–2011), founder of archetypal psychology, whose foundational manifesto *Re-Visioning Psychology* (1975) argues that the psyche is inherently polytheistic and that soul-making — not ego integration — is psychology's true task, and whose later *The Soul's Code* (1996) argues every person is born with a unique image of their calling, guided by a daimon (guardian spirit).
 
 **Sources**:
+- [Hillman, J. (1975). *Re-visioning psychology*. Harper & Row.](../sources/re-visioning-psychology.md)
 - [Hillman, J. (1996). *The soul's code: In search of character and calling*. Random House.](../sources/souls-code.md)
 - [Myss, C. (2001). *Sacred contracts: Awakening your divine potential*. Harmony Books.](../sources/sacred-contracts.md)
 
-**Last updated**: 2026-06-22
+**Last updated**: 2026-07-14
 
 ---
 
@@ -29,6 +30,17 @@ Key tenets of archetypal psychology:
 - **Beauty** is a psychological necessity — its neglect in psychology is a clinical and cultural failure
 
 This approach contrasts with the more prescriptive self-development orientation of Myss's work, while sharing the commitment to archetypal frameworks as the deepest language of the psyche.
+
+## Re-Visioning Psychology (1975)
+
+[*Re-Visioning Psychology*](../sources/re-visioning-psychology.md) — delivered as the 1972 Terry Lectures at Yale — is Hillman's founding theoretical statement, organized as four essays rather than a linear argument:
+
+- **Personifying**: the recovery of [soul-making](../concepts/soul-making.md) through treating psychic contents (moods, symptoms, complexes) as autonomous imaginal figures, against the "nominalist" reduction of image to mechanism
+- **Pathologizing**: the argument, developed at length in [Pathologizing](../concepts/pathologizing.md), that psychic disorder and symptom are not malfunctions to be cured but necessary, meaning-bearing activities of soul — read as mythic language (Saturn/depression, Dionysus/hysteria) rather than diagnostic labels
+- **Psychologizing**: the recovery of ideation and reflection as soul-activity, and the identification of the archetypal premises (Apollonic, Saturnine, Hermetic) underlying every system of thought, including science itself
+- **Dehumanizing**: the explicit statement of [Polytheistic Psychology](../concepts/polytheistic-psychology.md) against monotheistic consciousness, and the critique of humanism's ego-centred model of the person, with Renaissance Neoplatonism (especially Marsilio Ficino) as the historical model for a soul-centred rather than man-centred psychology
+
+This book is the primary source for material the wiki previously knew only second-hand via *The Soul's Code* and Myss's citations in *Sacred Contracts* — including the polytheism-vs-monotheism critique of Jung (below), which this book states far more directly than the later, more popular works.
 
 ## The Soul's Code: The Acorn Theory
 
@@ -94,8 +106,12 @@ Hillman revises rather than extends Jung. Key differences:
 
 ## Related pages
 
+- [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)
 - [The Soul's Code (source)](../sources/souls-code.md)
 - [Sacred Contracts (source)](../sources/sacred-contracts.md)
+- [Soul-Making and the Imaginal](../concepts/soul-making.md)
+- [Pathologizing](../concepts/pathologizing.md)
+- [Polytheistic Psychology](../concepts/polytheistic-psychology.md)
 - [Acorn Theory](../concepts/acorn-theory.md)
 - [Daimon](../concepts/daimon.md)
 - [Calling](../concepts/calling.md)

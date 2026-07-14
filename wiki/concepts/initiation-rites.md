@@ -17,7 +17,7 @@ The rite does not merely mark biological or social change. It *enacts* that chan
 
 ## Structure
 
-Van Gennep's classic analysis (referenced in the broader Jungian tradition) identifies three phases common to all rites of passage:
+[Van Gennep](../thinkers/arnold-van-gennep.md)'s classic analysis (referenced in the broader Jungian tradition, and elaborated in full by [Victor Turner](../thinkers/victor-turner.md) — see [Liminality](liminality.md) and [Communitas](communitas.md)) identifies three phases common to all rites of passage:
 
 1. **Separation**: The initiate is removed from ordinary life — literally or symbolically separated from the community, the family home, the previous social role. This phase dissolves the prior identity.
 
@@ -80,3 +80,7 @@ The psychological work of analysis can function as a self-initiated rite of pass
 - [Collective Unconscious](collective-unconscious.md)
 - [Three Ages of Power](three-ages-of-power.md)
 - [Sacred Contracts](sacred-contracts.md)
+- [Liminality](liminality.md)
+- [Communitas](communitas.md)
+- [Arnold van Gennep](../thinkers/arnold-van-gennep.md)
+- [Victor Turner](../thinkers/victor-turner.md)

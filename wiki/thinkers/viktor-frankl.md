@@ -4,8 +4,9 @@
 
 **Sources**:
 - [Borysenko, J. (1993). *Fire in the soul: A new psychology of spiritual optimism*. Warner Books.](../sources/fire-in-the-soul.md)
+- [Frankl, V. E. (1992). *Man's search for meaning: An introduction to logotherapy* (4th ed., I. Lasch, Trans.). Beacon Press. (Original work published 1946)](../sources/mans-search-for-meaning.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-11
 
 ---
 
@@ -25,7 +26,7 @@ Frankl was Professor of Neurology and Psychiatry at the University of Vienna and
 
 ## Logotherapy
 
-Logotherapy (from Greek *logos*, meaning "word," "reason," or "meaning") is based on three foundational premises:
+Full clinical treatment — the will to meaning, the existential vacuum, noogenic neurosis, paradoxical intention and dereflection, and tragic optimism — is now covered in [Logotherapy](../concepts/logotherapy.md), drawn directly from [*Man's Search for Meaning*](../sources/mans-search-for-meaning.md). Summary of the three foundational premises:
 
 **1. Freedom of will**: Human beings have the capacity to choose their attitude toward any given set of conditions. This freedom is not unlimited — circumstances, biology, and history constrain it significantly — but it is never eliminated. The concentration camp demonstrated this most starkly: even the prisoner who could not avoid physical suffering retained the capacity to choose how they related to it.
 
@@ -91,7 +92,7 @@ The existential vacuum manifests as:
 
 ## Major Works
 
-- Frankl, V. E. (1946/1959). *Man's search for meaning*. Pocket Books. (Originally published as *...trotzdem Ja zum Leben sagen*.)
+- Frankl, V. E. (1992). *Man's search for meaning: An introduction to logotherapy* (4th ed., I. Lasch, Trans.). Beacon Press. (Original work published 1946 as *Ein Psycholog erlebt das Konzentrationslager*; first English ed. 1959 as *From Death-Camp to Existentialism*.) — ingested in full; see [Man's Search for Meaning](../sources/mans-search-for-meaning.md).
 - Frankl, V. E. (1955). *The doctor and the soul: From psychotherapy to logotherapy*. Knopf.
 - Frankl, V. E. (1967). *Psychotherapy and existentialism: Selected papers on logotherapy*. Simon & Schuster.
 - Frankl, V. E. (1969). *The will to meaning: Foundations and applications of logotherapy*. New American Library.
@@ -100,6 +101,9 @@ The existential vacuum manifests as:
 
 ## Related pages
 
+- [Man's Search for Meaning (source)](../sources/mans-search-for-meaning.md)
+- [Logotherapy](../concepts/logotherapy.md)
+- [Human Evil (Psychology of Evil)](../concepts/human-evil.md)
 - [Fire in the Soul (source)](../sources/fire-in-the-soul.md)
 - [Joan Borysenko](joan-borysenko.md)
 - [Crisis as Initiation](../concepts/crisis-as-initiation.md)

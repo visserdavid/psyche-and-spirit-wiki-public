@@ -3,12 +3,13 @@
 **Summary**: M. Scott Peck's proposal that human evil is a diagnosable personality disorder characterised by malignant narcissism, the refusal to tolerate self-knowledge, compulsive lying, and scapegoating — the clinical and spiritual obverse of the healing frameworks developed by Myss, Borysenko, and the rest of the wiki's literature.
 
 **Sources**:
+- [Frankl, V. E. (1992). *Man's search for meaning: An introduction to logotherapy* (4th ed., I. Lasch, Trans.). Beacon Press. (Original work published 1946)](../sources/mans-search-for-meaning.md)
 - [Fromm, E. (1964). *The heart of man: Its genius for good and evil*. Harper & Row.](../sources/heart-of-man.md)
 - [Martin, M. (1992). *Hostage to the devil: The possession and exorcism of five living Americans* (Rev. ed.). HarperSanFrancisco. (Original work published 1976)](../sources/hostage-to-the-devil.md)
 - [Peck, M. S. (1978). *The road less traveled: A new psychology of love, traditional values, and spiritual growth*. Simon & Schuster.](../sources/the-road-less-traveled.md)
 - [Peck, M. S. (1983). *People of the lie: The hope for healing human evil*. Simon & Schuster.](../sources/people-of-the-lie.md)
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-07-11
 
 ---
 
@@ -59,6 +60,12 @@ All three thinkers now in the wiki's evil cluster — [Jung](../thinkers/carl-ju
 This is a difference in kind rather than degree: Martin's entity has independent will, memory, and strategic intent, standing at the furthest possible remove from Jung's *privatio boni* critique (evil as no mere absence but still a structural feature of the psyche) and from Fromm's and Peck's character-syndrome accounts (evil as a pattern of choices and defenses within an ordinary human personality). Peck's own possession chapters (see [Possession and Exorcism (Peck)](possession-and-exorcism.md)) attempt a partial synthesis — proposing that ordinary evil and possession sit on the same spectrum — but Martin does not extend the same courtesy to secular or psychological accounts; his framework treats the reduction of possession to a "psyche" phenomenon as itself one of the entity's characteristic deceptions.
 
 **Note**: mainstream psychiatry, clinical psychology, and academic religious studies do not treat literal possession by a discrete external entity as an evidence-based diagnostic category. The clinical phenomena Martin and Peck describe (dramatic apparent personality change, altered voice, self-injury, extreme distress) are addressed in the mainstream literature under dissociative identity disorder, psychotic illness, and culturally-shaped dissociative/conversion syndromes — see [Martin's Stages of Possession § Critique](possession-process-martin.md#critique) for the fuller discussion.
+
+## A Fifth Account: Frankl's Refusal to Categorise
+
+[Viktor Frankl](../thinkers/viktor-frankl.md)'s [*Man's Search for Meaning*](../sources/mans-search-for-meaning.md) (1946/1992) offers a pointed counterweight to all four accounts above, from direct observation of the same historical catastrophe (Nazi Germany) that grounds Jung's, Fromm's, and Peck's diagnoses. Rather than proposing a mechanism that isolates a distinct evil-prone type — Peck's malignant narcissist, Fromm's necrophilous-narcissistic-symbiotic character, Martin's possessed individual — Frankl explicitly resists typological division of the camp population (guards and prisoners alike) into categories of evil and good people: "We know that man is that being who has invented the gas chambers of Auschwitz; however, he is also that being who has entered those gas chambers upright, with the Lord's Prayer or the Shema Yisrael on his lips." He reports SS guards who showed unexpected personal kindness and prisoner-functionaries ("Capos") who matched their supervisors' cruelty, concluding that only two "races" of human beings truly exist — the decent and the indecent — and that both are found within every social or political grouping, not aligned with any external category (nationality, uniform, victimhood) that would let an observer sort people into evil and non-evil groups in advance.
+
+This does not contradict Peck's, Fromm's, or Martin's accounts of what happens *within* a person who becomes capable of atrocity — Frankl does not offer a competing mechanism — but it cautions against reading any of those mechanisms as reliably identifying evil people *in advance* of their acts, and it resists the comfortable inference that "the perpetrators" and "the victims" of a historical atrocity map cleanly onto "the evil" and "the good." See [Logotherapy § Relationship to Existing Wiki Frameworks](logotherapy.md#relationship-to-existing-wiki-frameworks) for the fuller discussion of this tension.
 
 ## Scapegoating as the Defining Behaviour
 
@@ -135,6 +142,9 @@ The answer in both frameworks is the same: the refusal of self-knowledge.
 
 ## Related pages
 
+- [Man's Search for Meaning (source)](../sources/mans-search-for-meaning.md)
+- [Viktor Frankl](../thinkers/viktor-frankl.md)
+- [Logotherapy](logotherapy.md)
 - [The Heart of Man (source)](../sources/heart-of-man.md)
 - [The Road Less Traveled (source)](../sources/the-road-less-traveled.md)
 - [People of the Lie (source)](../sources/people-of-the-lie.md)

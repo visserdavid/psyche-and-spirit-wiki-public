@@ -92,7 +92,7 @@ Dorn regarded even the second stage as difficult to achieve within a lifetime, a
 
 **Against the goal of wholeness**: Jung's Self is an integrating archetype aiming at totality — the union of conscious and unconscious into a whole. Hillman's acorn is a *specifying* principle aiming at particularity — not wholeness but *thisness* (*haecceitas* in medieval philosophy). The goal of psychological life is not to become complete; it is to become specific.
 
-**Against monotheism**: Jung's individuation tends toward a single goal (the Self), which Hillman regards as a crypto-monotheism that imposes an artificial unity on the psyche's actual pluralism. Hillman's archetypal psychology is explicitly polytheistic: multiple, sometimes conflicting, daimonic presences animate the psyche; the goal is not to reconcile them into one but to hold their tensions as the actual texture of soul.
+**Against monotheism**: Jung's individuation tends toward a single goal (the Self), which Hillman regards as a crypto-monotheism that imposes an artificial unity on the psyche's actual pluralism. Hillman's archetypal psychology is explicitly polytheistic: multiple, sometimes conflicting, daimonic presences animate the psyche; the goal is not to reconcile them into one but to hold their tensions as the actual texture of soul. See [Polytheistic Psychology](polytheistic-psychology.md) for Hillman's fullest statement of this argument, made directly in [*Re-Visioning Psychology*](../sources/re-visioning-psychology.md) (1975).
 
 **The daimon as guide**: In Hillman's framework, the role Jung assigns to the ego-Self axis — providing direction, creating meaning — is performed by the [daimon](daimon.md), the guardian spirit that carries the soul's image. The daimon does not develop the ego toward the Self; it uses the biographical circumstances (including accidents, obstacles, and the parental situation) as material for bringing the calling into expression.
 
@@ -160,3 +160,6 @@ The outcome: Henry becomes engaged, marries, and emigrates to take a professiona
 - [Erich Fromm](../thinkers/erich-fromm.md)
 - [Authentic Power](authentic-power.md)
 - [Gary Zukav](../thinkers/gary-zukav.md)
+- [Polytheistic Psychology](polytheistic-psychology.md)
+- [Soul-Making and the Imaginal](soul-making.md)
+- [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)

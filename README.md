@@ -2,13 +2,13 @@
 
 A personal knowledge base on depth psychology, mysticism, holistic health, and consciousness — built from books and articles across the field and maintained with Claude Code.
 
-The wiki began with Caroline Myss and Norman Shealy and has grown outward to include Joan Borysenko's psychospiritual medicine, James Hillman's archetypal psychology, C. G. Jung and his collaborators, Joseph Campbell's comparative mythology, Barbara Brennan's human energy field work, Harish Johari's Tantric chakra system, Stanley Keleman's somatic psychology, Christiane Northrup's energy medicine approach to women's health, M. Scott Peck's psychology of evil, Karlfried Graf Dürckheim's Japanese phenomenology of Hara, Willis Harman's philosophical argument for the consciousness paradigm shift, Elisabeth Kübler-Ross's foundational five-stage model of dying, Sogyal Rinpoche's Tibetan Buddhist map of consciousness across the life-death-rebirth arc, Andrew Weil's foundational integrative medicine framework, Roger Woolger's Jungian past-life regression therapy, George Vaillant's longitudinal Grant Study evidence for mature coping and adult development, Michael Talbot's accessible synthesis of the holographic paradigm, Moses de León's Zohar — the primary source for the Kabbalistic dimension of the wiki — Karl Kerényi's comparative mythology of the Divine Child and the Eleusinian Mysteries, Jung's late alchemical masterwork *Mysterium Coniunctionis*, Erich Fromm's humanist revision of Freudian destructiveness theory, Gary Zukav's multisensory-perception and authentic-power framework, Malachi Martin's account of possession and exorcism — the wiki's most explicitly supernatural treatment of evil, Kyriacos Markides's ethnography of the Cypriot mystic healer Daskalos, David Bohm's own physics of the implicate order and fragmentation, previously present in the wiki only at second hand, and Paul Radin's Winnebago Trickster ethnography with its independent Kerényi and Jung commentaries. Together they form an interlinked map of the territory where body, psyche, and spirit meet.
+The wiki began with Caroline Myss and Norman Shealy and has grown outward to include Joan Borysenko's psychospiritual medicine, James Hillman's archetypal psychology, C. G. Jung and his collaborators, Joseph Campbell's comparative mythology, Barbara Brennan's human energy field work, Harish Johari's Tantric chakra system, Stanley Keleman's somatic psychology, Christiane Northrup's energy medicine approach to women's health, M. Scott Peck's psychology of evil, Karlfried Graf Dürckheim's Japanese phenomenology of Hara, Willis Harman's philosophical argument for the consciousness paradigm shift, Elisabeth Kübler-Ross's foundational five-stage model of dying, Sogyal Rinpoche's Tibetan Buddhist map of consciousness across the life-death-rebirth arc, Andrew Weil's foundational integrative medicine framework, Roger Woolger's Jungian past-life regression therapy, George Vaillant's longitudinal Grant Study evidence for mature coping and adult development, Michael Talbot's accessible synthesis of the holographic paradigm, Moses de León's Zohar — the primary source for the Kabbalistic dimension of the wiki — Karl Kerényi's comparative mythology of the Divine Child and the Eleusinian Mysteries, Jung's late alchemical masterwork *Mysterium Coniunctionis*, Erich Fromm's humanist revision of Freudian destructiveness theory, Gary Zukav's multisensory-perception and authentic-power framework, Malachi Martin's account of possession and exorcism — the wiki's most explicitly supernatural treatment of evil, Kyriacos Markides's ethnography of the Cypriot mystic healer Daskalos, David Bohm's own physics of the implicate order and fragmentation, previously present in the wiki only at second hand, Paul Radin's Winnebago Trickster ethnography with its independent Kerényi and Jung commentaries, Viktor Frankl's logotherapy and Holocaust testimony, previously present in the wiki only at second hand via Borysenko, James Hillman's own foundational manifesto *Re-Visioning Psychology*, previously present in the wiki only at second hand via *The Soul's Code* and Myss, and Victor Turner's own foundational anthropology of liminality and communitas, previously present in the wiki only at second hand via Borysenko. Together they form an interlinked map of the territory where body, psyche, and spirit meet.
 
 Recurring themes: the chakra system and energy anatomy; the principle that "biography is biology"; medical intuition and its clinical applications; psychoneuroimmunology and the mind-body connection; archetypal patterns and the collective unconscious; sacred contracts and soul-level purpose; crisis as initiation and stages of spiritual development; near-death experiences and non-local consciousness; forgiveness, meaning-making, and the psychology of illness; somatic character structure and embodied healing; contemplative practice across traditions; and the ongoing tension between these frameworks and mainstream scientific and medical consensus.
 
 ## Coverage
 
-**50 sources · 77 thinkers · 186 concepts · 315 pages**
+**53 sources · 78 thinkers · 192 concepts · 325 pages**
 
 ## Sources
 
@@ -26,9 +26,11 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 | Dossey, L. | [Meaning & Medicine](wiki/sources/meaning-and-medicine.md) | 1991 |
 | Dossey, L. | [Healing Words](wiki/sources/healing-words.md) | 1993 |
 | Dürckheim, K. G. von | [Hara: The Vital Centre of Man](wiki/sources/hara-the-vital-centre.md) | 1962 |
+| Frankl, V. E. | [Man's Search for Meaning](wiki/sources/mans-search-for-meaning.md) | 1992 (orig. 1946) |
 | Fromm, E. | [The Heart of Man](wiki/sources/heart-of-man.md) | 1964 |
 | Harman, W. W. | [Global Mind Change](wiki/sources/global-mind-change.md) | 1988 |
 | Hay, L. L. | [You Can Heal Your Life](wiki/sources/you-can-heal-your-life.md) | 1984 |
+| Hillman, J. | [Re-Visioning Psychology](wiki/sources/re-visioning-psychology.md) | 1975 |
 | Hillman, J. | [The Soul's Code](wiki/sources/souls-code.md) | 1996 |
 | Johari, H. | [Chakras: Energy Centers of Transformation](wiki/sources/chakras-energy-centers.md) | 2000 (rev. ed.; orig. 1987) |
 | Joy, W. B. | [Joy's Way](wiki/sources/joys-way.md) | 1979 |
@@ -59,6 +61,7 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 | Siegel, B. S. | [Love, Medicine and Miracles](wiki/sources/love-medicine-miracles.md) | 1986 |
 | Sogyal Rinpoche | [The Tibetan Book of Living and Dying](wiki/sources/tibetan-book-of-living-and-dying.md) | 1992 |
 | Talbot, M. | [The Holographic Universe](wiki/sources/the-holographic-universe.md) | 1991 |
+| Turner, V. | [The Ritual Process](wiki/sources/the-ritual-process.md) | 1969 |
 | Vaillant, G. E. | [Adaptation to Life](wiki/sources/adaptation-to-life.md) | 1977 |
 | Weil, A. | [Health and Healing](wiki/sources/health-and-healing.md) | 1983 |
 | Woolger, R. J. | [Other Lives, Other Selves](wiki/sources/other-lives-other-selves.md) | 1987 |

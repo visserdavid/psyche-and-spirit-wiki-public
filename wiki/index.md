@@ -58,6 +58,9 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [The Magus of Strovolos](sources/magus-of-strovolos.md) | Markides (1985) — sociologist's participant-observer account of the Cypriot mystic Daskalos: a three-body/multi-world cosmology, thought-form "elementals," out-of-body "exomatosis," Karma as assumed debt, benevolent "helper" spirits, and eyewitness claims of healing, materialization, and dematerialization |
 | [Wholeness and the Implicate Order](sources/wholeness-and-the-implicate-order.md) | Bohm (1980) — the physicist's own statement of the implicate/explicate order and the holomovement, prefaced by a social/psychological diagnosis of fragmentary thought as the root of ecological and social crisis, and an experimental verb-based "rheomode" grammar |
 | [The Trickster](sources/the-trickster.md) | Radin (1956) — Winnebago Trickster cycle (Wakdjunkaga) with independent commentary essays by Kerényi (Trickster vs. Hermes) and Jung (Trickster as archaic forerunner of the shadow, Feast of Fools, Mercurius); the primary ethnographic source underlying CW 9.1's and *Man and His Symbols*'s Trickster material |
+| [Man's Search for Meaning](sources/mans-search-for-meaning.md) | Frankl (1946/1992) — first-person account of survival in four Nazi concentration camps; logotherapy's will to meaning, existential vacuum, and three routes to meaning; paradoxical intention and dereflection; the 1984 tragic-optimism postscript; a fifth, anti-typological account within the wiki's psychology-of-evil cluster |
+| [Re-Visioning Psychology](sources/re-visioning-psychology.md) | Hillman (1975) — the foundational manifesto of archetypal psychology (1972 Terry Lectures): soul-making and personifying, pathologizing as necessary soul-activity, psychologizing/ideation, and the explicit polytheism-vs-monotheism critique of Jung's individuation-toward-the-Self |
+| [The Ritual Process](sources/the-ritual-process.md) | Turner (1969) — foundational text of liminality and communitas theory, built from Ndembu fieldwork (the Isoma and Wubwang'u rituals); the Kanongesha chieftainship installation; the structure/anti-structure dialectic traced through the Franciscan poverty movement and the Bengali Sahajiya-Vaishnava devotional movement |
 
 ---
 
@@ -71,7 +74,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Norman Shealy](thinkers/norman-shealy.md) | Harvard neurosurgeon, founder of the American Holistic Medical Association; Myss's decade-long collaborator; pioneer of TENS and electrotherapy |
 | [Herbert Benson](thinkers/herbert-benson.md) | American cardiologist (b. 1935); discoverer of the relaxation response; first documented its physiology in meditating humans at Harvard (1975); showed that all contemplative traditions share four structural elements; clinical hypertension trials; mentor to Joan Borysenko |
 | [Joan Borysenko](thinkers/joan-borysenko.md) | American cell biologist and psychologist (b. c. 1945); co-founder of Harvard's Mind/Body Clinic; pioneer of psychoneuroimmunology in clinical practice; bridges laboratory immunology, meditation, and spiritual psychology; *Guilt Is the Teacher* diagnoses soul sickness; *Fire in the Soul* reframes crisis as initiation |
-| [Viktor Frankl](thinkers/viktor-frankl.md) | Austrian psychiatrist and Holocaust survivor (1905–1997); founder of logotherapy; *Man's Search for Meaning* — the demonstration that finding meaning in unavoidable suffering is the pivotal survival variable |
+| [Viktor Frankl](thinkers/viktor-frankl.md) | Austrian psychiatrist and Holocaust survivor (1905–1997); founder of logotherapy; *Man's Search for Meaning* (now ingested in full) — the demonstration that finding meaning in unavoidable suffering is the pivotal survival variable, and a resistance to typological accounts of who is capable of evil |
 | [Thomas Keating](thinkers/thomas-keating.md) | American Trappist monk and abbot (1923–2018); co-founder of the Centering Prayer movement; author of *Open Mind, Open Heart*; systematised the Christian contemplative tradition's direct encounter with divine presence for non-monastics |
 | [William James](thinkers/william-james.md) | American philosopher and psychologist (1842–1910); father of American psychology; *The Varieties of Religious Experience* (1902) introduced "soul sickness" as the name for shame-based suffering and provided the first empirical study of mystical experience |
 | [Christiane Northrup](thinkers/christiane-northrup.md) | OB/GYN physician, co-founder of Women to Women clinic (1985); author of *Women's Bodies, Women's Wisdom* (1994); applied Myss and Shealy's energy anatomy framework to women's gynecological health; the addictive system; lower female centers; menstrual cycle as wisdom |
@@ -89,7 +92,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Lawrence LeShan](thinkers/lawrence-leshan.md) | American psychologist; thirty-year depth-therapy study of 71 cancer patients; identified the cancer personality profile (childhood loss, quiet desperation, loss of life-meaning connection) |
 | [Helen Schucman](thinkers/helen-schucman.md) | American clinical psychologist (1909–1981) who scripted *A Course in Miracles* through inner dictation over seven years (1965–1972) while remaining personally estranged from the material |
 | [William Thetford](thinkers/william-thetford.md) | American psychologist (1923–1988) whose declaration "there must be another way" catalysed the ACIM scribing; served as typist and editor of the full text |
-| [James Hillman](thinkers/james-hillman.md) | American post-Jungian psychologist; founder of archetypal psychology; acorn theory of soul purpose parallels Myss's Sacred Contracts |
+| [James Hillman](thinkers/james-hillman.md) | American post-Jungian psychologist; founder of archetypal psychology; *Re-Visioning Psychology* (primary source now ingested) argues the psyche is polytheistic against Jung's "crypto-monotheistic" Self; acorn theory of soul purpose parallels Myss's Sacred Contracts |
 | [Plato](thinkers/plato.md) | Ancient Greek philosopher; Myth of Er — souls choosing their next life before birth — is Myss's primary Western philosophical precedent for Sacred Contracts |
 | [Ram Dass](thinkers/ram-dass.md) | American spiritual teacher (born Richard Alpert); his biography illustrates Myss's five stages of Sacred Contract unfolding |
 | [Rachel Naomi Remen](thinkers/rachel-naomi-remen.md) | American physician and medical educator; pioneer of integrative oncology and narrative medicine; *Why People Don't Heal* is dedicated to her |
@@ -134,7 +137,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Suzanne Kobasa](thinkers/suzanne-kobasa.md) | American psychologist; introduced psychological hardiness (1979) — commitment, control, challenge — as the attitude cluster buffering life stress, confirmed longitudinally by Vaillant's Grant Study |
 | [Rupert Sheldrake](thinkers/rupert-sheldrake.md) | English biologist (b. 1942); proposed morphic resonance in *A New Science of Life* (1981); Ring's proposed propagation mechanism for the Omega Hypothesis |
 | [Pierre Teilhard de Chardin](thinkers/pierre-teilhard-de-chardin.md) | French Jesuit paleontologist (1881–1955); *The Phenomenon of Man* (1955) proposed the evolutionary Omega Point that Kenneth Ring adopts as NDE research's evolutionary destination |
-| [Victor Turner](thinkers/victor-turner.md) | British cultural anthropologist (1920–1983); Ndembu fieldwork; three-phase rite of passage (separation, liminality, reincorporation) — the anthropological backbone of Borysenko's crisis-as-initiation framework |
+| [Victor Turner](thinkers/victor-turner.md) | British cultural anthropologist (1920–1983); Ndembu fieldwork; *The Ritual Process* (1969, now ingested) — three-phase rite of passage, liminality, and communitas, the anthropological backbone of Borysenko's crisis-as-initiation framework |
 | [Anne Wilson Schaef](thinkers/anne-wilson-schaef.md) | American clinical psychologist (1934–2020); *When Society Becomes an Addict* (1987) reframed patriarchal culture as a self-perpetuating addictive system; adapted by Northrup to women's health |
 | [Martin Buber](thinkers/martin-buber.md) | Austrian-Israeli Jewish philosopher (1878–1965); *I and Thou* (1923); *Good and Evil* (1953) frames evil as refusal of direction toward the divine — a touchstone for Peck's clinical psychology of evil |
 | [Brian Weiss](thinkers/brian-weiss.md) | American psychiatrist (b. 1944); chairman, Department of Psychiatry, Mount Sinai Medical Center Miami; *Many Lives, Many Masters* (1988) documented spontaneous past-life regression in hypnotherapy |
@@ -142,6 +145,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Robert Bly](thinkers/robert-bly.md) | American poet and men's-movement leader (1926–2021); *A Little Book on the Human Shadow* (1988) popularised Jung's shadow as the "shadow bag" everyone carries |
 | [Gershen Kaufman](thinkers/gershen-kaufman.md) | American clinical psychologist; *Shame: The Power of Caring*; the "interpersonal bridge" metaphor central to Borysenko's account of childhood shame |
 | [Melvin Morse](thinkers/melvin-morse.md) | American pediatrician (b. 1953); *Closer to the Light* (1990), the first systematic study of children's near-death experiences |
+| [Arnold van Gennep](thinkers/arnold-van-gennep.md) | French-Dutch ethnographer and folklorist (1873–1957); *Les rites de passage* (1909) coined the term and identified the universal three-phase structure (separation, margin, aggregation) — the direct theoretical foundation for Turner's liminality and communitas |
 
 ---
 
@@ -245,12 +249,20 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | Page | Description |
 |------|-------------|
 | [Crisis as Initiation](concepts/crisis-as-initiation.md) | Borysenko's reframe of personal catastrophe as rite of passage — Victor Turner's liminality; the Ndembu mwadi; Campbell's night sea journey; Frankl's logotherapy; Grof's perinatal stages; shamanic soul retrieval; the Inner Self Helper in multiple personality disorder |
+| [Logotherapy](concepts/logotherapy.md) | Frankl's meaning-centred psychotherapy — the will to meaning, noo-dynamics, the existential vacuum, noogenic neurosis, three routes to meaning, paradoxical intention and dereflection, and 1984's "tragic optimism" postscript on the tragic triad of pain, guilt, and death |
 | [Stages of Faith](concepts/stages-of-faith.md) | Fowler's six-stage developmental model of faith — from the literal, mythic thinking of Stage 2 (reward-punishment theology) through Stage 5's paradox-tolerance to Stage 6's universalising compassion; explains why crisis can deepen faith or destroy it |
 | [Near-Death Experiences](concepts/near-death-experiences.md) | The NDE as the most complete initiation — Donna Elsten's detailed account; Melvin Morse's children's research; the life review (love and knowledge as the only measures that survive death); Byrd's CCU prayer study; Ring's Omega Study incidence data and core 16-element anatomy |
 | [NDE Transformation](concepts/nde-transformation.md) | Ring's systematic documentation of post-NDE changes: value shifts (compassion↑, materialism↓), spiritual universalism, psychic development, flashforwards, and planetary visions — the empirical foundation for the Omega Hypothesis |
 | [Omega Hypothesis](concepts/omega-hypothesis.md) | Ring's thesis that NDEs catalyse humanity's evolution toward Teilhard de Chardin's Omega Point, mediated biologically by kundalini energy and propagated through Rupert Sheldrake's morphic resonance |
 | [Centering Prayer](concepts/centering-prayer.md) | Thomas Keating's practice: the sacred word as pointer to divine presence (not mantra); the river of presence (identifying with consciousness rather than its contents); relationship to Benson's relaxation response and Buddhist mindfulness |
 | [Past-Life Therapy](concepts/past-life-therapy.md) | Brian Weiss, Roger Woolger, and the therapeutic use of apparent past-life memories; Henry Corbin's imaginal realm; samskaras and karma cleaning (Elizabeth Lawrence's Mari El healing); Borysenko's personal regressions; theoretical frameworks |
+
+### The Ritual Process Framework (Turner, 1969)
+
+| Page | Description |
+|------|-------------|
+| [Liminality](concepts/liminality.md) | Turner's elaboration of van Gennep's "threshold" phase of a rite of passage: the Ndembu Isoma ritual and Kanongesha chieftainship installation, the table of oppositions between liminal and structured status, and the distinction between status-elevation and status-reversal rituals (Halloween, court jesters) |
+| [Communitas](concepts/communitas.md) | Turner's structure/anti-structure dialectic: the egalitarian bond liminality generates, its three modalities (spontaneous, normative, ideological), and its historical trajectory through the Franciscan poverty movement and the Bengali Sahajiya-Vaishnava devotional movement |
 
 ### A Course in Miracles Framework (Schucman, 1976)
 
@@ -366,10 +378,13 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Five Sacred Rings](concepts/five-sacred-rings.md) | Five acupuncture-point circuits (Fire/Air/Water/Earth/Crystal) activatable by GHz stimulation or Bliss Oils; each raises a distinct neurochemical (DHEA, oxytocin, calcitonin) or reduces free radicals; telomere regeneration claims |
 | [Oxytocin and Health](concepts/oxytocin-and-health.md) | Oxytocin deficiency in the first seven years as root of depression, ADHD, autism, addiction, OCD; Ring Air → neurotensin 600% → oxytocin pathway; clinical case evidence |
 
-### The Soul's Code Framework (Hillman, 1996)
+### Archetypal Psychology (Hillman, 1975, 1996)
 
 | Page | Description |
 |------|-------------|
+| [Soul-Making and the Imaginal](concepts/soul-making.md) | Hillman's foundational concept from *Re-Visioning Psychology*: soul vs. spirit, personifying psychic contents as autonomous figures, the imaginal as basic psychic reality |
+| [Pathologizing](concepts/pathologizing.md) | Symptom and disorder as necessary soul-activity, not malfunction; critique of the medical model, anti-psychiatry, and Maslow's "peak experience"; symptoms read as mythic language |
+| [Polytheistic Psychology](concepts/polytheistic-psychology.md) | Hillman's argument that the psyche is inherently plural; the direct "crypto-monotheism" charge against Jung's Self; the critique of ego-centred humanism ("Dehumanizing") |
 | [Acorn Theory](concepts/acorn-theory.md) | Hillman's central thesis: every soul carries a unique image (the acorn) of its calling, guided by a daimon — the soul as blueprint, not potential; the calling as character, not achievement |
 | [Daimon](concepts/daimon.md) | The personal guardian spirit (Plato, Plotinus, cross-cultural) that carries the soul's image throughout a biography — Hillman's equivalent of Myss's archetypal companions but morally neutral |
 | [Calling](concepts/calling.md) | Hillman's calling as character and fate (Heraclitean); Myss's calling as Sacred Contract expression; comparison, critique, and the privilege question |
@@ -463,7 +478,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 
 | Page | Description |
 |---|---|
-| [Human Evil (Psychology of Evil)](concepts/human-evil.md) | Peck's proposal that evil is a diagnosable personality disorder rooted in malignant narcissism and the compulsive refusal to acknowledge sinfulness; scapegoating as the clinical mechanism; evil vs. sin; the diagnostic signal of revulsion; connections to Jung's shadow and Myss's woundology |
+| [Human Evil (Psychology of Evil)](concepts/human-evil.md) | Peck's proposal that evil is a diagnosable personality disorder rooted in malignant narcissism and the compulsive refusal to acknowledge sinfulness; scapegoating as the clinical mechanism; evil vs. sin; the diagnostic signal of revulsion; connections to Jung's shadow and Myss's woundology; Frankl's fifth, anti-typological account from direct camp observation |
 | [Group Evil and MyLai](concepts/group-evil.md) | How individual evil is amplified in group settings through fragmentation of conscience, dependency on leaders, group narcissism, and specialisation — analysed through the 1968 MyLai massacre at five levels from the individual soldier to American society |
 | [Possession and Exorcism (Peck)](concepts/possession-and-exorcism.md) | Peck's investigation and two witnessed exorcisms — the process of possession, diagnostic criteria, the exorcism team approach, and the characterisation of Satan as "Father of Lies"; possession as the extreme end of the evil spectrum |
 

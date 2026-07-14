@@ -81,6 +81,8 @@ The process of individuation is the ego's gradually deepening relationship with 
 
 [James Hillman](../thinkers/james-hillman.md)'s *acorn theory* — the idea that the soul carries an image of its own completed form from birth — is a reformulation of the Jungian Self. Hillman's daimon (the guardian figure that guides the soul toward its unique calling) corresponds to the Self's anticipatory, forward-looking dimension that Jung describes in the individuation essay.
 
+**A sharper disagreement, stated directly**: [*Re-Visioning Psychology*](../sources/re-visioning-psychology.md) (1975) — Hillman's earlier, foundational statement, ingested to the wiki after *The Soul's Code* — makes an explicit accusation that the Acorn Theory softens: Jung's Self is a **"crypto-monotheism."** Even though Jung recognizes a plurality of archetypal figures, he still orders them beneath one governing centre (the Self) toward which individuation is understood to develop. Hillman argues the psyche is genuinely **polytheistic** and that no archetype — including the Self — is entitled to preside over the others as the goal of the whole. See [Polytheistic Psychology](polytheistic-psychology.md) for the full argument, and note that Hillman positions this as an internal revision of Jung (whom he credits with rediscovering personifying and archetypal autonomy), not a wholesale rejection.
+
 ### The Eighth Chakra
 
 In [*Sacred Contracts*](../sources/sacred-contracts.md), Myss introduces an eighth chakra above the crown as the seat of the Sacred Contract — the point where the soul's pre-birth agreement is stored. This corresponds structurally to the Jungian Self: a centre that transcends ego-consciousness and holds the totality of the soul's purpose.
@@ -143,3 +145,5 @@ Jung himself was carefully agnostic: he claimed only to describe the psychologic
 - [Sacred Contracts](sacred-contracts.md)
 - [Divine Potential](divine-potential.md)
 - [Grace and Charism](grace-and-charism.md)
+- [Polytheistic Psychology](polytheistic-psychology.md)
+- [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)

@@ -520,7 +520,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Hillman, J. (1975). *Re-visioning psychology*. Harper & Row.**
   Found in: Sacred Contracts, bibliography (archetypal psychology framework).
   Relevance: Foundation text of archetypal psychology; repositions the psyche as inherently polytheistic and imagination-centred.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-14
 
 - **Jung, C. G. (1969). *The archetypes and the collective unconscious* (Collected Works Vol. 9, Part 1, 2nd ed.). Princeton University Press.**
   Found in: Sacred Contracts (Norman Shealy appreciation; Jung on archetypes and the unconscious).
@@ -742,11 +742,21 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Hillman, J. (1975). *Re-visioning psychology*. Harper & Row.**
   Found in: The Soul's Code (theoretical foundation; also listed under Sacred Contracts).
   Relevance: Foundation text of archetypal psychology; repositions the psyche as inherently polytheistic and imagination-centred. Essential background for understanding Hillman's revision of Jungian individuation.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-14
 
 - **Hillman, J., & Ventura, M. (1992). *We've had a hundred years of psychotherapy — and the world's getting worse*. HarperSanFrancisco.**
   Found in: The Soul's Code, author biography and background.
   Relevance: Hillman's most accessible polemic — argues that therapy's focus on the individual psyche has failed because it is cut off from social, political, and ecological reality. Relevant to the critique section of the individuation and parental-fallacy concept pages.
+  Status: Not in vault.
+
+- **Hillman, J. (1979). *The dream and the underworld*. Harper & Row.**
+  Found in: Re-Visioning Psychology, author biography and cross-references (dream imagery belongs to the underworld, not the ego's daytime agenda).
+  Relevance: Hillman's own extended sequel argument — dreams as belonging to Hades/the underworld rather than to ego-development; directly continues Re-Visioning Psychology's "Hades, Persephone, and the Psychology of Death" section. Would deepen the soul-making and pathologizing concept pages.
+  Status: Not in vault.
+
+- **Jaspers, K. (1913). *Allgemeine Psychopathologie* [General psychopathology]. Springer.**
+  Found in: Re-Visioning Psychology, Chapter 2 ("Pathologizing: Falling Apart," the "Nihilism" style of denial).
+  Relevance: The founding critique of psychiatric diagnostic categories as unstable, culture- and clinician-dependent labels — the historical source Hillman credits for the "nihilism" position he partially endorses and partially rejects. Directly relevant to the wiki's pathologizing concept page and its mainstream-psychiatry contrast.
   Status: Not in vault.
 
 ---
@@ -1125,11 +1135,33 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Turner, V. (1969). *The ritual process: Structure and anti-structure*. Aldine Publishing.**
   Found in: Fire in the Soul, Part I (Turner's three-phase rite of passage — separation, liminality, reincorporation — is the structural backbone for Borysenko's crisis-as-initiation framework; the mwadi initiate of the Ndembu is cited directly).
   Relevance: The foundational anthropological text for liminality theory; essential companion to the crisis-as-initiation concept page and directly relevant to the initiation-rites page. Turner's Ndembu fieldwork grounds the cross-cultural claim that crisis follows a universal initiatory structure.
+  Status: Ingested 2026-07-14.
+
+- **van Gennep, A. (1909/1960). *The rites of passage* (M. B. Vizedom & G. L. Caffee, Trans.). University of Chicago Press.**
+  Found in: The Ritual Process (Turner builds his entire theory of liminality directly on van Gennep's original three-phase schema — separation, margin, aggregation — crediting him repeatedly throughout the book).
+  Relevance: The direct predecessor text to Turner's liminality and communitas theory, and to the wiki's initiation-rites page. Would let the wiki ground van Gennep's schema in his own original ethnographic examples (French and Central African rites) rather than only through Turner's elaboration of it.
   Status: Not in vault.
 
 - **Frankl, V. E. (1959). *Man's search for meaning*. Beacon Press. (Original German publication: *Ein Psychologe erlebt das Konzentrationslager*, 1946)**
   Found in: Fire in the Soul, Parts I and II (Frankl's logotherapy and his Auschwitz observations — particularly "He who has a why can bear almost any how" — are central to Borysenko's treatment of meaning-making as survival and spiritual optimism).
   Relevance: The foundational text of logotherapy; documents meaning as the decisive variable in surviving the Nazi camps and as the antidote to the existential vacuum of modern life. Central to the crisis-as-initiation, spiritual-optimism, and viktor-frankl pages. One of the bestselling books in history.
+  Status: ✓ Ingested 2026-07-11 (vault file is the expanded 4th ed., 1992, including Part Two and the 1984 tragic-optimism postscript; citation updated accordingly)
+
+### By Frankl (Other Works) and Cited Interlocutors
+
+- **Frankl, V. E. (1955). *The doctor and the soul: From psychotherapy to logotherapy*. Knopf.**
+  Found in: Man's Search for Meaning, footnote (an earlier, fuller book-length version of the logotherapy material condensed into Part Two of Man's Search for Meaning; Frankl notes it would take "twenty volumes" in German to cover fully what Part Two summarises).
+  Relevance: The more extensive systematic statement of logotherapy's theory and clinical technique than the "Nutshell" summary ingested here; would deepen the logotherapy concept page's treatment of noogenic neurosis and the meaning-centred diagnostic framework.
+  Status: Not in vault.
+
+- **Frankl, V. E. (1978). *The unheard cry for meaning: Psychotherapy and humanism*. Simon & Schuster.**
+  Found in: Man's Search for Meaning, Postscript (cited twice for supporting data — the alcoholism/addiction meaninglessness statistics and the existential-vacuum discussion).
+  Relevance: Frankl's own later elaboration of the existential vacuum and its mass-scale clinical consequences (addiction, depression, aggression) in industrial society; direct source material for the logotherapy concept page's existential-vacuum section.
+  Status: Not in vault.
+
+- **Allport, G. W. (1950). *The individual and his religion: A psychological interpretation*. Macmillan.**
+  Found in: Man's Search for Meaning, Part Two (Frankl quotes Allport's observation that "the neurotic learns to laugh at himself" as validation of paradoxical intention; Allport also wrote the book's original 1959 preface).
+  Relevance: Allport's psychology of religious maturity, written by Frankl's principal early American advocate; would contextualise the reception of logotherapy within mid-century American humanistic psychology and its overlap with Allport's own concept of the mature, meaning-oriented personality.
   Status: Not in vault.
 
 - **Grof, S. (1988). *The adventure of self-discovery: Dimensions of consciousness and new perspectives in psychotherapy and inner exploration*. State University of New York Press.**

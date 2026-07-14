@@ -5,8 +5,9 @@
 **Sources**:
 - [Borysenko, J. (1990). *Guilt is the teacher, love is the lesson*. Warner Books.](../sources/guilt-is-the-teacher.md)
 - [Borysenko, J. (1993). *Fire in the soul: A new psychology of spiritual optimism*. Warner Books.](../sources/fire-in-the-soul.md)
+- [Frankl, V. E. (1992). *Man's search for meaning: An introduction to logotherapy* (4th ed., I. Lasch, Trans.). Beacon Press. (Original work published 1946)](../sources/mans-search-for-meaning.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-11
 
 ---
 
@@ -124,7 +125,7 @@ The key extensions:
 
 **Einstein's question as cornerstone**: Borysenko identifies Albert Einstein's statement — that the most important question a person can ask is "Is the universe a friendly place?" — as the foundational variable from which all other beliefs cascade. Leslie's faith-based equanimity and Jay's fear-based punishment theology are two different answers to Einstein's question, and those answers determine the clinical trajectory.
 
-**Frankl's demonstration**: [Viktor Frankl](../thinkers/viktor-frankl.md)'s survival of four Nazi concentration camps through the cultivation of meaning provides the most extreme possible test of spiritual optimism. Frankl did not survive because he was in a friendly environment; he survived because he maintained a framework of meaning that converted unavoidable suffering into a task. This is spiritual optimism not as a comfort but as a survival variable.
+**Frankl's demonstration**: [Viktor Frankl](../thinkers/viktor-frankl.md)'s survival of four Nazi concentration camps through the cultivation of meaning provides the most extreme possible test of spiritual optimism. Frankl did not survive because he was in a friendly environment; he survived because he maintained a framework of meaning that converted unavoidable suffering into a task. This is spiritual optimism not as a comfort but as a survival variable. Frankl's own term for this stance — **tragic optimism**, developed in his 1984 postscript to [*Man's Search for Meaning*](../sources/mans-search-for-meaning.md) — is a more philosophically minimal cousin of Borysenko's spiritual optimism: it claims only that meaning remains available regardless of whether the universe is friendly, without Borysenko's further theological claim (Prodigal Son, Perennial Philosophy, Gnostic wisdom) that the universe is fundamentally loving. See [Logotherapy](logotherapy.md) for the full framework and this parallel spelled out.
 
 **Job's story (Mitchell translation)**: Stephen Mitchell's translation of the Book of Job recovers a reading suppressed by the Groveling-Job tradition: Job does not capitulate to divine power; he reaches a direct, shattering encounter with divine reality that dissolves his prior framework for suffering. Borysenko reads this as the book's archetype for spiritual optimism: not "God punishes the sinner" (the friends' position) but "suffering burns away the explanations and reveals the face of love."
 
@@ -169,6 +170,8 @@ The key extensions:
 - [Attitude and Health](attitude-and-health.md)
 - [The Psychology of Illness](the-psychology-of-illness.md)
 - [Fire in the Soul (source)](../sources/fire-in-the-soul.md)
+- [Man's Search for Meaning (source)](../sources/mans-search-for-meaning.md)
+- [Logotherapy](logotherapy.md)
 - [Crisis as Initiation](crisis-as-initiation.md)
 - [Stages of Faith](stages-of-faith.md)
 - [Near-Death Experiences](near-death-experiences.md)
