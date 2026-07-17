@@ -824,7 +824,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Van Gennep, A. (1960). *The rites of passage* (M. B. Vizedom & G. L. Caffee, Trans.). University of Chicago Press. (Original work published 1909)**
   Found in: Man and His Symbols, Part 2 (Henderson's chapter on ancient myths and modern man; the three-phase separation/liminality/incorporation model is the structural framework for his analysis of initiation rites).
   Relevance: The foundational anthropological text for the concept of initiation; Henderson's entire chapter on initiation rites rests on Van Gennep's schema. Essential companion to the initiation-rites concept page.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-17
 
 - **Eliade, M. (1958). *Rites and symbols of initiation: The mysteries of birth and rebirth* (W. R. Trask, Trans.). Harper & Row.**
   Found in: Man and His Symbols, Part 2 (Henderson cites Eliade's shamanism and initiation research as comparative evidence).
@@ -1140,7 +1140,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **van Gennep, A. (1909/1960). *The rites of passage* (M. B. Vizedom & G. L. Caffee, Trans.). University of Chicago Press.**
   Found in: The Ritual Process (Turner builds his entire theory of liminality directly on van Gennep's original three-phase schema — separation, margin, aggregation — crediting him repeatedly throughout the book).
   Relevance: The direct predecessor text to Turner's liminality and communitas theory, and to the wiki's initiation-rites page. Would let the wiki ground van Gennep's schema in his own original ethnographic examples (French and Central African rites) rather than only through Turner's elaboration of it.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-17
 
 - **Frankl, V. E. (1959). *Man's search for meaning*. Beacon Press. (Original German publication: *Ein Psychologe erlebt das Konzentrationslager*, 1946)**
   Found in: Fire in the Soul, Parts I and II (Frankl's logotherapy and his Auschwitz observations — particularly "He who has a why can bear almost any how" — are central to Borysenko's treatment of meaning-making as survival and spiritual optimism).
@@ -1748,4 +1748,33 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Whitehead, A. N. (1933). *Process and reality*. Macmillan.**
   Found in: Wholeness and the Implicate Order, Chapter 3 note 1 and Chapter 7 (Bohm's notion of consciousness as a sequence of moments, each enfolding traces of others, is explicitly compared to Whitehead's "actual occasions").
   Relevance: A primary source for the process-philosophy account of moments of experience that Bohm draws on to describe consciousness in implicate-order terms; relevant to `wiki/concepts/implicate-order.md`'s treatment of consciousness and moments.
+  Status: Not in vault.
+
+---
+
+## Key Works Cited in The Rites of Passage (van Gennep, 1909/1960)
+
+- **Durkheim, E. (1912). *Les formes élémentaires de la vie religieuse* [The elementary forms of religious life]. Félix Alcan.**
+  Found in: The Rites of Passage, Introduction to the English Edition (Kimball notes Durkheim's 1912 sociology-of-religion masterwork appeared three years after van Gennep's own book and, despite van Gennep's own 1906 work on totemism providing material Durkheim could have used, makes no mention of van Gennep — an instructive case of parallel, non-converging traditions).
+  Relevance: The founding text of the sociological study of religion and the sacred/profane distinction, developed independently of and in the same period as van Gennep's own sacred/profane "pivoting" theory; would let the wiki compare the two foundational, near-contemporaneous accounts of sacredness as directly as its Turner/van Gennep comparison already does.
+  Status: Not in vault.
+
+- **Bettelheim, B. (1954). *Symbolic wounds: Puberty rites and the envious male*. Free Press.**
+  Found in: The Rites of Passage, Introduction to the English Edition (Kimball cites Bettelheim's psychoanalytic re-reading of Freud's castration-anxiety theory of circumcision, adding womb-envy and the desire to acquire female reproductive attributes as a modifying factor).
+  Relevance: A significant later psychoanalytic counter-interpretation of initiation-rite mutilation that directly engages the same ethnographic material van Gennep surveys; would sharpen the wiki's initiation-rites page by giving the Freudian/psychoanalytic reading of circumcision and initiation a primary source distinct from the Jungian account already present via Henderson.
+  Status: Not in vault.
+
+- **Frazer, J. G. (1890). *The golden bough: A study in magic and religion*. Macmillan.**
+  Found in: The Rites of Passage, cited extensively throughout (funerary customs, seasonal/vegetation rites, the dying-and-rising god pattern, circumcision theory) — already listed under Sacred Contracts; confirmed here as one of van Gennep's most heavily cited sources.
+  Relevance: Already listed elsewhere in this file; van Gennep's citations reinforce its centrality to the wiki's dying-and-rising-god and initiation-rites material.
+  Status: Not in vault.
+
+- **Harrison, J. E. (1903). *Prolegomena to the study of Greek religion*. Cambridge University Press.**
+  Found in: The Rites of Passage, Chapter VI (van Gennep's primary source for the Eleusinian Mysteries' initiation structure — the definition of "mysteries," the *halade mystai* seaward procession, and the ritual sequence culminating in the revelation of the sacra).
+  Relevance: A foundational text of the Cambridge Ritualist school and the primary scholarly source for the Eleusinian material in van Gennep's initiation chapter; would deepen the wiki's Eleusinian Mysteries coverage (see `wiki/concepts/kore-eleusinian-mysteries.md`) with a second primary scholarly perspective alongside Kerényi's.
+  Status: Not in vault.
+
+- **Trumbull, H. C. (1896). *The threshold covenant: Or, the beginning of religious rites*. Charles Scribner's Sons.**
+  Found in: The Rites of Passage, Chapter II (van Gennep's primary source for threshold, doorway, and boundary rites across cultures — blood on doorposts, the mezuzah, guardian figures at gates).
+  Relevance: The main comparative-religion source underlying van Gennep's argument that social passage is modeled on spatial/territorial passage; would deepen `wiki/concepts/rites-of-passage-schema.md`'s territorial-passage section with primary ethnographic detail.
   Status: Not in vault.

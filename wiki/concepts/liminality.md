@@ -11,7 +11,7 @@
 
 ## From van Gennep to Turner
 
-[Arnold van Gennep](../thinkers/arnold-van-gennep.md) (1909) identified that rites of passage universally comprise three phases: separation, margin (limen), and aggregation. [Victor Turner](../thinkers/victor-turner.md), in *[The Ritual Process](../sources/the-ritual-process.md)* (1969), takes the middle phase — which he renames **liminality** — as the object of sustained theoretical attention van Gennep himself did not give it.
+[Arnold van Gennep](../thinkers/arnold-van-gennep.md) (1909) identified that rites of passage universally comprise three phases: separation, margin (limen), and aggregation — see [The Rites of Passage Schema](rites-of-passage-schema.md) for the full account, now grounded in the primary source. [Victor Turner](../thinkers/victor-turner.md), in *[The Ritual Process](../sources/the-ritual-process.md)* (1969), takes the middle phase — which he renames **liminality** — as the object of sustained theoretical attention van Gennep himself did not give it.
 
 Liminal *personae* ("threshold people") elude the normal network of classifications that locate people in cultural space: they are neither what they were nor what they will become. Turner catalogues the symbols societies use to represent this condition: death, the womb, invisibility, darkness, bisexuality, the wilderness, an eclipse of sun or moon. Liminal subjects are commonly disguised as monsters, stripped of clothing and property, addressed by a single genderless term, subjected to ordeals, and required to obey their instructors without complaint — while simultaneously developing intense comradeship and equality among themselves, since all distinctions of rank have been leveled.
 
@@ -45,6 +45,8 @@ Turner distinguishes two kinds of liminal ritual with opposite social direction:
 ## Related pages
 
 - [The Ritual Process (source)](../sources/the-ritual-process.md)
+- [The Rites of Passage (source)](../sources/the-rites-of-passage.md)
+- [The Rites of Passage Schema](rites-of-passage-schema.md)
 - [Communitas](communitas.md)
 - [Victor Turner](../thinkers/victor-turner.md)
 - [Arnold van Gennep](../thinkers/arnold-van-gennep.md)

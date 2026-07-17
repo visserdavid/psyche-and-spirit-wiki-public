@@ -4,6 +4,12 @@ All notable changes to the Psyche and Spirit Wiki are recorded here, newest firs
 
 ---
 
+## 2026-07-17
+
+### Added — *The Rites of Passage* (van Gennep, 1909/1960)
+
+New pages: `wiki/sources/the-rites-of-passage.md` and `wiki/concepts/rites-of-passage-schema.md` (the tripartite separation/transition/incorporation structure; territorial and spatial grounding of social passage in physical thresholds; the sacred/profane "pivoting" theory; initiation as the widest and most elaborated case, including van Gennep's comparative demographic evidence against equating "puberty rites" with biological puberty; his concluding "energetics" argument). This is the primary source for material previously known in the wiki only second-hand via `wiki/sources/the-ritual-process.md` and `wiki/thinkers/arnold-van-gennep.md` (created 2026-07-14). Updated `wiki/thinkers/arnold-van-gennep.md` (new source citation, fuller biography and theoretical summary, and a precise statement of what van Gennep established versus what Turner later added), `wiki/concepts/liminality.md`, `wiki/concepts/communitas.md`, `wiki/concepts/initiation-rites.md`, `wiki/concepts/crisis-as-initiation.md`, and `wiki/sources/the-ritual-process.md` (cross-links to the new primary source and concept page). Updated `wiki/index.md`, `README.md` (53 -> 54 sources, 192 -> 193 concepts, 325 -> 327 pages), and `wiki/potential-sources.md` (marked both existing duplicate van Gennep entries as ingested). Added the previously-untracked raw file to git.
+
 ## 2026-07-14
 
 ### Added — *The Ritual Process* (Turner, 1969)

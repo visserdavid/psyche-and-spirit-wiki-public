@@ -17,7 +17,7 @@ The rite does not merely mark biological or social change. It *enacts* that chan
 
 ## Structure
 
-[Van Gennep](../thinkers/arnold-van-gennep.md)'s classic analysis (referenced in the broader Jungian tradition, and elaborated in full by [Victor Turner](../thinkers/victor-turner.md) — see [Liminality](liminality.md) and [Communitas](communitas.md)) identifies three phases common to all rites of passage:
+[Van Gennep](../thinkers/arnold-van-gennep.md)'s classic analysis — now ingested directly, see *[The Rites of Passage](../sources/the-rites-of-passage.md)* and [The Rites of Passage Schema](rites-of-passage-schema.md) — and elaborated in full by [Victor Turner](../thinkers/victor-turner.md) (see [Liminality](liminality.md) and [Communitas](communitas.md)) identifies three phases common to all rites of passage:
 
 1. **Separation**: The initiate is removed from ordinary life — literally or symbolically separated from the community, the family home, the previous social role. This phase dissolves the prior identity.
 
@@ -67,11 +67,12 @@ The psychological work of analysis can function as a self-initiated rite of pass
 
 **Romanticisation of tradition**: The Jungian account of initiation rites tends to romanticise them, overlooking the violence, trauma, and coercion that often accompany them in practice. The death symbolism sometimes involves real physical harm; the "container and guidance" that modern rites lack was also a mechanism of social control.
 
-**Cross-cultural generalisation**: Van Gennep's three-part structure, and Henderson's hero myth framework, impose a universal schema on diverse practices. The specific meaning of a rite within its own cultural context may not reduce to the universal pattern.
+**Cross-cultural generalisation**: Van Gennep's three-part structure, and Henderson's hero myth framework, impose a universal schema on diverse practices. The specific meaning of a rite within its own cultural context may not reduce to the universal pattern — a critique van Gennep himself anticipated by presenting his 1909 study as an invitation for readers to test the scheme further rather than as a demonstrated law (see [The Rites of Passage Schema § Critique](rites-of-passage-schema.md#critique)).
 
 ## Related pages
 
 - [Man and His Symbols (source)](../sources/man-and-his-symbols.md)
+- [The Rites of Passage (source)](../sources/the-rites-of-passage.md)
 - [Joseph L. Henderson](../thinkers/joseph-henderson.md)
 - [Hero Myth](hero-myth.md)
 - [Trickster Archetype](trickster-archetype.md)
@@ -82,5 +83,6 @@ The psychological work of analysis can function as a self-initiated rite of pass
 - [Sacred Contracts](sacred-contracts.md)
 - [Liminality](liminality.md)
 - [Communitas](communitas.md)
+- [The Rites of Passage Schema](rites-of-passage-schema.md)
 - [Arnold van Gennep](../thinkers/arnold-van-gennep.md)
 - [Victor Turner](../thinkers/victor-turner.md)

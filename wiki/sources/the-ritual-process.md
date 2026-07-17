@@ -26,7 +26,7 @@ Turner reads these rituals via Ndembu exegesis (asking practitioners what the sy
 
 ## Liminality and the Rite of Passage
 
-Building on [Arnold van Gennep](../thinkers/arnold-van-gennep.md)'s three-phase model of rites of passage (separation, margin/limen, reaggregation), Turner elaborates the middle, liminal phase in depth — the "threshold" condition of ritual subjects who are "betwixt and between" ordinary social categories, structurally invisible, stripped of status, and marked by symbols of death, gestation, or formlessness. See [Liminality](../concepts/liminality.md) for the full account, including Turner's famous table of oppositions between liminality and normal status, his analysis of the Ndembu Kanongesha chieftainship installation rite, and his extension of the concept to status-reversal rituals like Halloween.
+Building on [Arnold van Gennep](../thinkers/arnold-van-gennep.md)'s three-phase model of rites of passage (separation, margin/limen, reaggregation — see *[The Rites of Passage](the-rites-of-passage.md)*, now ingested directly), Turner elaborates the middle, liminal phase in depth — the "threshold" condition of ritual subjects who are "betwixt and between" ordinary social categories, structurally invisible, stripped of status, and marked by symbols of death, gestation, or formlessness. See [Liminality](../concepts/liminality.md) for the full account, including Turner's famous table of oppositions between liminality and normal status, his analysis of the Ndembu Kanongesha chieftainship installation rite, and his extension of the concept to status-reversal rituals like Halloween.
 
 ## Communitas and the Structure/Anti-Structure Dialectic
 
@@ -40,8 +40,10 @@ The book has been cited across history of religions, literary theory, theology, 
 
 - [Liminality](../concepts/liminality.md)
 - [Communitas](../concepts/communitas.md)
+- [The Rites of Passage Schema](../concepts/rites-of-passage-schema.md)
 - [Crisis as Initiation](../concepts/crisis-as-initiation.md)
 - [Initiation Rites](../concepts/initiation-rites.md)
 - [Victor Turner](../thinkers/victor-turner.md)
 - [Arnold van Gennep](../thinkers/arnold-van-gennep.md)
 - [Fire in the Soul (source)](fire-in-the-soul.md)
+- [The Rites of Passage (source)](the-rites-of-passage.md)

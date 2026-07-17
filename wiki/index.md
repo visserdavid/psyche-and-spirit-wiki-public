@@ -61,6 +61,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Man's Search for Meaning](sources/mans-search-for-meaning.md) | Frankl (1946/1992) — first-person account of survival in four Nazi concentration camps; logotherapy's will to meaning, existential vacuum, and three routes to meaning; paradoxical intention and dereflection; the 1984 tragic-optimism postscript; a fifth, anti-typological account within the wiki's psychology-of-evil cluster |
 | [Re-Visioning Psychology](sources/re-visioning-psychology.md) | Hillman (1975) — the foundational manifesto of archetypal psychology (1972 Terry Lectures): soul-making and personifying, pathologizing as necessary soul-activity, psychologizing/ideation, and the explicit polytheism-vs-monotheism critique of Jung's individuation-toward-the-Self |
 | [The Ritual Process](sources/the-ritual-process.md) | Turner (1969) — foundational text of liminality and communitas theory, built from Ndembu fieldwork (the Isoma and Wubwang'u rituals); the Kanongesha chieftainship installation; the structure/anti-structure dialectic traced through the Franciscan poverty movement and the Bengali Sahajiya-Vaishnava devotional movement |
+| [The Rites of Passage](sources/the-rites-of-passage.md) | van Gennep (1909/1960) — the founding text of ritual theory: the tripartite separation/transition/incorporation schema across territorial passage, birth, initiation, marriage, funerals, and the calendar; sacred/profane "pivoting"; the direct theoretical ancestor of Turner's liminality and communitas |
 
 ---
 
@@ -145,7 +146,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Robert Bly](thinkers/robert-bly.md) | American poet and men's-movement leader (1926–2021); *A Little Book on the Human Shadow* (1988) popularised Jung's shadow as the "shadow bag" everyone carries |
 | [Gershen Kaufman](thinkers/gershen-kaufman.md) | American clinical psychologist; *Shame: The Power of Caring*; the "interpersonal bridge" metaphor central to Borysenko's account of childhood shame |
 | [Melvin Morse](thinkers/melvin-morse.md) | American pediatrician (b. 1953); *Closer to the Light* (1990), the first systematic study of children's near-death experiences |
-| [Arnold van Gennep](thinkers/arnold-van-gennep.md) | French-Dutch ethnographer and folklorist (1873–1957); *Les rites de passage* (1909) coined the term and identified the universal three-phase structure (separation, margin, aggregation) — the direct theoretical foundation for Turner's liminality and communitas |
+| [Arnold van Gennep](thinkers/arnold-van-gennep.md) | French ethnographer and folklorist (1873–1957); *The Rites of Passage* (1909, now ingested) coined the term and identified the universal three-phase structure (separation, margin, aggregation), grounded in territorial passage and sacred/profane "pivoting" — the direct theoretical foundation for Turner's liminality and communitas |
 
 ---
 
@@ -257,10 +258,11 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Centering Prayer](concepts/centering-prayer.md) | Thomas Keating's practice: the sacred word as pointer to divine presence (not mantra); the river of presence (identifying with consciousness rather than its contents); relationship to Benson's relaxation response and Buddhist mindfulness |
 | [Past-Life Therapy](concepts/past-life-therapy.md) | Brian Weiss, Roger Woolger, and the therapeutic use of apparent past-life memories; Henry Corbin's imaginal realm; samskaras and karma cleaning (Elizabeth Lawrence's Mari El healing); Borysenko's personal regressions; theoretical frameworks |
 
-### The Ritual Process Framework (Turner, 1969)
+### The Ritual Process Framework (Turner, 1969) and The Rites of Passage (van Gennep, 1909/1960)
 
 | Page | Description |
 |------|-------------|
+| [The Rites of Passage Schema](concepts/rites-of-passage-schema.md) | Van Gennep's tripartite separation/transition/incorporation structure; territorial and spatial grounding (thresholds, boundaries); sacred/profane "pivoting"; initiation as the widest case; the direct theoretical ancestor of Turner's liminality and communitas |
 | [Liminality](concepts/liminality.md) | Turner's elaboration of van Gennep's "threshold" phase of a rite of passage: the Ndembu Isoma ritual and Kanongesha chieftainship installation, the table of oppositions between liminal and structured status, and the distinction between status-elevation and status-reversal rituals (Halloween, court jesters) |
 | [Communitas](concepts/communitas.md) | Turner's structure/anti-structure dialectic: the egalitarian bond liminality generates, its three modalities (spontaneous, normative, ideological), and its historical trajectory through the Franciscan poverty movement and the Bengali Sahajiya-Vaishnava devotional movement |
 

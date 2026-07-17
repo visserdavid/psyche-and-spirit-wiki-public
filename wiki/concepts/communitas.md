@@ -50,6 +50,7 @@ Turner extends communitas to social movements more broadly: prophetic and millen
 ## Related pages
 
 - [The Ritual Process (source)](../sources/the-ritual-process.md)
+- [The Rites of Passage Schema](rites-of-passage-schema.md)
 - [Liminality](liminality.md)
 - [Victor Turner](../thinkers/victor-turner.md)
 - [Arnold van Gennep](../thinkers/arnold-van-gennep.md)
