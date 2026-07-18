@@ -6,8 +6,9 @@
 - [Jung, C. G. (1966). *Two essays on analytical psychology* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 7). Princeton University Press.](../sources/two-essays-on-analytical-psychology.md)
 - [Jung, C. G. (1969). *The archetypes and the collective unconscious* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 1). Princeton University Press.](../sources/collected-works-9-1.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
+- [Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.](../sources/a-new-science-of-life.md)
 
-**Last updated**: 2026-07-09 (updated after *Two Essays on Analytical Psychology* ingest)
+**Last updated**: 2026-07-18 (updated after *A New Science of Life* ingest)
 
 ---
 
@@ -89,6 +90,8 @@ Myss's [Sacred Contracts](sacred-contracts.md) framework is, at one level, an ap
 
 **The cognitive science alternative**: Contemporary cognitive science and evolutionary psychology provide naturalistic explanations for some of what Jung attributed to the collective unconscious — specifically, that certain narrative structures and symbolic categories are universal because they reflect universal features of human experience (kinship, predation, reproduction, mortality), not because they inhabit a shared psychic substrate.
 
+**A biological parallel — and its limits**: Biologist Rupert Sheldrake explicitly cites Jung's collective unconscious in *[A New Science of Life](../sources/a-new-science-of-life.md)* (1981) as a psychological precedent for his own hypothesis of [morphic resonance](morphic-resonance.md) — both propose a form of inherited, trans-individual "memory" not stored in any individual brain or genome. Sheldrake even suggests that if memories are not physically localised in the brain (he cites K. S. Lashley's decades of failed attempts to find a single memory trace), Jung's notion of an inherited collective unconscious "containing archetypal forms" could be reinterpreted as a special case of morphic resonance acting in nervous systems. The parallel is structural, not an endorsement: Jung's hypothesis concerns shared human psychic imagery specifically, while Sheldrake's morphic fields are proposed to operate across all of nature, from crystals to instinct, and morphic resonance is itself unaccepted by mainstream biology (see [Morphic Resonance § Reception and Critique](morphic-resonance.md#reception-and-critique)) — so it lends no independent scientific support to the collective unconscious, only a companion piece from the same fringe of naturalistic speculation.
+
 **Note**: The collective unconscious as described by Jung — a literal shared psychic field accessible by all humans — is not accepted as a scientific concept by mainstream psychology. It remains a powerful metaphorical and clinical framework, productive for therapeutic and meaning-making purposes even when its metaphysical claims are disputed.
 
 ## Related pages
@@ -100,6 +103,7 @@ Myss's [Sacred Contracts](sacred-contracts.md) framework is, at one level, an ap
 - [Carl Jung](../thinkers/carl-jung.md)
 - [Joseph L. Henderson](../thinkers/joseph-henderson.md)
 - [Archetypes](archetypes.md)
+- [Morphic Resonance](morphic-resonance.md)
 - [The Self](the-self.md)
 - [Shadow](shadow.md)
 - [Anima and Animus](anima-animus.md)

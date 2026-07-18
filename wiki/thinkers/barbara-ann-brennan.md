@@ -44,7 +44,7 @@ She grounds her model empirically wherever possible — citing laboratory measur
 
 **Rosalyn Bruyere**: Rev. Bruyere (Healing Light Center, Glendale, California) collaborated with Valorie Hunt's UCLA research, providing real-time auric colour observations during rolfing sessions that were correlated with instrument-measured frequencies. Brennan trained with Bruyere and adopts her seven-layer system as the one she uses clinically.
 
-**Wilhelm Reich**: Foundational for the character structure framework. Brennan extends Reich's five character structures (schizoid, oral, psychopathic, masochistic, rigid) by mapping their distinctive auric signatures — making visible in the HEF what Reich described as character armoring in the physical and emotional body.
+**Wilhelm Reich**: Foundational for the character structure framework. Brennan extends the five bioenergetic character structures (schizoid, oral, psychopathic, masochistic, rigid) — Lowen and Pierrakos's expansion of [Reich's original four-part typology](../concepts/reich-character-types.md) (hysterical, compulsive, phallic-narcissistic, masochistic) in *[Character Analysis](../sources/character-analysis.md)* — by mapping their distinctive auric signatures, making visible in the HEF what Reich described as [character armoring](../concepts/character-armor.md) in the physical and emotional body.
 
 **Heyoan**: Brennan's spirit guide, whose name means "Wind Whispering Truth Across the Centuries." Heyoan channels diagnostic and teaching information throughout her healing and writing practice. Brennan describes a gradual deepening relationship over years, in which she learned to distinguish Heyoan's communication from her own mental processes.
 

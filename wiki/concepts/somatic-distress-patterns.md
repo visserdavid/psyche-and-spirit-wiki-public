@@ -96,11 +96,14 @@ The key difference: Keleman's patterns are descriptive of body structure observa
 
 ## Critique
 
-Keleman's typology is clinically derived and has no independent empirical validation. Character typologies are common in body-centered and depth psychologies (Reich's character types, Lowen's bioenergetic characters, DSM personality categories) — they offer heuristic utility but do not constitute established science. The specific family-of-origin histories Keleman assigns to each type are also clinical observations, not controlled findings. Mainstream psychology would regard these as hypotheses requiring investigation, not established conclusions.
+Keleman's typology is clinically derived and has no independent empirical validation. Character typologies are common in body-centered and depth psychologies ([Reich's character types](reich-character-types.md), Lowen's bioenergetic characters, DSM personality categories) — they offer heuristic utility but do not constitute established science. The specific family-of-origin histories Keleman assigns to each type are also clinical observations, not controlled findings. Mainstream psychology would regard these as hypotheses requiring investigation, not established conclusions.
 
 ## Related pages
 
 - [Stanley Keleman](../thinkers/stanley-keleman.md)
+- [Wilhelm Reich](../thinkers/wilhelm-reich.md)
+- [Character Armor](character-armor.md)
+- [Reich's Character Types](reich-character-types.md)
 - [Emotional Anatomy (source)](../sources/emotional-anatomy.md)
 - [Pulsation](pulsation.md)
 - [Insults to Form](insults-to-form.md)

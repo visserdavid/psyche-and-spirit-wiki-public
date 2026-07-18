@@ -5,7 +5,7 @@
 **Sources**:
 - [Brennan, B. A. (1987). *Hands of light: A guide to healing through the human energy field*. Pleiades Books.](hands-of-light.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-18
 
 ---
 
@@ -129,7 +129,7 @@ Brennan systematically situates HSP and the HEF within scientific frameworks:
 
 - **Western physics**: Newtonian → field theory (Faraday, Maxwell) → relativity (Einstein: matter = energy) → quantum paradox (wave-particle duality, complementarity, probability waves) → holographic universe (Bohm's implicate order, Pribram's holographic brain model)
 - **Bell's theorem** (1964): non-local connections between particles support non-local healing
-- **Sheldrake's morphogenetic fields**: organizing fields that shape form and behaviour
+- **Sheldrake's [morphogenetic fields](../concepts/morphic-resonance.md)**: organizing fields that shape form and behaviour, now primary-sourced in the wiki via *[A New Science of Life](a-new-science-of-life.md)* (1981)
 - **Laboratory evidence for HEF**: Burr & Northrop (Yale L-fields, 1939); Ravitz (HEF fluctuates with mental state, 1959); Inyushin (bioplasma state of matter); Hunt & Bruyere (UCLA, 1977: auric colors correlated with measurable frequencies of 250–2000 Hz); SQUID measurements; Chinese Qigong research
 - **Historical tradition**: 97 cultures identified with 97 names for the HEF (White & Krippner); 5,000-year Prana tradition; Chinese Ch'i; Kabbalah; Theosophical tradition (Blavatsky, Leadbeater, Steiner)
 

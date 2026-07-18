@@ -14,7 +14,7 @@
 
 Stanley Keleman (born 1931) is an American somatic psychologist, educator, and author based in Berkeley, California, where he directs the Center for Energetic Studies. He has spent over thirty years developing what he calls **Formative Psychology** — an approach to human experience grounded in the body's biological processes of shaping, organization, and pulsation.
 
-Keleman's work spans the body-centered psychotherapy tradition that includes [Wilhelm Reich](wilhelm-reich.md) and [Alexander Lowen](alexander-lowen.md), but his emphasis is on biological formation rather than character analysis or catharsis. His primary focus is on how life makes shapes — how the body's form is continuously organized and reorganized by developmental history, stress responses, relational experience, and the fundamental biological rhythm of pulsation.
+Keleman's work spans the body-centered psychotherapy tradition that includes [Wilhelm Reich](wilhelm-reich.md) and [Alexander Lowen](alexander-lowen.md), but his emphasis is on biological formation rather than character analysis or catharsis — where Reich's *[Character Analysis](../sources/character-analysis.md)* derives [somatic patterns](../concepts/character-armor.md) from psychoanalytic drive theory and infantile conflict, Keleman derives his [somatic distress patterns](../concepts/somatic-distress-patterns.md) from embryology and pulsatory biology, treating them as biographical solutions rather than defenses against repressed content. His primary focus is on how life makes shapes — how the body's form is continuously organized and reorganized by developmental history, stress responses, relational experience, and the fundamental biological rhythm of pulsation.
 
 ## Embodying Experience (1987): The Methodology
 
@@ -93,6 +93,8 @@ Keleman's work is not empirically validated in the conventional sense — his ty
 - [Embodying Experience (source)](../sources/embodying-experience.md)
 - [Wilhelm Reich](wilhelm-reich.md)
 - [Alexander Lowen](alexander-lowen.md)
+- [Character Armor](../concepts/character-armor.md)
+- [Reich's Character Types](../concepts/reich-character-types.md)
 - [HOw Process (Five Steps)](../concepts/how-process.md)
 - [Somagrams](../concepts/somagrams.md)
 - [Pulsation](../concepts/pulsation.md)

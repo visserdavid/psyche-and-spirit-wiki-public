@@ -62,6 +62,8 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Re-Visioning Psychology](sources/re-visioning-psychology.md) | Hillman (1975) — the foundational manifesto of archetypal psychology (1972 Terry Lectures): soul-making and personifying, pathologizing as necessary soul-activity, psychologizing/ideation, and the explicit polytheism-vs-monotheism critique of Jung's individuation-toward-the-Self |
 | [The Ritual Process](sources/the-ritual-process.md) | Turner (1969) — foundational text of liminality and communitas theory, built from Ndembu fieldwork (the Isoma and Wubwang'u rituals); the Kanongesha chieftainship installation; the structure/anti-structure dialectic traced through the Franciscan poverty movement and the Bengali Sahajiya-Vaishnava devotional movement |
 | [The Rites of Passage](sources/the-rites-of-passage.md) | van Gennep (1909/1960) — the founding text of ritual theory: the tripartite separation/transition/incorporation schema across territorial passage, birth, initiation, marriage, funerals, and the calendar; sacred/profane "pivoting"; the direct theoretical ancestor of Turner's liminality and communitas |
+| [Character Analysis](sources/character-analysis.md) | Reich (1933/1949) — the foundational text of body-centered psychotherapy: character armor as the somatic-psychic unity, character resistance analysis as clinical technique, the four character types (hysterical, compulsive, phallic-narcissistic, masochistic), orgastic potency as the measure of health, and the re-analysis of masochism as a refutation of Freud's death instinct |
+| [A New Science of Life](sources/a-new-science-of-life.md) | Sheldrake (1981) — the primary-sourced hypothesis of morphic resonance: morphogenetic fields as non-energetic causation, the McDougall rat-learning experiments as central evidence, and the 1981 *Nature* "book for burning" controversy over its scientific status |
 
 ---
 
@@ -103,7 +105,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Joseph L. Henderson](thinkers/joseph-henderson.md) | American Jungian analyst (1903–2007); wrote the ancient myths section of *Man and His Symbols*; developed the Winnebago four-cycle hero model and the concept of the cultural unconscious |
 | [Aniela Jaffé](thinkers/aniela-jaffe.md) | Swiss Jungian analyst (1903–1991); Jung's secretary; edited *Memories, Dreams, Reflections*; wrote the visual arts section of *Man and His Symbols* on stone, animal, and circle symbolism |
 | [John Pierrakos](thinkers/john-pierrakos.md) | Greek-American psychiatrist (1921–2001); co-developer of bioenergetics with Lowen; founder of Core Energetics; primary teacher and intellectual precursor to Barbara Ann Brennan |
-| [Wilhelm Reich](thinkers/wilhelm-reich.md) | Austrian psychiatrist (1897–1957); originally in Freud's circle; developed character armor and orgone theory; common root of the body-centered psychotherapy tradition (Lowen's bioenergetics, Pierrakos's Core Energetics, Brennan's auric character structures, Keleman's somatic distress patterns) |
+| [Wilhelm Reich](thinkers/wilhelm-reich.md) | Austrian psychiatrist (1897–1957); originally in Freud's circle; author of *Character Analysis* (1933); developed character armor, character resistance analysis, orgastic potency, and orgone theory; common root of the body-centered psychotherapy tradition (Lowen's bioenergetics, Pierrakos's Core Energetics, Brennan's auric character structures, Keleman's somatic distress patterns) |
 | [Jolande Jacobi](thinkers/jolande-jacobi.md) | Hungarian-Swiss Jungian analyst (1890–1973); co-founder of the Jung Institute; wrote the individual analysis section of *Man and His Symbols* presenting the extended "Henry" case study |
 | [Barbara Ann Brennan](thinkers/barbara-ann-brennan.md) | American healer and former NASA research scientist; developed the most detailed published model of the seven-layer Human Energy Field; founder of the Barbara Brennan School of Healing |
 | [Abraham Maslow](thinkers/abraham-maslow.md) | American psychologist (1908–1970); founder of humanistic psychology; hierarchy of needs; concept of self-actualization and peak experiences; his "metapathology" (suffering from thwarted meaning-need) parallels Frankl's existential vacuum |
@@ -136,7 +138,7 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Alexander Lowen](thinkers/alexander-lowen.md) | American physician and psychotherapist (1910–2008); Reich student who co-developed bioenergetic analysis with Pierrakos; common ancestor of Brennan's and Keleman's body-centred frameworks |
 | [Walter Cannon](thinkers/walter-cannon.md) | American physiologist (1871–1945); Harvard; coined "fight-or-flight," developed homeostasis, and documented "voodoo death" — Dossey's No-Exit Syndrome |
 | [Suzanne Kobasa](thinkers/suzanne-kobasa.md) | American psychologist; introduced psychological hardiness (1979) — commitment, control, challenge — as the attitude cluster buffering life stress, confirmed longitudinally by Vaillant's Grant Study |
-| [Rupert Sheldrake](thinkers/rupert-sheldrake.md) | English biologist (b. 1942); proposed morphic resonance in *A New Science of Life* (1981); Ring's proposed propagation mechanism for the Omega Hypothesis |
+| [Rupert Sheldrake](thinkers/rupert-sheldrake.md) | English biologist (b. 1942); proposed morphic resonance in *A New Science of Life* (1981, now ingested); Ring's proposed propagation mechanism for the Omega Hypothesis; provoked *Nature*'s 1981 "book for burning" editorial |
 | [Pierre Teilhard de Chardin](thinkers/pierre-teilhard-de-chardin.md) | French Jesuit paleontologist (1881–1955); *The Phenomenon of Man* (1955) proposed the evolutionary Omega Point that Kenneth Ring adopts as NDE research's evolutionary destination |
 | [Victor Turner](thinkers/victor-turner.md) | British cultural anthropologist (1920–1983); Ndembu fieldwork; *The Ritual Process* (1969, now ingested) — three-phase rite of passage, liminality, and communitas, the anthropological backbone of Borysenko's crisis-as-initiation framework |
 | [Anne Wilson Schaef](thinkers/anne-wilson-schaef.md) | American clinical psychologist (1934–2020); *When Society Becomes an Addict* (1987) reframed patriarchal culture as a self-perpetuating addictive system; adapted by Northrup to women's health |
@@ -393,6 +395,17 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Parental Fallacy](concepts/parental-fallacy.md) | Hillman's critique of parenting-determines-character: biographical evidence both ways, behavioral genetics support, why the fallacy persists, and what damage it causes |
 | [Esse Percipi](concepts/esse-percipi.md) | "To be is to be perceived" — the soul's image needs a witness; mentoring as ontological act; Hillman's biographical cases (Washington/Hamilton, Darwin/Henslow, Capote/Wood) |
 
+### Body-Centered Psychotherapy Origins (Reich, 1933/1949)
+
+| Page | Description |
+|------|-------------|
+| [Character Armor](concepts/character-armor.md) | Reich's core theory: chronic character traits and chronic muscular tension are the same defensive structure; the genital character vs. neurotic character distinction; sublimation vs. reaction formation; root of the wiki's entire body-centered psychotherapy lineage |
+| [Character Resistance Analysis](concepts/character-resistance-analysis.md) | Reich's clinical technique of analyzing the *form* of a patient's behavior (tone, posture, politeness, irony) as a resistance in its own right, prior to interpreting content |
+| [Reich's Character Types](concepts/reich-character-types.md) | The primary-source typology (hysterical, compulsive, phallic-narcissistic, masochistic) that Lowen and Pierrakos later expanded into the five bioenergetic/auric character structures |
+| [Orgastic Potency](concepts/orgastic-potency.md) | Reich's sex-economic theory that full orgastic discharge, not mere erective/ejaculatory potency, is the single measure of psychic health |
+| [Masochism and the Death Instinct](concepts/masochism-and-death-instinct.md) | Reich's re-analysis of masochism as inhibited pre-orgastic pleasure ("melting" sensation blocked by fear of punishment), offered as a clinical refutation of Freud's death instinct |
+| [The Emotional Plague](concepts/emotional-plague.md) | Reich's concept of a socially transmitted, character-rooted biopathy of moralizing envy and rationalized cruelty — his psychological account of mass phenomena like fascism and the Inquisition |
+
 ### Somatic Psychology (Keleman, 1985–1987)
 
 | Page | Description |
@@ -543,6 +556,12 @@ A structured knowledge base on depth psychology, mysticism, and holistic health,
 | [Fragmentation and Wholeness](concepts/fragmentation-and-wholeness.md) | Bohm's argument, from *Wholeness and the Implicate Order*, that mistaking convenient divisions of thought (nations, professions, the separate ego) for real divisions in the world is the generative mechanism behind social, ecological, and psychological crisis; motivates his experimental verb-based "rheomode" language |
 | [Holonomic Brain](concepts/holonomic-brain.md) | Pribram's model that the brain uses Fourier (holographic) mathematics to store memory distributed across neural tissue — confirmed by DeValois (1979); explains phantom limb, associative recall, vast capacity, and skill transfer; forms the neuroscience half of the holographic paradigm; cited directly by Bohm as evidence for the implicate order in consciousness |
 | [Placebo Effect](concepts/placebo-effect.md) | The well-documented phenomenon in which inert treatments produce measurable biological changes — explained holographically as evidence that the brain cannot distinguish imagined from real stimuli; includes the Krebiozen case, method effects, nocebo, and MPD as extended placebo |
+
+### A New Science of Life Framework (Sheldrake, 1981)
+
+| Page | Description |
+|---|---|
+| [Morphic Resonance](concepts/morphic-resonance.md) | Sheldrake's hypothesis that form and behaviour are shaped by cumulative, non-energetic resonance with all previous similar systems; morphogenetic fields as "formative causation"; the McDougall/Crew/Agar rat-learning experiments; the 1981 *Nature* "book for burning" controversy; parallels to Jung's collective unconscious and Bohm's implicate order |
 
 ### The Tibetan Book of Living and Dying Framework (Sogyal Rinpoche, 1992)
 

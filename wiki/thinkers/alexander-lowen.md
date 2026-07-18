@@ -13,11 +13,11 @@
 
 ## Biography
 
-Alexander Lowen (1910–2008) trained as a physician (M.D., 1954) after first studying with [Wilhelm Reich](wilhelm-reich.md) in New York during the 1940s and early 1950s, undergoing and then practising Reich's vegetotherapy. Working alongside fellow Reich student John Pierrakos, Lowen developed **bioenergetic analysis** — a body-centred psychotherapy that retains Reich's core premise (that character is structured in the body as chronic muscular tension, or "armoring") while dropping Reich's more speculative orgone-energy physics in favour of a therapy grounded in breathing, grounding exercises, and specific stress postures designed to release blocked tension and restore the natural flow of feeling. Lowen founded and directed the International Institute for Bioenergetic Analysis in New York, and wrote extensively for a popular audience (*The Language of the Body*, *Bioenergetics*, *The Betrayal of the Body*, *Fear of Life*), doing more than any other single figure to carry Reich's clinical insights into mainstream psychotherapeutic practice.
+Alexander Lowen (1910–2008) trained as a physician (M.D., 1954) after first studying with [Wilhelm Reich](wilhelm-reich.md) in New York during the 1940s and early 1950s, undergoing and then practising Reich's vegetotherapy. Working alongside fellow Reich student John Pierrakos, Lowen developed **bioenergetic analysis** — a body-centred psychotherapy that retains Reich's core premise (that character is structured in the body as chronic muscular tension, or "[armoring](../concepts/character-armor.md)") while dropping Reich's more speculative orgone-energy physics in favour of a therapy grounded in breathing, grounding exercises, and specific stress postures designed to release blocked tension and restore the natural flow of feeling. Lowen founded and directed the International Institute for Bioenergetic Analysis in New York, and wrote extensively for a popular audience (*The Language of the Body*, *Bioenergetics*, *The Betrayal of the Body*, *Fear of Life*), doing more than any other single figure to carry Reich's clinical insights into mainstream psychotherapeutic practice.
 
 ## Key Contribution: Bioenergetic Character Structures
 
-Lowen and Pierrakos systematised Reich's character-armoring observations into a typology of five character structures (schizoid, oral, psychopathic, masochistic, rigid), each defined by a characteristic childhood wound, bodily holding pattern, and defensive strategy. This typology is the direct clinical source [Barbara Ann Brennan](barbara-ann-brennan.md) adapts into [auric terms](../concepts/character-structures-auric.md), adding a Human Energy Field signature to each structure alongside its bodily and psychological description.
+Lowen and Pierrakos systematised Reich's [character-armoring](../concepts/character-armor.md) observations — originally a typology of four types (hysterical, compulsive, phallic-narcissistic, masochistic; see [Reich's Character Types](../concepts/reich-character-types.md)) — into an expanded typology of five character structures (adding schizoid, and reworking the others as oral, psychopathic, masochistic, rigid), each defined by a characteristic childhood wound, bodily holding pattern, and defensive strategy. This typology is the direct clinical source [Barbara Ann Brennan](barbara-ann-brennan.md) adapts into [auric terms](../concepts/character-structures-auric.md), adding a Human Energy Field signature to each structure alongside its bodily and psychological description.
 
 Lowen's central technical contribution beyond Reich was **grounding**: a set of standing, breathing, and bowing exercises designed to reconnect a person's energy and awareness to the legs and feet, on the premise that many defensive character patterns operate by withdrawing energy upward and away from full-bodied contact with the ground and with reality.
 
@@ -35,6 +35,8 @@ Bioenergetic analysis has a substantial clinical following (the IIBA remains act
 - [John Pierrakos](john-pierrakos.md)
 - [Barbara Ann Brennan](barbara-ann-brennan.md)
 - [Stanley Keleman](stanley-keleman.md)
+- [Character Armor](../concepts/character-armor.md)
+- [Reich's Character Types](../concepts/reich-character-types.md)
 - [Character Structures (Auric)](../concepts/character-structures-auric.md)
 - [Bioelectromagnetism](../concepts/bioelectromagnetism.md)
 - [Somatic Distress Patterns](../concepts/somatic-distress-patterns.md)

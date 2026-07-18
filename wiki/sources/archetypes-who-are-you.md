@@ -5,7 +5,7 @@
 **Sources**:
 - [Myss, C. (2013). *Archetypes: Who are you?* Hay House.](archetypes-who-are-you.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-18
 
 ---
 
@@ -90,6 +90,8 @@ A central section of the Spiritual Seeker chapter challenges the cultural myth t
 ### The Visionary's Dark Shadow
 The Visionary chapter introduces the Dark Visionary — the shadow expression of the archetype's capacity for seeing possibilities. Where the light Visionary envisions constructive futures, the Dark Visionary becomes fixated on catastrophe (Nostradamus, zombie/apocalypse culture, psychics feeding on clients' fears). The dark shadow is triggered when imagination falls into fear-based cycles, projecting failure onto every initiative.
 
+Myss cites biologist Rupert Sheldrake, describing his field-resonance research as an illustration of the light Visionary — a credentialled scientist whose ideas run ahead of what mainstream science currently accepts. See [Rupert Sheldrake](../thinkers/rupert-sheldrake.md) and [Morphic Resonance](../concepts/morphic-resonance.md) for the primary-sourced account, including the sharp mainstream rejection Myss's framing does not mention.
+
 ---
 
 ## Relationship to Earlier Myss Works
@@ -128,3 +130,5 @@ This book is the least theoretically dense of Myss's major works and the most pr
 - [Calling](../concepts/calling.md)
 - [Sacred Contracts (source)](sacred-contracts.md)
 - [Anatomy of the Spirit (source)](anatomy-of-the-spirit.md)
+- [Rupert Sheldrake](../thinkers/rupert-sheldrake.md)
+- [Morphic Resonance](../concepts/morphic-resonance.md)

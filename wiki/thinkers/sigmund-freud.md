@@ -20,6 +20,10 @@ Sigmund Freud (1856–1939) founded psychoanalysis on the discovery (building on
 
 Jung's [triangulation of Freud against Adler](../concepts/eros-and-will-to-power.md) frames Freud's Eros theory as one valid but partial description of neurosis — characteristically **extraverted**, reading the symptom as encoding a frustrated relation to an external object (person or desire). Jung illustrates the theory's explanatory reach and its limits through parallel case readings (e.g., a woman's asthma and anxiety symptoms), arguing that Freud's account fits the clinical material without exhausting it.
 
+## Revision by Reich
+
+[Wilhelm Reich](wilhelm-reich.md) trained under Freud and developed [character resistance analysis](../concepts/character-resistance-analysis.md) as a technical extension of Freud's resistance analysis in *[Character Analysis](../sources/character-analysis.md)* (1933) — but broke with Freud over the [death instinct](../concepts/masochism-and-death-instinct.md), arguing from his own clinical case material that masochism could be fully explained as inhibited orgastic pleasure (fear of the "melting" sensation preceding orgasm) without any need for Freud's speculative biological "will to suffer." Reich saw this move as politically significant as well as clinical: locating suffering in an inherent death drive, he argued, let the frustrating social order (patriarchal sexual morality) off the hook in a way his own, more Marxist-inflected framework would not allow. The dispute contributed to Reich's expulsion from the International Psychoanalytic Association in 1934.
+
 ## Revision by Fromm
 
 [Erich Fromm](erich-fromm.md), in *[The Heart of Man](../sources/heart-of-man.md)* (1964), positions himself as extending rather than rejecting Freud — reworking Freud's death instinct into the character-based [necrophilia/biophilia](../concepts/necrophilia-and-biophilia.md) polarity, extending narcissism to the collective level ([individual and group narcissism](../concepts/individual-and-group-narcissism.md)), and broadening mother-fixation beyond sexual libido into a general craving for unconditional belonging ([incestuous-symbiotic fixation](../concepts/incestuous-symbiotic-fixation.md)). Fromm's explicit aim is to free these Freudian discoveries from what he considered Freud's outdated biological-materialist framework and re-ground them in a humanist psychology of character and freedom.
@@ -32,8 +36,11 @@ Freud's drive theory and clinical methodology are not treated by mainstream cont
 
 - [Two Essays on Analytical Psychology (source)](../sources/two-essays-on-analytical-psychology.md)
 - [The Heart of Man (source)](../sources/heart-of-man.md)
+- [Character Analysis (source)](../sources/character-analysis.md)
 - [Carl Jung](carl-jung.md)
 - [Erich Fromm](erich-fromm.md)
+- [Wilhelm Reich](wilhelm-reich.md)
+- [Masochism and the Death Instinct](../concepts/masochism-and-death-instinct.md)
 - [Eros and the Will to Power](../concepts/eros-and-will-to-power.md)
 - [Necrophilia and Biophilia](../concepts/necrophilia-and-biophilia.md)
 - [Individual and Group Narcissism](../concepts/individual-and-group-narcissism.md)

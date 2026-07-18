@@ -12,7 +12,7 @@
 
 ## Overview
 
-[Brennan](../thinkers/barbara-ann-brennan.md) inherits the five-character-structure framework from [Wilhelm Reich](../thinkers/wilhelm-reich.md), [Alexander Lowen](../thinkers/alexander-lowen.md)'s bioenergetics, and [John Pierrakos's](../thinkers/john-pierrakos.md) Core Energetics. Each character structure is a patterned way of managing overwhelming early experience: a childhood wounding produces a defensive reorganisation of the personality, body, and — Brennan adds — the Human Energy Field.
+[Brennan](../thinkers/barbara-ann-brennan.md) inherits the five-character-structure framework from [Wilhelm Reich](../thinkers/wilhelm-reich.md)'s original four-part typology (see [Reich's Character Types](reich-character-types.md) for the primary-source hysterical/compulsive/phallic-narcissistic/masochistic forms), by way of [Alexander Lowen](../thinkers/alexander-lowen.md)'s bioenergetics (which added the fifth, schizoid, structure), and [John Pierrakos's](../thinkers/john-pierrakos.md) Core Energetics. Each character structure is a patterned way of managing overwhelming early experience: a childhood wounding produces a defensive reorganisation of the personality, body, and — Brennan adds — the Human Energy Field.
 
 In Brennan's extension, each character structure has:
 - A **core wound** (the childhood experience that produced the defense)
@@ -197,6 +197,8 @@ The frameworks are not equivalent — they arise from different theoretical trad
 - [Barbara Ann Brennan](../thinkers/barbara-ann-brennan.md)
 - [John Pierrakos](../thinkers/john-pierrakos.md)
 - [Wilhelm Reich](../thinkers/wilhelm-reich.md)
+- [Reich's Character Types](reich-character-types.md)
+- [Character Armor](character-armor.md)
 - [Alexander Lowen](../thinkers/alexander-lowen.md)
 - [Seven-Layer Auric Field](seven-layer-auric-field.md)
 - [Auric Field Interactions in Relationships](auric-field-interactions.md)

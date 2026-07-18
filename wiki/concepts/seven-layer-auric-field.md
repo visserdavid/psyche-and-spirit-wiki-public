@@ -6,7 +6,7 @@
 - [Brennan, B. A. (1987). *Hands of light: A guide to healing through the human energy field*. Pleiades Books.](../sources/hands-of-light.md)
 - [Brennan, B. A. (1993). *Light emerging: The journey of personal healing*. Bantam Books.](../sources/light-emerging.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-18
 
 ---
 
@@ -88,7 +88,7 @@ Laboratory evidence Brennan cites for the HEF:
 - **Inyushin** (Kazakh University): bioplasma — a fifth state of matter, a charged plasma of ions and electrons — as the physical substrate of the HEF
 - **Hunt & Bruyere** (UCLA, 1977): during rolfing sessions, Bruyere's real-time auric colour observations correlated with instrument-measured body-surface frequencies. Colour-frequency relationships: blue/violet 250–400 Hz; green 250–475 Hz; yellow 500–700 Hz; orange 950–1050 Hz; red 1000–1200 Hz; violet 1000–2000 Hz; white 1100–2000 Hz. These frequency bands do not replicate visible-spectrum colour order, suggesting the eye-brain system processes field frequencies into colour experiences through its own encoding scheme.
 - **SQUID** (superconducting quantum interference device): measures body field without contact; provides information about brain state beyond EEG
-- **Sheldrake's morphogenetic fields**: organizing fields that shape form and behaviour beyond known material processes — parallel to but distinct from the HEF
+- **Sheldrake's [morphogenetic fields](morphic-resonance.md)**: organizing fields that shape form and behaviour beyond known material processes — parallel to but distinct from the HEF; unlike Brennan's field, whose organisation Brennan claims to observe directly via clairvoyant perception, Sheldrake's field is proposed to act via a mechanism (morphic resonance) intended to be tested indirectly through statistical, population-level effects, and remains classified as pseudoscience by mainstream biology (see [Morphic Resonance § Reception and Critique](morphic-resonance.md#reception-and-critique))
 
 ## Light Emerging: Extended Layer Descriptions and the Fourth Dimension
 
@@ -135,6 +135,7 @@ This extension addresses a clinical gap in the *Hands of Light* model: some illn
 - [Barbara Ann Brennan](../thinkers/barbara-ann-brennan.md)
 - [Chakra System](chakra-system.md)
 - [Energy Anatomy](energy-anatomy.md)
+- [Morphic Resonance](morphic-resonance.md)
 - [Four Dimensions of Being](four-dimensions-of-being.md)
 - [Hara Level](hara-level.md)
 - [Core Star](core-star.md)

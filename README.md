@@ -8,7 +8,7 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 
 ## Coverage
 
-**54 sources · 78 thinkers · 193 concepts · 327 pages**
+**56 sources · 78 thinkers · 200 concepts · 336 pages**
 
 ## Sources
 
@@ -55,10 +55,12 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 | Peck, M. S. | [The Road Less Traveled](wiki/sources/the-road-less-traveled.md) | 1978 |
 | Peck, M. S. | [People of the Lie](wiki/sources/people-of-the-lie.md) | 1983 |
 | Radin, P. | [The Trickster](wiki/sources/the-trickster.md) | 1956 |
+| Reich, W. | [Character Analysis](wiki/sources/character-analysis.md) | 1949 (3rd ed.; orig. 1933) |
 | Ring, K. | [Heading Toward Omega](wiki/sources/heading-toward-omega.md) | 1984 |
 | Schucman, H. | [A Course in Miracles](wiki/sources/a-course-in-miracles.md) | 1976 |
 | Shealy, C. N. | [Sacred Healing](wiki/sources/sacred-healing.md) | 1999 |
 | Shealy, C. N. | [Living Bliss](wiki/sources/living-bliss.md) | 2014 |
+| Sheldrake, R. | [A New Science of Life](wiki/sources/a-new-science-of-life.md) | 1981 |
 | Siegel, B. S. | [Love, Medicine and Miracles](wiki/sources/love-medicine-miracles.md) | 1986 |
 | Sogyal Rinpoche | [The Tibetan Book of Living and Dying](wiki/sources/tibetan-book-of-living-and-dying.md) | 1992 |
 | Talbot, M. | [The Holographic Universe](wiki/sources/the-holographic-universe.md) | 1991 |

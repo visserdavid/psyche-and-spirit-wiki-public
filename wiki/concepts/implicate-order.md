@@ -1,14 +1,15 @@
 # Implicate Order
 
-**Summary**: David Bohm's holographic cosmology: the universe is an undivided whole ("holomovement") in which the visible world of separate objects (explicate order) continuously unfolds from and enfolds back into a deeper level of enfolded, interconnected reality (implicate order); the philosophical physics foundation of non-local consciousness, the holographic healing model, and the mechanism for synchronicity and morphic resonance.
+**Summary**: David Bohm's holographic cosmology: the universe is an undivided whole ("holomovement") in which the visible world of separate objects (explicate order) continuously unfolds from and enfolds back into a deeper level of enfolded, interconnected reality (implicate order); the philosophical physics foundation of non-local consciousness, the holographic healing model, and the mechanism for synchronicity and [morphic resonance](morphic-resonance.md).
 
 **Sources**:
 - [Bohm, D. (1980). *Wholeness and the implicate order*. Routledge & Kegan Paul.](../sources/wholeness-and-the-implicate-order.md)
 - [Brennan, B. A. (1993). *Light emerging: The journey of personal healing*. Bantam Books.](../sources/light-emerging.md)
 - [Dossey, L. (1991). *Meaning & medicine: Lessons from a doctor's tales of breakthrough and healing*. Bantam Books.](../sources/meaning-and-medicine.md)
+- [Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.](../sources/a-new-science-of-life.md)
 - [Talbot, M. (1991). *The holographic universe*. HarperCollins.](../sources/the-holographic-universe.md)
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-18
 
 ---
 
@@ -61,6 +62,10 @@ In *Wholeness and the Implicate Order*, Chapter 7, Bohm extends the implicate or
 
 He also proposes that mind and matter are not two interacting substances but "projections of a common ground" — the implicate order itself being prior to, and neither, mind nor matter. He cites Leibniz's monads and Whitehead's "actual occasions" as historical anticipations, and Jean Piaget's developmental psychology as empirical evidence that a child's experience of a world of separate, persisting objects in fixed space, time, and causal order is *constructed* through development, not simply given by unmediated perception.
 
+## Dialogue with Sheldrake's Morphic Resonance
+
+Bohm discussed his implicate order directly with biologist Rupert Sheldrake in a conversation reproduced in the appendix to *[A New Science of Life](../sources/a-new-science-of-life.md)* (1981). Bohm suggested that a [morphogenetic field](morphic-resonance.md) can be understood as "a whole set of potentialities" whose actual realisation at any moment depends on "the extent of past history and the extent of creativity" — directly analogous to how implicate-order potential unfolds into explicate form. Both hypotheses propose non-local, non-energetic organising structures beneath visible form, and both were received by their respective mainstream disciplines as suggestive but empirically unconfirmed philosophical extensions — physics generally regarding the implicate order as a minority interpretation making no distinctive testable predictions, biology regarding morphic resonance more sharply as pseudoscience (see [Morphic Resonance § Reception and Critique](morphic-resonance.md#reception-and-critique)).
+
 ## Applications Across the Wiki
 
 | Concept | How the Implicate Order Applies |
@@ -94,6 +99,7 @@ He also proposes that mind and matter are not two interacting substances but "pr
 - [Collective Unconscious](collective-unconscious.md)
 - [Synchronicity](synchronicity.md)
 - [Unus Mundus](unus-mundus.md)
+- [Morphic Resonance](morphic-resonance.md)
 - [Psychoneuroimmunology](psychoneuroimmunology.md)
 - [Placebo Effect](placebo-effect.md)
 - [M-1/M-2/M-3 Metaphysics](m-1-m-2-m-3-metaphysics.md)

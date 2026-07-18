@@ -4,8 +4,9 @@
 
 **Sources**:
 - [Ring, K. (1984). *Heading toward omega: In search of the meaning of the near-death experience*. William Morrow.](../sources/heading-toward-omega.md)
+- [Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.](../sources/a-new-science-of-life.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-18
 
 ---
 
@@ -17,7 +18,7 @@ The hypothesis has three components:
 
 1. **Kundalini as biological mechanism**: The NDE is mediated by the release of kundalini energy; the transformation it produces is the effect of this energy on the nervous system and brain
 2. **Homo noeticus as emerging type**: NDErs are prototypes of a new form of human being characterised by love, expanded consciousness, and psychic sensitivity — what John White calls Homo noeticus
-3. **Morphic resonance as propagation mechanism**: Through Rupert Sheldrake's morphic fields, the transformation achieved by millions of NDErs creates a field of higher consciousness that makes it progressively easier for others to reach the same state
+3. **Morphic resonance as propagation mechanism**: Through Rupert Sheldrake's [morphic fields](morphic-resonance.md), the transformation achieved by millions of NDErs creates a field of higher consciousness that makes it progressively easier for others to reach the same state
 
 ---
 
@@ -96,11 +97,11 @@ This parallels the claims of multiple theorists Ring cites: R. M. Bucke (*Cosmic
 
 ## Morphic Resonance: The Propagation Mechanism
 
-How would the transformation of individual NDErs become a species-wide phenomenon? Ring turns to biologist [Rupert Sheldrake](../thinkers/rupert-sheldrake.md)'s *A New Science of Life* (1981) and the hypothesis of **morphic resonance**.
+How would the transformation of individual NDErs become a species-wide phenomenon? Ring turns to biologist [Rupert Sheldrake](../thinkers/rupert-sheldrake.md)'s *[A New Science of Life](../sources/a-new-science-of-life.md)* (1981) and the hypothesis of **[morphic resonance](morphic-resonance.md)**.
 
 Sheldrake proposes that living systems are organised by "morphic fields" — fields that transcend space and time and carry a kind of memory of form and behaviour. Crucially, Sheldrake claims, when members of a species learn something new, the field encoding that behaviour becomes strengthened and more accessible to other members of the species through resonance — even without direct contact.
 
-The most cited evidence: William McDougall's Harvard experiment in which successive generations of rats learned a water maze faster and faster over 20 generations, with the improvement eventually appearing in unrelated rat populations tested for the first time. The "hundredth monkey effect" (whether or not the specific story is accurate) illustrates the same principle in popular form.
+The most cited evidence: William McDougall's Harvard experiment in which successive generations of rats learned a water maze faster and faster over 20 generations, with the improvement eventually appearing in unrelated rat populations tested for the first time (see [Morphic Resonance § The McDougall Rat Experiments](morphic-resonance.md#the-mcdougall-rat-experiments) for the full experimental record, including two partially conflicting replications). The "hundredth monkey effect" (whether or not the specific story is accurate) illustrates the same principle in popular form.
 
 Peter Russell, in *The Global Brain* (1983), applies Sheldrake's hypothesis to human consciousness: "If individuals begin to raise their levels of consciousness, a field of those states will become accessible to others who are ready to move in that direction... Society could gather momentum toward enlightenment."
 
@@ -146,7 +147,7 @@ Ring's conclusion: "The meaning of NDEs and the meaning of others' awakenings...
 
 **Scientific status of kundalini**: No peer-reviewed physiological study has identified kundalini as a distinct biological structure or documented its arousal during near-death events. The post-NDE symptoms Ring cites (heat, energy sensations, altered consciousness, psychic phenomena) are consistent with multiple explanations — including anxiety disorders, temporal lobe sensitisation, and the general effects of a psychologically overwhelming experience. The parallel with kundalini literature is suggestive but not established.
 
-**Morphic resonance controversy**: Sheldrake's hypothesis is contested within biology. The mechanism by which morphic fields encode and transmit information across space and time remains unexplained in terms of known physics. The extension of the hypothesis to human consciousness evolution is extrapolation beyond what Sheldrake himself established. Ring's application should be understood as a speculative possibility, not an established mechanism.
+**Morphic resonance controversy**: Sheldrake's hypothesis is contested within biology — see [Morphic Resonance § Reception and Critique](morphic-resonance.md#reception-and-critique) for the full 1981 dispute, including *Nature*'s "book for burning" editorial. The mechanism by which morphic fields encode and transmit information across space and time remains unexplained in terms of known physics. The extension of the hypothesis to human consciousness evolution is extrapolation beyond what Sheldrake himself established. Ring's application should be understood as a speculative possibility, not an established mechanism.
 
 **Homo noeticus unfalsifiability**: The concept of Homo noeticus as an emerging evolutionary type is not operationalised in a way that permits falsification. Ring acknowledges he does not intend to imply a distinct species; but without clearer criteria, the claim that NDErs are "prototypes" of evolutionary advance cannot be tested.
 
@@ -164,6 +165,7 @@ Ring's conclusion: "The meaning of NDEs and the meaning of others' awakenings...
 - [Kenneth Ring](../thinkers/kenneth-ring.md)
 - [Pierre Teilhard de Chardin](../thinkers/pierre-teilhard-de-chardin.md)
 - [Rupert Sheldrake](../thinkers/rupert-sheldrake.md)
+- [Morphic Resonance](morphic-resonance.md)
 - [Near-Death Experiences](near-death-experiences.md)
 - [NDE Transformation](nde-transformation.md)
 - [Kundalini](kundalini.md)

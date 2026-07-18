@@ -673,7 +673,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Reich, W. (1945). *Character analysis*. Orgone Institute Press.**
   Not cited directly in Emotional Anatomy, but Keleman works explicitly in Reich's tradition.
   Relevance: Reich's foundational text on character armor and the body-mind connection; the direct precursor to Keleman's somatic distress patterns.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-18
 
 - **Lowen, A. (1975). *Bioenergetics*. Coward, McCann & Geoghegan.**
   Not cited directly in Emotional Anatomy, but Lowen is the central figure in Reich's tradition and Keleman's contemporary.
@@ -884,7 +884,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.**
   Found in: Archetypes: Who Are You?, Chapter 12 (Visionary archetype — Myss describes Sheldrake as a "Cambridge University biologist" whose work on field resonance illustrates the Visionary archetype).
   Relevance: Sheldrake's morphic resonance theory — living organisms generate and are shaped by energy fields — is directly relevant to energy-anatomy and bioelectromagnetism pages; also relevant to collective-unconscious as a field-based model of shared memory.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-18
 
 - **Friedan, B. (1963). *The feminine mystique*. W. W. Norton.**
   Found in: Archetypes: Who Are You?, Chapter 10 (Rebel archetype — Myss cites Friedan as a founding voice of second-wave feminism, illustrating the Social/Civil Rebel expression).
@@ -900,7 +900,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Reich, W. (1945/1950). *Character analysis* (3rd ed., V. R. Carfagno, Trans.). Farrar, Straus & Giroux.**
   Found in: Hands of Light, Part III (character structure framework is explicitly derived from Reich; Brennan mentions studying bioenergetics in her training history).
   Relevance: The foundational text of character armoring theory and bioenergetics; the direct precursor to Brennan's five auric character structures (schizoid, oral, psychopathic, masochistic, rigid). Already flagged under Keleman's sources; now confirmed central to Brennan's framework.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-18 (vault file is the T. P. Wolfe translation, 3rd enlarged ed., Orgone Institute Press/Vision Press — not the later Carfagno/Farrar, Straus & Giroux translation cited here; citation corrected in the wiki accordingly)
 
 - **Lowen, A. (1958). *Physical dynamics of character structure*. Grune & Stratton.**
   Found in: Hands of Light, bibliography (Lowen listed; Brennan trained in bioenergetics which Lowen developed).
@@ -944,7 +944,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.**
   Found in: Hands of Light, Chapter 4 (Sheldrake's morphogenetic fields — organizing fields that shape form and behaviour transcending space-time — cited as parallel to the HEF's organisational function; the Hundredth Monkey principle cited as illustration).
   Relevance: Already listed under Archetypes: Who Are You?; confirmed also central to Hands of Light's scientific framework. Morphic fields as a parallel concept to the HEF and collective unconscious.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-18
 
 ### On Spiritual and Theosophical Traditions
 
@@ -1367,7 +1367,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.**
   Found in: Heading Toward Omega, Chapter 9 (Sheldrake's morphic fields — organisational fields that transcend space and time and carry a memory of form and behaviour — provide Ring's mechanism for how individual NDE transformation could propagate as a species-wide phenomenon; the McDougall rat-learning experiment is cited as key evidence).
   Relevance: Already listed under Archetypes: Who Are You? and Hands of Light; confirmed also central to Ring's omega hypothesis. The morphic resonance / omega hypothesis connection is distinct from the earlier references; relevant to omega-hypothesis and kundalini pages.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-18
 
 ---
 
@@ -1752,6 +1752,23 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 
 ---
 
+## Key Works Cited in Character Analysis (Reich, 1933/1949)
+
+- **Abraham, K. (1925). *Psychoanalytische Studien zur Charakterbildung* [Psychoanalytic studies on character formation]. Internationaler Psychoanalytischer Verlag.**
+  Found in: Character Analysis, Chapter VII (Reich credits Abraham, alongside Jones, with the earliest attempts to reduce specific character traits — envy, ambition, urethral eroticism — to their infantile instinctual basis, the direct precursor to Reich's own general theory of character formation).
+  Relevance: One of the two foundational psychoanalytic characterology texts (with Freud's own 1908 "Character and Anal Erotism") that Reich builds on and explicitly moves beyond; would deepen the historical grounding of `wiki/concepts/character-armor.md` and `wiki/concepts/reich-character-types.md`.
+  Status: Not in vault.
+
+- **Freud, S. (1924). Das ökonomische Problem des Masochismus [The economic problem of masochism]. *Internationale Zeitschrift für Psychoanalyse*, *10*.**
+  Found in: Character Analysis, Chapter XI (the specific Freud paper Reich's masochism chapter directly refutes, proposing primary erogenous masochism and, via *Beyond the Pleasure Principle*, the death instinct).
+  Relevance: The direct primary-source target of `wiki/concepts/masochism-and-death-instinct.md`; reading it alongside Reich's rebuttal would let the wiki state Freud's own argument rather than only Reich's characterization of it.
+  Status: Not in vault (journal article).
+
+- **Benedek, T. (1931). Todestrieb und Angst [Death instinct and anxiety]. *Internationale Zeitschrift für Psychoanalyse*, *17*.**
+  Found in: Character Analysis, Chapter XI (Reich engages this paper at length as the most serious clinical attempt to ground the death-instinct hypothesis biologically, via cellular dissimilation processes, and rebuts it point by point).
+  Relevance: A specific secondary target of Reich's death-instinct critique, offering the strongest contemporary version of the position Reich argues against; relevant to `wiki/concepts/masochism-and-death-instinct.md`.
+  Status: Not in vault (journal article).
+
 ## Key Works Cited in The Rites of Passage (van Gennep, 1909/1960)
 
 - **Durkheim, E. (1912). *Les formes élémentaires de la vie religieuse* [The elementary forms of religious life]. Félix Alcan.**
@@ -1777,4 +1794,23 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Trumbull, H. C. (1896). *The threshold covenant: Or, the beginning of religious rites*. Charles Scribner's Sons.**
   Found in: The Rites of Passage, Chapter II (van Gennep's primary source for threshold, doorway, and boundary rites across cultures — blood on doorposts, the mezuzah, guardian figures at gates).
   Relevance: The main comparative-religion source underlying van Gennep's argument that social passage is modeled on spatial/territorial passage; would deepen `wiki/concepts/rites-of-passage-schema.md`'s territorial-passage section with primary ethnographic detail.
+  Status: Not in vault.
+
+---
+
+## Key Works Cited in A New Science of Life (Sheldrake, 1981)
+
+- **Driesch, H. (1908). *The science and philosophy of the organism* (Gifford Lectures, 2 vols.). Adam and Charles Black.**
+  Found in: A New Science of Life, Chapter 2 (Driesch's classic sea-urchin regulation experiments and his concept of "entelechy" — a non-energetic, purposive causal factor guiding morphogenesis — are Sheldrake's most extensive historical precedent, explicitly credited as "the best foundation to build on" among modern vitalist theories).
+  Relevance: The foundational modern vitalist text and the direct historical antecedent of Sheldrake's own "formative causation"; would deepen `wiki/concepts/morphic-resonance.md` with the primary vitalist alternative Sheldrake positions his own hypothesis against and partly builds on.
+  Status: Not in vault.
+
+- **Bergson, H. (1911). *Creative evolution* (A. Mitchell, Trans.). Henry Holt. (Original French: *L'évolution créatrice*, 1907)**
+  Found in: A New Science of Life, Chapter 8 (Bergson's *élan vital* is cited as the closest precedent for Sheldrake's fourth metaphysical possibility — an immanent creative agency driving evolutionary novelty that natural selection alone cannot account for).
+  Relevance: A major early-twentieth-century philosophical critique of mechanistic evolutionary theory, directly relevant to `wiki/concepts/morphic-resonance.md`'s discussion of evolutionary creativity and to Pierre Teilhard de Chardin's already-ingested evolutionary cosmology.
+  Status: Not in vault.
+
+- **Popper, K. R., & Eccles, J. C. (1977). *The self and its brain: An argument for interactionism*. Springer International.**
+  Found in: A New Science of Life, Chapters 1, 2, and 12 (cited repeatedly on interactionist dualism, Eccles's neurophysiological argument that conscious intention precedes measurable neuronal preparation, and Popper's philosophy-of-science framework for evaluating vitalist and organismic theories).
+  Relevance: Already listed under Global Mind Change (Harman, 1988); confirmed here as a second, independent point of citation — Sheldrake draws on the same Popper-Eccles interactionist framework to develop his "conscious self" metaphysical position, reinforcing its centrality to `wiki/concepts/consciousness-paradigm-shift.md` and now also to `wiki/concepts/morphic-resonance.md`.
   Status: Not in vault.
