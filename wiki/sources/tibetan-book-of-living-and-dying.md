@@ -25,7 +25,7 @@ The book was written as a modern companion to the *Bardo Thodol* (Tibetan Book o
 
 The book opens not with death but with the practice of impermanence — the recognition that everything changes and that avoiding this truth impoverishes life. Sogyal introduces what he calls "active laziness": the Western tendency to fill every moment with activity, noise, and striving, precisely in order to avoid the stillness in which one might confront what matters.
 
-The teachers he cites — Milarepa, Patrul Rinpoche, Jikme Lingpa — all make the same point: we have plenty of time to practice, and yet we behave as if death could be deferred. Tibetan masters would leave their cups empty at night, unsure whether they would wake to drink from them. The life review documented by NDE researchers (Kenneth Ring, Raymond Moody) resonates with this teaching: at the moment of greatest clarity, only love and knowledge matter.
+The teachers he cites — Milarepa, Patrul Rinpoche, Jikme Lingpa — all make the same point: we have plenty of time to practice, and yet we behave as if death could be deferred. Tibetan masters would leave their cups empty at night, unsure whether they would wake to drink from them. The life review documented by NDE researchers ([Kenneth Ring](../thinkers/kenneth-ring.md), [Raymond Moody](../thinkers/raymond-moody.md)) resonates with this teaching: at the moment of greatest clarity, only love and knowledge matter.
 
 ### The Nature of Mind (Rigpa)
 
@@ -71,7 +71,7 @@ Part Two's extended guidance on caring for dying people is the section most wide
 - **Creating a sacred environment**: mantra, prayer, calm presence, and — at the moment of death — whispering guidance instructions (from phowa practice) into the dying person's ear
 - **Addressing fear**: accompanying dying people into their fears, rather than distracting them, dissolves anxiety in most cases
 
-The engagement with [Elisabeth Kübler-Ross](../thinkers/elisabeth-kubler-ross.md) is explicit: Sogyal credits Kübler-Ross and Raymond Moody as pioneers who transformed Western consciousness around death and dying. The [Five Stages of Dying](../concepts/five-stages-of-dying.md) are understood as describing the emotional process of the bardo of dying from a Western perspective.
+The engagement with [Elisabeth Kübler-Ross](../thinkers/elisabeth-kubler-ross.md) is explicit: Sogyal credits Kübler-Ross and [Raymond Moody](../thinkers/raymond-moody.md) as pioneers who transformed Western consciousness around death and dying — Moody's *[Life After Life](life-after-life.md)* (1975) is now a primary source in this wiki. The [Five Stages of Dying](../concepts/five-stages-of-dying.md) are understood as describing the emotional process of the bardo of dying from a Western perspective.
 
 ---
 

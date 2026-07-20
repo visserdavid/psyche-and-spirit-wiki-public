@@ -8,7 +8,7 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 
 ## Coverage
 
-**59 sources · 79 thinkers · 204 concepts · 344 pages**
+**60 sources · 80 thinkers · 204 concepts · 346 pages**
 
 ## Sources
 
@@ -49,6 +49,7 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 | Kübler-Ross, E. | [On Death and Dying](wiki/sources/on-death-and-dying.md) | 1969 |
 | Markides, K. C. | [The Magus of Strovolos](wiki/sources/magus-of-strovolos.md) | 1985 |
 | Martin, M. | [Hostage to the Devil](wiki/sources/hostage-to-the-devil.md) | 1992 (orig. 1976) |
+| Moody, R. A., Jr. | [Life After Life](wiki/sources/life-after-life.md) | 1975/1977 |
 | Myss, C. & Shealy, C. N. | [The Creation of Health](wiki/sources/creation-of-health.md) | 1988 |
 | Myss, C. | [Anatomy of the Spirit](wiki/sources/anatomy-of-the-spirit.md) | 1996 |
 | Myss, C. | [Why People Don't Heal](wiki/sources/why-people-dont-heal.md) | 1997 |

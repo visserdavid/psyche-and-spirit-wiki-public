@@ -3,15 +3,16 @@
 **Summary**: American psychologist and NDE researcher (b. 1936); professor of psychology at the University of Connecticut; co-founder and first president of the International Association for Near-Death Studies (IANDS); author of *Life at Death* (1980) and *Heading Toward Omega* (1984) — the two books that established NDE research as a scientific field.
 
 **Sources**:
+- [Moody, R. A., Jr. (1975). *Life after life: The investigation of a phenomenon—survival of bodily death*. Mockingbird Books.](../sources/life-after-life.md)
 - [Ring, K. (1984). *Heading toward omega: In search of the meaning of the near-death experience*. William Morrow.](../sources/heading-toward-omega.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-20
 
 ---
 
 ## Biography
 
-Kenneth Ring, PhD, is Professor Emeritus of Psychology at the University of Connecticut in Storrs. He was introduced to Raymond Moody's *Life After Life* (1975) and recognised that the NDE phenomenon demanded systematic scientific investigation. In 1977 he began interviewing near-death survivors, producing the most rigorous early study of the phenomenon.
+Kenneth Ring, PhD, is Professor Emeritus of Psychology at the University of Connecticut in Storrs. He was introduced to [Raymond Moody's](raymond-moody.md) *[Life After Life](../sources/life-after-life.md)* (1975) and recognised that the NDE phenomenon demanded systematic scientific investigation. In 1977 he began interviewing near-death survivors, producing the most rigorous early study of the phenomenon. Moody's own 1977 sequel, *Reflections on Life After Life*, explicitly called for exactly this kind of controlled, prospective follow-up research in its closing methodological appendix.
 
 His first book, *Life at Death* (1980), established the empirical reality of the NDE across a controlled sample of 102 cases, confirming and quantifying Moody's observations: approximately 48% of near-death survivors reported NDEs, and the experiences tended to unfold in five stages (peace, body separation, entering darkness, seeing light, entering light). The book was published by Coward, McCann and Geoghegan.
 
@@ -108,6 +109,8 @@ Ring's response is that the visions should be understood probabilistically — a
 ## Related pages
 
 - [Heading Toward Omega (source)](../sources/heading-toward-omega.md)
+- [Life After Life (source)](../sources/life-after-life.md)
+- [Raymond Moody](raymond-moody.md)
 - [Near-Death Experiences](../concepts/near-death-experiences.md)
 - [NDE Transformation](../concepts/nde-transformation.md)
 - [Omega Hypothesis](../concepts/omega-hypothesis.md)

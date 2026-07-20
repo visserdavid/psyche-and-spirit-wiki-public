@@ -41,7 +41,7 @@ The book is a sustained argument for honest, presence-based communication with d
 
 ### NDE Research (later career)
 
-After *On Death and Dying*, Kübler-Ross became one of the earliest and most prominent researchers and advocates for near-death experiences. Her work with Raymond Moody and others helped establish NDE research as a serious field and contributed to the evidence base surveyed by [Kenneth Ring](kenneth-ring.md) in *Heading Toward Omega* (1984).
+After *On Death and Dying*, Kübler-Ross became one of the earliest and most prominent researchers and advocates for near-death experiences. She wrote the foreword to both of [Raymond Moody's](raymond-moody.md) founding NDE books, *[Life After Life](../sources/life-after-life.md)* (1975) and *Reflections on Life After Life* (1977); Moody credits her independent, parallel research with dying patients as decisive corroboration that the phenomenon he was documenting was not an isolated coincidence of his own case-finding. Her work with Moody and others helped establish NDE research as a serious field and contributed to the evidence base surveyed by [Kenneth Ring](kenneth-ring.md) in *Heading Toward Omega* (1984).
 
 ---
 
@@ -80,6 +80,8 @@ After *On Death and Dying*, Kübler-Ross became one of the earliest and most pro
 - [Near-Death Experiences](../concepts/near-death-experiences.md)
 - [Crisis as Initiation](../concepts/crisis-as-initiation.md)
 - [Kenneth Ring](kenneth-ring.md)
+- [Raymond Moody](raymond-moody.md)
+- [Life After Life (source)](../sources/life-after-life.md)
 - [Barbara Ann Brennan](barbara-ann-brennan.md)
 - [Joan Borysenko](joan-borysenko.md)
 - [Bernie Siegel](bernie-siegel.md)

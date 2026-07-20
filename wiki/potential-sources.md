@@ -1370,7 +1370,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Moody, R. A. (1975). *Life after life: The investigation of a phenomenon — survival of bodily death*. Mockingbird Books.**
   Found in: Heading Toward Omega, throughout (Moody's Life After Life is Ring's direct predecessor; Ring's Omega Study was designed to follow up Moody's anecdotal reports with systematic questionnaire-based research).
   Relevance: The founding popular text of NDE research; essential historical context for the near-death-experiences concept page. Ring explicitly positions his work as the scientific follow-up to Moody.
-  Status: Not in vault.
+  Status: Ingested 2026-07-20 (vault file combines Life After Life, 1975, with its 1977 sequel Reflections on Life After Life).
 
 ### On Kundalini
 
@@ -1676,7 +1676,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Moody, R. A. (1975). *Life after life: The investigation of a phenomenon — survival of bodily death*. Mockingbird Books.**
   Found in: The Tibetan Book of Living and Dying, Chapter 20 (the founding NDE text; Sogyal credits Moody and Kübler-Ross as the Western pioneers who opened public awareness of death and dying).
   Relevance: Already listed under Heading Toward Omega and Fire in the Soul.
-  Status: Not in vault.
+  Status: Ingested 2026-07-20 (vault file combines Life After Life, 1975, with its 1977 sequel Reflections on Life After Life).
 
 ---
 
@@ -1850,4 +1850,21 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Popper, K. R., & Eccles, J. C. (1977). *The self and its brain: An argument for interactionism*. Springer International.**
   Found in: A New Science of Life, Chapters 1, 2, and 12 (cited repeatedly on interactionist dualism, Eccles's neurophysiological argument that conscious intention precedes measurable neuronal preparation, and Popper's philosophy-of-science framework for evaluating vitalist and organismic theories).
   Relevance: Already listed under Global Mind Change (Harman, 1988); confirmed here as a second, independent point of citation — Sheldrake draws on the same Popper-Eccles interactionist framework to develop his "conscious self" metaphysical position, reinforcing its centrality to `wiki/concepts/consciousness-paradigm-shift.md` and now also to `wiki/concepts/morphic-resonance.md`.
+  Status: Not in vault.
+
+## Key Works Cited in Life After Life (Moody, 1975/1977)
+
+- **Jung, C. G. (1965). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Random House.**
+  Found in: Reflections on Life After Life, Historical Examples chapter and bibliography (Moody cites Jung's own reported near-death vision, in a section entitled "Visions," as a modern parallel to the contemporary NDE accounts he collected).
+  Relevance: Would let `wiki/thinkers/carl-jung.md`'s new note on his own NDE (added during the Life After Life ingest, currently flagged as needing verification) be substantiated with the primary source; also relevant to `wiki/concepts/near-death-experiences.md`'s historical-parallels material. Already listed under The Road Less Traveled (Peck, 1978) sources above as a candidate for Jung's late reflections on individuation; this is a second, independent point of citation.
+  Status: Not in vault.
+
+- **Weil, A. (1973). *The natural mind: A new way of looking at drugs and the higher consciousness*. Houghton Mifflin.**
+  Found in: Life After Life, Explanations chapter (cited in the pharmacological-explanation discussion, on the historical and cross-cultural use of psychoactive substances to seek altered states, as a "lively fascinating contemporary exposition" of that side of the drug-use question).
+  Relevance: An earlier, more theoretical Andrew Weil book than the already-ingested *Health and Healing* (1983); would deepen `wiki/thinkers/andrew-weil.md` with his original argument about altered consciousness as a normal human drive, and provide primary-source grounding for the drug/NDE comparison in `wiki/concepts/near-death-experiences.md`.
+  Status: Not in vault.
+
+- **Lilly, J. C. (1972). *Center of the cyclone: An autobiography of inner space*. Julian Press.**
+  Found in: Life After Life, Explanations chapter (isolation-research section; Moody cites Lilly, a pioneering isolation-tank researcher, as regarding his own near-death experience and his isolation-induced states as equally real, non-hallucinatory experiences of "enlightenment and insight").
+  Relevance: The primary source connecting sensory-isolation research to near-death and mystical states; would deepen the isolation-research and altered-states material touching `wiki/concepts/near-death-experiences.md`.
   Status: Not in vault.

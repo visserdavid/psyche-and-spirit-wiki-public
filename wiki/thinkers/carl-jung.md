@@ -20,6 +20,8 @@
 
 Carl Gustav Jung (1875–1961) was a Swiss psychiatrist who founded analytical psychology, departing from Freud's emphasis on sexuality and the personal unconscious to develop a broader framework centred on the **collective unconscious** — a layer of the psyche shared by all humans and populated by **archetypes**: universal patterns of experience (the Hero, the Shadow, the Self, the Wise Old Man, etc.).
 
+Jung's own near-death experience following a 1944 heart attack is cited by [Raymond Moody](../thinkers/raymond-moody.md) in *[Life After Life](../sources/life-after-life.md)* as a modern historical parallel to the accounts he collected, drawing on Jung's account in *Memories, Dreams, Reflections* (Jaffé, Ed., 1965) — a source not yet ingested in this wiki, so the specific content of Jung's vision is flagged here as needing verification rather than summarized secondhand. See [Near-Death Experiences](../concepts/near-death-experiences.md).
+
 ## The Archetypes and the Collective Unconscious (CW 9 Part 1, 1969)
 
 [*The Archetypes and the Collective Unconscious*](../sources/collected-works-9-1.md) is the primary theoretical source for the concepts that underpin virtually every thinker in this wiki who works with archetypes, soul purpose, or the inner journey. The thirteen essays (written 1934–1955) establish:
@@ -126,6 +128,8 @@ Jung's own work has been critiqued for being non-falsifiable (archetypes are not
 - [Christ as a Symbol of the Self](../concepts/christ-as-symbol-of-the-self.md)
 - [Privatio Boni](../concepts/privatio-boni.md)
 - [Gnostic Quaternios and the Structure of the Self](../concepts/gnostic-quaternios.md)
+- [Near-Death Experiences](../concepts/near-death-experiences.md)
+- [Raymond Moody](raymond-moody.md)
 - [Sacred Contracts (source)](../sources/sacred-contracts.md)
 - [Caroline Myss](caroline-myss.md)
 - [Joseph Campbell](joseph-campbell.md)

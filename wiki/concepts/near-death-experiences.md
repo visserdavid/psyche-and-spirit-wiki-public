@@ -5,16 +5,18 @@
 **Sources**:
 - [Borysenko, J. (1990). *Guilt is the teacher, love is the lesson*. Warner Books.](../sources/guilt-is-the-teacher.md)
 - [Borysenko, J. (1993). *Fire in the soul: A new psychology of spiritual optimism*. Warner Books.](../sources/fire-in-the-soul.md)
+- [Moody, R. A., Jr. (1975). *Life after life: The investigation of a phenomenon—survival of bodily death*. Mockingbird Books.](../sources/life-after-life.md)
+- [Moody, R. A., Jr. (1977). *Reflections on life after life*. Bantam/Mockingbird Books.](../sources/life-after-life.md)
 - [Ring, K. (1984). *Heading toward omega: In search of the meaning of the near-death experience*. William Morrow.](../sources/heading-toward-omega.md)
 - [Sogyal Rinpoche. (1992). *The Tibetan book of living and dying* (P. D. Gaffney & A. Harvey, Eds.). HarperSanFrancisco.](../sources/tibetan-book-of-living-and-dying.md)
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-07-20
 
 ---
 
 ## The Phenomenon
 
-The near-death experience (NDE) is reported by people who have been clinically dead or close to death and subsequently revived. Raymond Moody's *Life After Life* (1975) was the first systematic collection of NDE accounts; subsequent researchers — Kenneth Ring, [Melvin Morse](../thinkers/melvin-morse.md), Michael Sabom, P.M.H. Atwater, and others — have documented the phenomenon across cultures, age groups, and belief systems.
+The near-death experience (NDE) is reported by people who have been clinically dead or close to death and subsequently revived. [Raymond Moody's](../thinkers/raymond-moody.md) *[Life After Life](../sources/life-after-life.md)* (1975) was the first systematic collection of NDE accounts and coined the term itself; subsequent researchers — [Kenneth Ring](../thinkers/kenneth-ring.md), [Melvin Morse](../thinkers/melvin-morse.md), Michael Sabom, P.M.H. Atwater, and others — have documented the phenomenon across cultures, age groups, and belief systems.
 
 According to a 1981 Gallup poll, approximately 5% of the American population — roughly 12–15 million people — had had a near-death experience by that date. The figure has likely increased as resuscitation technology has improved, creating more survivors of clinical death. [Andrew Greeley's](../thinkers/andrew-greeley.md) surveys document that the majority of NDE survivors never disclose their experience, fearing ridicule or pathologising.
 
@@ -39,6 +41,26 @@ Researchers have documented a consistent structure to NDE accounts across cultur
 6. **The return** — often unwilling; the person is told they must return, or makes a choice to return based on responsibilities (children, relationships, unfinished tasks)
 
 7. **Permanent transformation** — the NDE is not a temporary altered state; it produces lasting changes in values, relationships, and fear of death
+
+---
+
+## Moody's Founding Model and Terminology
+
+[Raymond Moody](../thinkers/raymond-moody.md) coined the term "near-death experience" and, in *[Life After Life](../sources/life-after-life.md)* (1975), synthesized roughly 150 interviews — about fifty studied in detail — into a composite, theoretically "ideal" model of around fifteen recurring elements: an uncomfortable ringing or buzzing noise; rapid movement through a dark tunnel; separation from and observation of one's own physical body; encountering the "spiritual body" (weightless, without normal sensory limits, but capable of vision, hearing, and direct thought-transfer); meeting the spirits of deceased relatives or friends; encountering a being of light of overwhelming, unconditional love, who communicates non-verbally and poses (in one form or another) the question "What have you done with your life?"; the panoramic life review; approaching a border or limit; and — usually reluctantly — returning to the body. No single account contained every element, and the order varied, but Moody argued the recurrence of the same elements across otherwise unconnected interviewees (different ages, religious backgrounds, and circumstances of near-death) pointed to one underlying phenomenon rather than culturally scripted storytelling.
+
+*[Reflections on Life After Life](../sources/life-after-life.md)* (1977), his sequel based on an expanded case pool, added several further elements:
+
+- **The vision of knowledge**: some experiencers reported a brief, momentary sense of encompassing all knowledge — past, present, and future — in a timeless state, which then faded on return to the body, often accompanied by a felt sense that retaining it was not permitted.
+- **Cities of light**: a subset of accounts described entering landscapes with luminous cities, gardens, and music, beyond the being of light itself.
+- **A realm of bewildered spirits**: some experiencers described glimpsing other beings who appeared confused, dulled, and unable to release their attachment to the physical world — wandering near living people they could not communicate with. This is the closest Moody's data comes to a negative or purgatorial afterlife image, though he stops short of calling it "hell."
+- **Supernatural rescues**: accounts in which a voice or light intervened to save a person from an otherwise-fatal situation without a clinical death occurring at all.
+- **The precognitive flash**: rare cases in which experiencers reported glimpsing events from their own personal future during the life review.
+
+Moody's own contribution to the "life review" concept, later systematized by [Kenneth Ring](../thinkers/kenneth-ring.md) as element 10 of the sixteen-element core NDE (see below), was to identify its two recurring, near-verbatim forms of the question posed by the being of light: variations on "Are you ready to die? / Have you done enough with your life?" and "What have you done with your life to show me?" — framed, in Moody's reading, not as external accusation but as an invitation to reflect, since the being's presence throughout is reported as unconditionally loving regardless of what the review reveals.
+
+## Negative and Suicide-Associated NDEs
+
+Moody is explicit — and this qualifies the uniformly blissful picture sometimes taken from *Life After Life* alone — that the accounts he collected of NDEs following suicide attempts were "uniformly characterized [as] unpleasant." One man who survived a suicide attempt reported being told, in effect, that suicide was "throwing God's gift back in His face" and that the same unresolved problem that provoked the attempt was still present on the other side, unsolved. This is echoed by the "realm of bewildered spirits" accounts above. Moody does not claim these findings settle any moral question about suicide — he reviews the historical theological arguments against it (Plato, Aquinas, Locke, Kant) as parallel rather than confirming evidence — but the material complicates any simple reading of the NDE literature as universally consoling. Compare the **Trauma** point in the Critique section below, which this primary-source material now substantiates directly rather than only inferentially.
 
 ---
 
@@ -191,7 +213,11 @@ For Ring's explanation of *why* NDEs produce these transformations, see [Omega H
 
 **Cultural filter**: The form NDEs take shows some cultural variation (the light is experienced as Jesus by Christians, as ancestors by Native Americans, as the Buddha by Buddhists). This may suggest the NDE is filtered through cultural templates, which neither confirms nor denies its ultimate nature.
 
-**Trauma**: A minority of NDEs are reported as terrifying rather than loving. These are underrepresented in the popular literature and deserve equal attention; their existence complicates any simple claim that NDEs always support spiritual optimism.
+**Trauma**: A minority of NDEs are reported as terrifying rather than loving. These are underrepresented in the popular literature and deserve equal attention; their existence complicates any simple claim that NDEs always support spiritual optimism. Moody's own "realm of bewildered spirits" and suicide-associated accounts (see above) are the earliest documented instance of this in the wiki's NDE literature.
+
+**Moody's own methodological candor**: Moody was explicit, in both books, that his study does not constitute scientific proof — the sample was self-selected and non-random, gathered opportunistically over a decade of public talks and referrals, with no control group and only rare independent corroboration. He surveyed and rejected as incomplete several rival explanations (drug/anesthetic effects, cerebral anoxia, temporal-lobe seizure activity, autoscopic hallucination, isolation-research parallels), noting in particular that many of his cases involved no drugs and no injury severe enough to trigger the physiological-stress mechanisms proposed by critics — but he stopped short of claiming this ruled out a future, more complete natural explanation. This is the same candor Ring's later controlled Omega Study was explicitly designed to address (see below).
+
+**Historical and cross-tradition parallels**: Moody's own comparative chapter draws on Plato's *Phaedo* and myth of Er, the *Tibetan Book of the Dead*, Paul's Damascus-road vision, and Emanuel Swedenborg's afterlife writings. He also cites [Carl Jung's](../thinkers/carl-jung.md) own reported near-death vision, described in Jung's *Memories, Dreams, Reflections* (not yet an ingested primary source in this wiki), as a modern parallel from within the same depth-psychology tradition this wiki centers on. Moody additionally cites William James's four marks of mystical experience (ineffability, noetic quality, transiency, passivity — see [Mysticism's Four Marks](mysticism-four-marks.md)) as the closest existing phenomenological framework for classifying NDE testimony, noting the overlap (ineffability, a felt sense of insight) alongside the differences (NDEs are not typically preceded by voluntary contemplative preparation, unlike the mystical states James studied).
 
 ---
 
@@ -212,6 +238,9 @@ Sogyal does not claim NDEs are identical to the full bardo traversal; the NDE is
 
 ## Related pages
 
+- [Life After Life (source)](../sources/life-after-life.md)
+- [Raymond Moody](../thinkers/raymond-moody.md)
+- [Mysticism's Four Marks](mysticism-four-marks.md)
 - [Heading Toward Omega (source)](../sources/heading-toward-omega.md)
 - [The Tibetan Book of Living and Dying (source)](../sources/tibetan-book-of-living-and-dying.md)
 - [Fire in the Soul (source)](../sources/fire-in-the-soul.md)

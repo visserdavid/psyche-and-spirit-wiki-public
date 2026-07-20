@@ -112,7 +112,7 @@ The David and Sandy case: a surgeon's Logos-dominant personality and a nurse's E
 
 ## The Life Review
 
-Borysenko draws on near-death experience (NDE) research ([Kenneth Ring](../thinkers/rachel-naomi-remen.md), Raymond Moody's *The Light Beyond*) to frame forgiveness in the largest temporal context. NDE accounts consistently describe a "life review" in which the person re-experiences the emotional impact of their actions on others — not from the outside but *from the inside of the person they affected*. This is not judgment by an external God but the direct experiential knowing of what love promoted and what fear obstructed.
+Borysenko draws on near-death experience (NDE) research ([Kenneth Ring](../thinkers/rachel-naomi-remen.md), [Raymond Moody's](../thinkers/raymond-moody.md) *The Light Beyond*, 1988 — a sequel not yet in this wiki, distinct from his primary-sourced *[Life After Life](../sources/life-after-life.md)*, 1975) to frame forgiveness in the largest temporal context. NDE accounts consistently describe a "life review" in which the person re-experiences the emotional impact of their actions on others — not from the outside but *from the inside of the person they affected*. This is not judgment by an external God but the direct experiential knowing of what love promoted and what fear obstructed.
 
 The businessman who returned from near-death experience and wept at a flower — "I am now part of one living universe; to hurt any living thing is to hurt myself" — illustrates the shift that NDE research documents: the dissolution of the victim/aggressor frame in the experience of underlying unity.
 
