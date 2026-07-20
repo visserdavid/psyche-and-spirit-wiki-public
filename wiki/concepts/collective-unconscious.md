@@ -68,6 +68,10 @@ A recurring theme in Jung's first essay: the modern West suffers from a depletio
 
 The prescription: genuine encounter with the unconscious through dream work, active imagination, and the development of personal symbolic awareness.
 
+## A Historical Precursor: James's Subliminal Self
+
+[William James](../thinkers/william-james.md), whom Jung read closely, proposed in *[The Varieties of Religious Experience](../sources/the-varieties-of-religious-experience.md)* (1902) — following F. W. H. Myers and Pierre Janet — that religious and mystical experience arrives through a **subliminal** or **subconscious self**, a threshold of consciousness wider than ordinary waking awareness through which "saving experiences" enter. James was explicit that he could not settle whether this "wider self" was continuous with God, a Jungian-style collective psychic inheritance, or something else — he committed only to the reality of the psychological effect. This is a genuine historical precursor rather than a parallel invention: James's subliminal self supplies part of the conceptual ground Jung built on, though Jung's collective unconscious adds the specifically inherited, species-wide, archetype-populated structure that James's more general "wider self" does not propose. See [Mysticism's Four Marks](mysticism-four-marks.md) for James's related account of the mystical states through which this wider self is contacted.
+
 ## Relevance to the Wiki's Themes
 
 ### Tribal Power and Group Disease
@@ -114,3 +118,5 @@ Myss's [Sacred Contracts](sacred-contracts.md) framework is, at one level, an ap
 - [Tribal Power](tribal-power.md)
 - [Biography Is Biology](biography-is-biology.md)
 - [Sacred Contracts](sacred-contracts.md)
+- [William James](../thinkers/william-james.md)
+- [Mysticism's Four Marks](mysticism-four-marks.md)

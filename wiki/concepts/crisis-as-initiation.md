@@ -51,6 +51,10 @@ Borysenko's childhood neurosis (age ten) maps directly: the ten months of OCD, h
 
 ---
 
+## William James: Sick Soul and Twice-Born Conversion
+
+[William James](../thinkers/william-james.md)'s "twice-born" pattern in *[The Varieties of Religious Experience](../sources/the-varieties-of-religious-experience.md)* — the sick soul who must be dismantled by direct confrontation with evil and suffering before a wider, more durable happiness becomes possible through conversion — is a direct historical precursor to Borysenko's crisis-as-initiation reframe; Borysenko explicitly borrows James's term "soul sickness" elsewhere (see [Guilt and Soul Sickness](guilt-and-soul-sickness.md)). See [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md) for the full account.
+
 ## Viktor Frankl: Meaning as the Survival Variable
 
 [Viktor Frankl](../thinkers/viktor-frankl.md) survived four Nazi concentration camps (Auschwitz, Dachau, and others) and founded logotherapy — a psychotherapy whose premise is that the primary human drive is not pleasure (Freud) or power (Adler) but *meaning*.
@@ -71,7 +75,7 @@ Borysenko links Frankl directly to [Abraham Maslow](../thinkers/abraham-maslow.m
 
 **Four stages of the perinatal process:**
 
-1. **Stage 1: Cosmic Engulfment** — onset characterised by overwhelming anxiety, imagery of being sucked into a vortex or swallowed by a beast (Jonah and the whale). Corresponds to the moment before labour begins.
+1. **Stage 1: Cosmic Engulfment** — onset characterised by overwhelming anxiety, imagery of being sucked into a vortex or swallowed by a beast (Jonah and the whale). Corresponds to the moment before labour begins. The imagery matches, closely, the swallowed-monster initiatory motif [Mircea Eliade](../thinkers/mircea-eliade.md) documents across dozens of unrelated cultures — see [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md).
 
 2. **Stage 2: No Exit / Hell** — claustrophobic constriction; no exit is visible; the person feels trapped, victimised, hopeless. Corresponds to contractions before the cervix opens. Grof's research subjects described this as "hell."
 
@@ -150,3 +154,7 @@ Borysenko's significance: the Inner Self Helper demonstrates that even under con
 - [Inner Child](inner-child.md)
 - [Guilt and Soul Sickness](guilt-and-soul-sickness.md)
 - [The Psychology of Illness](the-psychology-of-illness.md)
+- [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
+- [Mircea Eliade](../thinkers/mircea-eliade.md)
+- [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md)
+- [William James](../thinkers/william-james.md)

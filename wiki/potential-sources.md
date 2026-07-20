@@ -487,7 +487,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **James, W. (1902). *The varieties of religious experience*. Modern Library.**
   Found in: Sacred Healing, Chapters 2 and 3 (mind cure and spirituality).
   Relevance: Foundational text on the psychology of religion; Shealy draws on James's analysis of mind cure and the therapeutic power of belief. Mentioned in Anatomy of the Spirit as well.
-  Status: Not in vault.
+  Status: Ingested 2026-07-20 (vault file: william_james-varieties_of_religious_experience_a_study_in_human_nature_centenary_edition-t153443-c49.txt, the Routledge Centenary Edition; wiki cites the 1902 Longmans, Green original per convention).
 
 - **Underhill, E. (1993). *The spiritual life*. Penguin Books.**
   Found in: Sacred Healing, Chapter 6 (spirituality basis of healing; Underhill's definition of spirituality as everyday attitude).
@@ -552,7 +552,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Campbell, J. (1949). *The hero with a thousand faces*. Pantheon Books.**
   Found in: Sacred Contracts, Chapters 2 and 3 (hero's journey; orphan-hero archetype).
   Relevance: The primary text on the hero's monomyth; foundational for Myss's five stages of Sacred Contract and the hero/orphan archetypes.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-20
 
 - **Frazer, J. G. (1890). *The golden bough: A study in magic and religion*. Macmillan.**
   Found in: Sacred Contracts, Chapter 3 (hero's journey; dying-and-rising god pattern).
@@ -829,6 +829,23 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Eliade, M. (1958). *Rites and symbols of initiation: The mysteries of birth and rebirth* (W. R. Trask, Trans.). Harper & Row.**
   Found in: Man and His Symbols, Part 2 (Henderson cites Eliade's shamanism and initiation research as comparative evidence).
   Relevance: Eliade's cross-cultural study of initiation symbolism — death and rebirth as the universal initiatory structure — directly supports Henderson's analysis and the initiation-rites concept page. Also relevant to the hero-myth and individuation pages.
+  Status: ✓ Ingested 2026-07-20
+
+### From Eliade's Own Bibliography (Rites and Symbols of Initiation, 1958)
+
+- **Eliade, M. (1964). *Shamanism: Archaic techniques of ecstasy* (W. R. Trask, Trans.). Princeton University Press (Bollingen Series LXXVI). (Original work published 1951 as *Le chamanisme et les techniques archaïques de l'extase*)**
+  Found in: Rites and Symbols of Initiation, Foreword and Chapter V (Eliade previews this later book-length treatment of shamanic initiation, dismemberment, and the "technician of ecstasy" concept).
+  Relevance: Already cited second-hand in wiki/concepts/shamanic-healing.md via Jeanne Achterberg's "technician of ecstasy" formulation. Would give the wiki a primary-sourced account of shamanic initiatory sickness at full book length, extending the shamanic material in Chapter V of Rites and Symbols of Initiation.
+  Status: Not in vault.
+
+- **Elkin, A. P. (1946). *Aboriginal men of high degree*. Australasian Publishing.**
+  Found in: Rites and Symbols of Initiation, Chapter V (Eliade's primary source for the initiatory pattern of Australian Aboriginal medicine men — dismemberment, insertion of magical quartz crystals, renewal of organs — which he compares directly to Siberian shamanic initiation).
+  Relevance: Would substantiate the Australian medicine-man material in the symbolic-death-and-rebirth concept page with a primary ethnographic source, and support further comparative work on the possible diffusion or independent convergence of shamanic initiatory patterns across Siberia and Australia.
+  Status: Not in vault.
+
+- **Webster, H. (1908). *Primitive secret societies: A study in early politics and religion*. Macmillan.**
+  Found in: Rites and Symbols of Initiation, Chapter I notes (cited alongside van Gennep as one of Eliade's two foundational predecessors on tribal initiation and secret societies).
+  Relevance: An early comparative-ethnography source Eliade explicitly builds on and revises (Eliade corrects Webster's and Schurtz's assumption that puberty rites are ceremonies about biological puberty as such). Historical interest for tracing the intellectual lineage of the wiki's rites-of-passage material.
   Status: Not in vault.
 
 ### On Mythology and the Hero
@@ -836,12 +853,22 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Campbell, J. (1949). *The hero with a thousand faces*. Pantheon Books.**
   Found in: Man and His Symbols, Part 2 (Henderson's hero myth analysis parallels Campbell's monomyth without citing it directly; the shared framework is the universal hero journey pattern).
   Relevance: The defining comparative mythology text on the hero's journey; parallels and extends Henderson's analysis of the hero myth as psychological map. Essential context for the hero-myth concept page and its connections to Myss's chakra progression.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-20
 
 - **Radin, P. (1956). *The trickster: A study in American Indian mythology*. Philosophical Library.**
   Found in: Man and His Symbols, Part 2 (Henderson's analysis of the Winnebago Trickster cycle draws on Radin's ethnographic work; Jung's own essay on the Trickster in CW 9.1 cites Radin as the primary source).
   Relevance: The primary ethnographic source for the Winnebago Trickster cycle on which the trickster-archetype concept page is based. Essential companion for understanding the Trickster as cross-cultural figure rather than a Jungian abstraction.
   Status: ✓ Ingested 2026-07-10
+
+- **Zimmer, H. (1946). *Myths and symbols in Indian art and civilization* (J. Campbell, Ed.). Pantheon Books.**
+  Found in: The Hero with a Thousand Faces, throughout Part I and II (Campbell cites Zimmer's readings of Shiva's cosmic dance, the churning of the Milky Ocean, and Tantric yab-yum symbolism repeatedly and at length; Zimmer's papers were posthumously edited by Campbell himself).
+  Relevance: The primary source for Campbell's readings of Hindu iconography (Shiva Nataraja, Kali astride Shiva, the Bodhisattva) that recur across the wiki's mythology and chakra-symbolism pages; a direct collaborator/influence relationship with Campbell not yet documented on any wiki thinker page.
+  Status: Not in vault.
+
+- **Róheim, G. (1945). *The eternal ones of the dream: A psychoanalytic interpretation of Australian myth and ritual*. International Universities Press.**
+  Found in: The Hero with a Thousand Faces, throughout (Campbell draws extensively on Róheim's psychoanalytic fieldwork among Australian Aboriginal groups for the book's account of circumcision and subincision initiation rites, and cites Róheim more often than any other single ethnographic source).
+  Relevance: A psychoanalytic (Freudian) reading of initiation ritual that both parallels and complicates the wiki's Jungian treatment of initiation-rites and the hero myth; useful counterpoint to Jung/Campbell's more archetypal reading of the same ethnographic material.
+  Status: Not in vault.
 
 ### On Ego Development and Consciousness
 
@@ -1065,6 +1092,16 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **James, W. (1902). *The varieties of religious experience: A study in human nature*. Longmans, Green.**
   Found in: Guilt Is the Teacher, Chapter 1 and throughout (James is the primary historical authority for "soul sickness" and its cure through conversion/spiritual experience; Borysenko returns to him repeatedly).
   Relevance: The foundational text for the psychology of religious experience and the empirical study of mystical states; the source of the "soul sickness" concept central to the guilt-and-soul-sickness page. Also directly relevant to the closet-mystics concept page on the typology of mystical experience.
+  Status: Ingested 2026-07-20.
+
+- **Myers, F. W. H. (1903). *Human personality and its survival of bodily death*. Longmans, Green.**
+  Found in: The Varieties of Religious Experience, cited throughout as the source of the "subliminal self" concept James builds his account of conversion and mystical experience on.
+  Relevance: Foundational psychical-research text on the subliminal/subconscious self as the doorway through which transformative religious and paranormal experience arrives; directly relevant to the collective-unconscious and mysticism-four-marks concept pages as a historical precursor.
+  Status: Not in vault.
+
+- **Starbuck, E. D. (1899). *The psychology of religion: An empirical study of the growth of religious consciousness*. Walter Scott.**
+  Found in: The Varieties of Religious Experience, Preface and throughout (Starbuck supplied James with the questionnaire-collected manuscript material underlying much of the conversion chapters).
+  Relevance: An early and directly foundational empirical study of religious conversion that James builds on extensively; relevant to the healthy-mindedness-and-sick-soul concept page.
   Status: Not in vault.
 
 - **Miller, A. (1981). *The drama of the gifted child: How narcissistic parents form and deform the emotional lives of their talented children* (R. Ward, Trans.). Basic Books. (German original: *Das Drama des begabten Kindes*, 1979; English also published as *Prisoners of Childhood*)**

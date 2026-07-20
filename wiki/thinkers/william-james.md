@@ -4,8 +4,9 @@
 
 **Sources**:
 - [Borysenko, J. (1990). *Guilt is the teacher, love is the lesson*. Warner Books.](../sources/guilt-is-the-teacher.md)
+- [James, W. (1902). *The varieties of religious experience: A study in human nature*. Longmans, Green.](../sources/the-varieties-of-religious-experience.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-20
 
 ---
 
@@ -41,14 +42,14 @@ James framed this as an account of the healing of soul sickness through conversi
 
 ## The Varieties of Religious Experience
 
-The Gifford Lectures were structured around James's characteristic pragmatism: not "is religion true?" but "what are religion's psychological effects?" The test of a belief is its fruits in experience and conduct.
+Now ingested directly as a primary source — see [*The Varieties of Religious Experience* (source)](../sources/the-varieties-of-religious-experience.md) for the full treatment. The Gifford Lectures were structured around James's characteristic pragmatism: not "is religion true?" but "what are religion's psychological effects?" James opens with a foundational methodological distinction between the **existential judgment** (what caused this state of mind?) and the **spiritual judgment** (what is it worth?), arguing the two are logically independent — a state's organic or pathological origin settles nothing about its value. He names the reductive conflation of the two "medical materialism": explaining away Saint Paul's conversion as an epileptic lesion, or George Fox's spiritual restlessness as a disordered colon.
 
 Key findings and arguments:
-- **Mystical experience is widespread**: James documented first-person accounts from ordinary people — not mystics by profession — across cultures and centuries
-- **Mystical experience has common features**: noetic quality (sense of real knowledge revealed), ineffability (cannot be fully described), transience (relatively short), passivity (felt as received rather than willed)
-- **Sick souls and healthy-minded souls**: two fundamental types of religious psychology; conversion as the movement from sick soul toward healthy-mindedness
-- **Conversion as a real psychological event**: the subconscious self as the intermediary through which transformative experience arrives; James takes religious experience seriously as data without committing to metaphysical conclusions about its source
-- **The pragmatic test**: religious beliefs and practices that produce increased vitality, compassion, and psychological wellbeing are validated by their fruits, regardless of their metaphysical truth-status
+- **Healthy-mindedness and the sick soul**: James's core typology of religious temperament — see [Healthy-Mindedness and the Sick Soul](../concepts/healthy-mindedness-and-sick-soul.md) for the full account of the once-born/twice-born distinction and conversion as the movement between them
+- **Mysticism's four marks**: ineffability, noetic quality, transiency, and passivity — see [Mysticism's Four Marks](../concepts/mysticism-four-marks.md)
+- **Saintliness**: the psychological fruits of the saintly character (charity, purity, asceticism, obedience) and their pathological excesses, evaluated by the same fruits criterion
+- **Conversion as a real psychological event**: the subliminal/subconscious self (following F. W. H. Myers and Pierre Janet) as the intermediary through which transformative experience arrives; James takes religious experience seriously as data without committing to metaphysical conclusions about its source
+- **The pragmatic test**: religious beliefs and practices that produce increased vitality, compassion, and psychological wellbeing are validated "by their fruits, not their roots," regardless of their metaphysical truth-status
 
 James's concluding position: whatever the ultimate nature of the religious experiences he documented, they are *real effects* on real people. "The conscious person is continuous with a wider self through which saving experiences come." James remained agnostic about whether this "wider self" was the Jungian collective unconscious, God, or some other dimension of consciousness — but he was certain that the experiences were genuine and their healing effects documented.
 
@@ -77,6 +78,9 @@ James's concluding position: whatever the ultimate nature of the religious exper
 ## Related pages
 
 - [Guilt Is the Teacher, Love Is the Lesson (source)](../sources/guilt-is-the-teacher.md)
+- [The Varieties of Religious Experience (source)](../sources/the-varieties-of-religious-experience.md)
+- [Healthy-Mindedness and the Sick Soul](../concepts/healthy-mindedness-and-sick-soul.md)
+- [Mysticism's Four Marks](../concepts/mysticism-four-marks.md)
 - [Joan Borysenko](joan-borysenko.md)
 - [Carl Jung](carl-jung.md)
 - [Larry Dossey](larry-dossey.md)

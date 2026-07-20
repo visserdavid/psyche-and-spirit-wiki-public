@@ -41,6 +41,14 @@ The relationship between the two is worth stating precisely, since it is easy to
 
 Van Gennep devotes his longest chapter to initiation rites, treating an unusually broad range of material — Australian Aboriginal totemic initiation, Central and West African tribal societies, the Eleusinian and Orphic mysteries, the cults of Attis, Adonis, and Osiris, and Christian baptism — as structurally convergent instances of the same separation-transition-incorporation pattern, each dramatizing symbolic death and rebirth. A methodologically important move, still cited in the literature: van Gennep marshals comparative demographic data on the age of menarche across dozens of populations to demonstrate that initiation ceremonies are only loosely correlated with, and frequently entirely decoupled from, biological puberty — correcting the assumption, common among his predecessors (Schurtz, Webster), that all "puberty rites" are ceremonies *about* puberty as such. See [Initiation Rites](initiation-rites.md) for the wiki's fuller treatment of initiation as the social enactment of the hero myth.
 
+## Extension into Religious Phenomenology: Eliade
+
+[Mircea Eliade](../thinkers/mircea-eliade.md) cites van Gennep's *Les rites de passage* (1909) directly in his first chapter of *[Rites and Symbols of Initiation](../sources/rites-and-symbols-of-initiation.md)* (1958) as the source of the separation/segregation/reincorporation structure he adopts for his own comparative study of puberty rites, secret societies, and shamanic vocation. Where van Gennep documents the tripartite pattern with relatively spare theoretical commentary and Turner develops its social psychology, Eliade develops its *religious phenomenology*: what the transitional (liminal) phase means experientially as a symbolic death of the profane self and rebirth into the sacred. See [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md) for Eliade's full argument, including the swallowed-monster and return-to-womb motifs that recur across his cross-cultural material.
+
+## Extension into Myth: Campbell's Monomyth
+
+[Joseph Campbell](../thinkers/joseph-campbell.md) cites van Gennep's *Les rites de passage* directly in *[The Hero with a Thousand Faces](../sources/the-hero-with-a-thousand-faces.md)* (1949) as the source of the separation/initiation/return terminology he adapts to mythology at large: Campbell's **monomyth** — Departure, Initiation, Return — is van Gennep's tripartite ritual schema read as the deep structure of hero narrative rather than of ceremony. Where van Gennep documents the pattern in lived social ritual (birth, marriage, death, territorial crossing), Campbell finds the identical three-beat structure encoded in myths and folktales worldwide, treating it as evidence that ritual enacts, and myth narrates, the same underlying psychological process. See [Hero Myth](hero-myth.md) for the full seventeen-stage elaboration Campbell builds on this base.
+
 ## Critique
 
 **Comprehensiveness as overreach.** The same critique leveled at Turner's later, narrower theory (see [Liminality § Critique](liminality.md#critique)) applies with even greater force to van Gennep's original, since his ethnographic net is wider still: applying a single three-phase template to territorial crossings, birth, initiation, marriage, funerals, and calendar rites across dozens of unrelated cultures risks flattening genuinely distinct cultural meanings into a generic structural mold. Van Gennep himself concedes in his foreword that he presents only "a fraction of the data collected," inviting readers to test the scheme against further cases rather than treating it as demonstrated.
@@ -59,3 +67,9 @@ Van Gennep devotes his longest chapter to initiation rites, treating an unusuall
 - [Victor Turner](../thinkers/victor-turner.md)
 - [Initiation Rites](initiation-rites.md)
 - [Crisis as Initiation](crisis-as-initiation.md)
+- [Hero Myth](hero-myth.md)
+- [The Hero with a Thousand Faces (source)](../sources/the-hero-with-a-thousand-faces.md)
+- [Joseph Campbell](../thinkers/joseph-campbell.md)
+- [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
+- [Rites and Symbols of Initiation (source)](../sources/rites-and-symbols-of-initiation.md)
+- [Mircea Eliade](../thinkers/mircea-eliade.md)

@@ -19,7 +19,9 @@ Shamanism is not a religion but a set of practices for accessing non-ordinary st
 4. **Use of spirit guides, power animals, or allies** as sources of knowledge and protection during the journey
 5. **Communal healing context**: shamanic healing is a community event; the entire village may participate in ceremony
 
-Mircea Eliade, the historian of religions who systematised the comparative study of shamanism (*Shamanism: Archaic Techniques of Ecstasy*, 1951), described the shaman as a "technician of ecstasy" — a practitioner who uses mastery of altered states as a technical skill for communal benefit. This distinguishes the shaman from the mystic (whose altered states are privately spiritual) and from the psychotic (who is overwhelmed by non-ordinary experience and cannot re-enter ordinary reality at will).
+[Mircea Eliade](../thinkers/mircea-eliade.md), the historian of religions who systematised the comparative study of shamanism (*Shamanism: Archaic Techniques of Ecstasy*, 1951), described the shaman as a "technician of ecstasy" — a practitioner who uses mastery of altered states as a technical skill for communal benefit. This distinguishes the shaman from the mystic (whose altered states are privately spiritual) and from the psychotic (who is overwhelmed by non-ordinary experience and cannot re-enter ordinary reality at will).
+
+Eliade's own primary-sourced treatment of shamanic vocation — previewed a few years before *Shamanism* in *[Rites and Symbols of Initiation](../sources/rites-and-symbols-of-initiation.md)* (1958) — documents the "initiatory sickness" that typically inaugurates the shamanic vocation: visionary dismemberment by ancestral spirits or demons, reduction to a bare skeleton, and reconstitution with new organs and new blood before the future shaman wakes with the power to heal. Eliade is explicit that this crisis, however psychotic-seeming, is *resolved* rather than perpetuated by the initiatory pattern — the shaman is precisely the one who has integrated the crisis into a new, functioning personality, which is the same distinction Achterberg draws below between the SSC and psychosis. See [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md) for Eliade's fuller argument.
 
 ---
 
@@ -134,3 +136,6 @@ The historical interruption between shamanism and modern medicine, in Achterberg
 - [Spontaneous Remission](spontaneous-remission.md)
 - [Relaxation Response](relaxation-response.md)
 - [Imagery in Healing](../sources/imagery-in-healing.md)
+- [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
+- [Rites and Symbols of Initiation (source)](../sources/rites-and-symbols-of-initiation.md)
+- [Mircea Eliade](../thinkers/mircea-eliade.md)

@@ -4,14 +4,15 @@
 
 **Sources**:
 - [Borysenko, J. (1990). *Guilt is the teacher, love is the lesson*. Warner Books.](../sources/guilt-is-the-teacher.md)
+- [James, W. (1902). *The varieties of religious experience: A study in human nature*. Longmans, Green.](../sources/the-varieties-of-religious-experience.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-20
 
 ---
 
 ## The Concept
 
-"Soul sickness" is [William James](../thinkers/william-james.md)'s term from *The Varieties of Religious Experience* (1902) for a syndrome he observed in patients of the New Thought movement: a state of chronic psychological contraction characterised by perfectionism, anxiety, compulsive helpfulness, inability to say no, self-blame, and the habitual belief that one is at fault for what goes wrong.
+"Soul sickness" is [William James](../thinkers/william-james.md)'s term from *[The Varieties of Religious Experience](../sources/the-varieties-of-religious-experience.md)* (1902) for a syndrome he observed in patients of the New Thought movement: a state of chronic psychological contraction characterised by perfectionism, anxiety, compulsive helpfulness, inability to say no, self-blame, and the habitual belief that one is at fault for what goes wrong. This is James's "sick soul" temperament, now treated at fuller length — including its typological opposite, "healthy-mindedness," and the twice-born conversion that resolves it — in [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md).
 
 [Carl Jung](../thinkers/carl-jung.md) used nearly the same description when he wrote to Bill W. (co-founder of Alcoholics Anonymous) that alcoholism is *spiritus contra spiritum* — a craving for Spirit disguised as a craving for alcohol — and that it requires not psychotherapy but "conversion": a fundamental shift in one's relationship to the universe. Jung was describing the same condition James named.
 
@@ -135,3 +136,5 @@ Borysenko organises healing from soul sickness across three spheres:
 - [Shadow](shadow.md)
 - [The Psychology of Illness](the-psychology-of-illness.md)
 - [Attitude and Health](attitude-and-health.md)
+- [The Varieties of Religious Experience (source)](../sources/the-varieties-of-religious-experience.md)
+- [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md)

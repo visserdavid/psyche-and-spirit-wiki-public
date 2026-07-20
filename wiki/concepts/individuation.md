@@ -78,6 +78,10 @@ Dorn regarded even the second stage as difficult to achieve within a lifetime, a
 
 [Myss](../thinkers/caroline-myss.md)'s seven-chakra progression in *Anatomy of the Spirit* maps individuation onto the body: the progression from tribal consciousness (chakra 1) to individual selfhood (chakra 3) to love and compassion (chakra 4) to spirit and divine connection (chakras 5–7) traces the same arc as individuation.
 
+## A Pre-Jungian Parallel: James's Twice-Born Conversion
+
+[William James](../thinkers/william-james.md), writing decades before Jung's individuation concept was formulated, describes a structurally similar movement in *[The Varieties of Religious Experience](../sources/the-varieties-of-religious-experience.md)* (1902): the "twice-born" character whose old, divided self must be dissolved (as a "sick soul") before a wider, more integrated identity emerges through religious conversion — see [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md). Jung read James closely, and James's notion of a "wider self" through which "saving experiences" arrive is a recognizable precursor to Jung's [the Self](the-self.md) as the psychic totality individuation moves toward — though James's frame stays within religious conversion and psychology of religion, without Jung's later apparatus of archetypes and the collective unconscious.
+
 ## A Non-Jungian Parallel: Fromm's Incestuous-Symbiotic Fixation
 
 [Erich Fromm](../thinkers/erich-fromm.md), writing independently of Jung's framework, describes a structurally similar movement in *[The Heart of Man](../sources/heart-of-man.md)* (1964): the developmental task of separating from an original fusion state, which he locates in the literal mother-infant bond and its symbolic extensions to clan, nation, and race, rather than in differentiation from the persona or the collective unconscious. See [Incestuous-Symbiotic Fixation](incestuous-symbiotic-fixation.md) for the detailed comparison — the two accounts converge on treating failure to separate as regressive, but Fromm's is anchored to a concrete familial bond while Jung's is a more general structural claim about ego-consciousness and the unconscious.
@@ -163,3 +167,7 @@ The outcome: Henry becomes engaged, marries, and emigrates to take a professiona
 - [Polytheistic Psychology](polytheistic-psychology.md)
 - [Soul-Making and the Imaginal](soul-making.md)
 - [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)
+- [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
+- [Mircea Eliade](../thinkers/mircea-eliade.md)
+- [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md)
+- [William James](../thinkers/william-james.md)

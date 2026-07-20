@@ -96,7 +96,7 @@ The NDE consistently produces:
 - Increased interest in spiritual matters
 - Lasting reduction in depression and anxiety
 
-This is not the profile of psychotic episode or medication reaction. It is the profile of profound spiritual conversion — consistent with William James's "healthy-mindedness" transformation and Carl Jung's "conversion" as the cure for soul sickness.
+This is not the profile of psychotic episode or medication reaction. It is the profile of profound spiritual conversion — consistent with [William James](../thinkers/william-james.md)'s "healthy-mindedness" transformation (now ingested directly; see [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md)) and Carl Jung's "conversion" as the cure for soul sickness.
 
 ---
 
@@ -174,3 +174,5 @@ See also: [Near-Death Experiences](near-death-experiences.md) for fuller treatme
 - [Crisis as Initiation](crisis-as-initiation.md)
 - [Centering Prayer](centering-prayer.md)
 - [Past-Life Therapy](past-life-therapy.md)
+- [Healthy-Mindedness and the Sick Soul](healthy-mindedness-and-sick-soul.md)
+- [Mysticism's Four Marks](mysticism-four-marks.md)

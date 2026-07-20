@@ -63,6 +63,10 @@ The psychological work of analysis can function as a self-initiated rite of pass
 - The three ages of power ([Three Ages of Power](three-ages-of-power.md)) describe successive collective initiations of human consciousness: tribal → individual → symbolic
 - [Biography is Biology](biography-is-biology.md) — the physical and emotional suffering of illness may function as an involuntary initiation: forcing a dissolution of the old life structure and demanding a rebirth into a larger identity
 
+## Eliade's Symbolic Death and Rebirth
+
+[Mircea Eliade](../thinkers/mircea-eliade.md), in *[Rites and Symbols of Initiation](../sources/rites-and-symbols-of-initiation.md)* (1958), develops the psychological interpretation above into a general theory of religious experience: the liminal ordeal is not merely a social technology for managing transition but a genuine encounter with the sacred, staged through two recurring image-clusters — being swallowed by a monster, and returning to the womb of the Great Mother. See [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md) for the full cross-cultural argument, including Eliade's three-way typology of puberty rites, secret-society initiations, and shamanic vocation.
+
 ## Critique
 
 **Romanticisation of tradition**: The Jungian account of initiation rites tends to romanticise them, overlooking the violence, trauma, and coercion that often accompany them in practice. The death symbolism sometimes involves real physical harm; the "container and guidance" that modern rites lack was also a mechanism of social control.
@@ -86,3 +90,6 @@ The psychological work of analysis can function as a self-initiated rite of pass
 - [The Rites of Passage Schema](rites-of-passage-schema.md)
 - [Arnold van Gennep](../thinkers/arnold-van-gennep.md)
 - [Victor Turner](../thinkers/victor-turner.md)
+- [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
+- [Rites and Symbols of Initiation (source)](../sources/rites-and-symbols-of-initiation.md)
+- [Mircea Eliade](../thinkers/mircea-eliade.md)

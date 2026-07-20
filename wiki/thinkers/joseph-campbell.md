@@ -3,19 +3,20 @@
 **Summary**: American mythologist (1904–1987) whose magnum opus *The Mythic Image* provides the most sustained comparative psychological reading of the seven-chakra system in the English language, arguing that myths are public dreams arising from the same unconscious source as private dreaming; his hero's journey monomyth is the structural backbone of Myss's chakra model and Sacred Contracts framework.
 
 **Sources**:
+- [Campbell, J. (1949). *The hero with a thousand faces*. Pantheon Books.](../sources/the-hero-with-a-thousand-faces.md)
 - [Campbell, J. (1974). *The mythic image*. Princeton University Press.](../sources/the-mythic-image.md)
 - [Myss, C. (1996). *Anatomy of the spirit: The seven stages of power and healing*. Harmony Books.](../sources/anatomy-of-the-spirit.md)
 - [Myss, C. (2001). *Sacred contracts: Awakening your divine potential*. Harmony Books.](../sources/sacred-contracts.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-20
 
 ---
 
 ## Overview
 
-Joseph Campbell (1904–1987) was an American professor of comparative mythology at Sarah Lawrence College, best known for *The Hero with a Thousand Faces* (1949), which identified a universal narrative structure — the **monomyth** or **hero's journey** — across world mythologies. His work synthesizes mythological traditions from across cultures to reveal common patterns of initiation, death, and rebirth.
+Joseph Campbell (1904–1987) was an American professor of comparative mythology at Sarah Lawrence College, best known for *[The Hero with a Thousand Faces](../sources/the-hero-with-a-thousand-faces.md)* (1949), which identified a universal narrative structure — the **monomyth** or **hero's journey** — across world mythologies. His work synthesizes mythological traditions from across cultures to reveal common patterns of initiation, death, and rebirth.
 
-Key works: *The Hero with a Thousand Faces* (1949), *The Masks of God* (4 vols., 1959–1968), *The Mythic Image* (1974), and the posthumous *The Power of Myth* (with Bill Moyers, 1988). *The Mythic Image* — the Bollingen Series C volume, ten years in preparation — is considered by many scholars his deepest and most original work.
+Key works: *The Hero with a Thousand Faces* (1949), *The Masks of God* (4 vols., 1959–1968), *The Mythic Image* (1974), and the posthumous *The Power of Myth* (with Bill Moyers, 1988). *The Mythic Image* — the Bollingen Series C volume, ten years in preparation — is considered by many scholars his deepest and most original work, but *The Hero with a Thousand Faces* remains his most widely read and influential book, and the direct textual source of the monomyth schema *The Mythic Image* and later works build on. See [Hero Myth](../concepts/hero-myth.md) for the wiki's full account of the seventeen-stage schema, and [World Navel](../concepts/world-navel.md) for Campbell's account of the fixed cosmic center anchoring the journey.
 
 ## The Mythic Image (1974)
 
@@ -67,6 +68,8 @@ Campbell's monomyth has been criticized by scholars for over-universalizing: for
 
 ## Related pages
 
+- [The Hero with a Thousand Faces (source)](../sources/the-hero-with-a-thousand-faces.md)
+- [World Navel](../concepts/world-navel.md)
 - [The Mythic Image (source)](../sources/the-mythic-image.md)
 - [Anatomy of the Spirit (source)](../sources/anatomy-of-the-spirit.md)
 - [Sacred Contracts (source)](../sources/sacred-contracts.md)

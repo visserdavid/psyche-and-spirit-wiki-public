@@ -20,7 +20,7 @@ Arnold van Gennep was a French ethnographer, folklorist, and comparative religio
 
 Beyond the tripartite schema itself, van Gennep grounded the theory in a claim about physical space — that social transitions are frequently modeled on, and often literally enacted through, spatial passage (crossing a threshold, a boundary stone, a frontier) — and in a theory of sacred/profane "pivoting," in which sacredness is treated as a relative, situational property rather than a fixed one. His longest chapter, on initiation rites, marshals comparative demographic data on the age of menarche to show that initiation ceremonies are only loosely tied to biological puberty — a corrective against the assumption, common among his predecessors, that all "puberty rites" concern puberty as such. See [The Rites of Passage Schema](../concepts/rites-of-passage-schema.md) for the full account.
 
-Van Gennep's book was known but, by his own English translators' account, taken up only sporadically within anthropology for decades — noted mainly by Radcliffe-Brown and by Chapple and Coon — until [Victor Turner](victor-turner.md) took up the middle, liminal phase as the centerpiece of his own theory in *[The Ritual Process](../sources/the-ritual-process.md)* (1969), elaborating it into the concepts of [Liminality](../concepts/liminality.md) and [Communitas](../concepts/communitas.md), neither of which van Gennep himself developed. Turner credits van Gennep explicitly and repeatedly throughout the book as the source of the basic schema he builds on.
+Van Gennep's book was known but, by his own English translators' account, taken up only sporadically within anthropology for decades — noted mainly by Radcliffe-Brown and by Chapple and Coon — until [Victor Turner](victor-turner.md) took up the middle, liminal phase as the centerpiece of his own theory in *[The Ritual Process](../sources/the-ritual-process.md)* (1969), elaborating it into the concepts of [Liminality](../concepts/liminality.md) and [Communitas](../concepts/communitas.md), neither of which van Gennep himself developed. Turner credits van Gennep explicitly and repeatedly throughout the book as the source of the basic schema he builds on. [Mircea Eliade](mircea-eliade.md) likewise cites *Les rites de passage* directly in the opening chapter of *[Rites and Symbols of Initiation](../sources/rites-and-symbols-of-initiation.md)* (1958), and [Joseph Campbell](joseph-campbell.md) adapts van Gennep's separation/transition/incorporation terminology to mythology at large as the Departure/Initiation/Return structure of his monomyth — three independent twentieth-century elaborations of the same 1909 schema.
 
 ## Related pages
 
@@ -31,3 +31,6 @@ Van Gennep's book was known but, by his own English translators' account, taken 
 - [Liminality](../concepts/liminality.md)
 - [Communitas](../concepts/communitas.md)
 - [Initiation Rites](../concepts/initiation-rites.md)
+- [Mircea Eliade](mircea-eliade.md)
+- [Joseph Campbell](joseph-campbell.md)
+- [Symbolic Death and Rebirth](../concepts/symbolic-death-and-rebirth.md)

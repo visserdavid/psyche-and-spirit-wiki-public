@@ -3,10 +3,11 @@
 **Summary**: The universally recurring narrative of departure, trial, descent, and return — the mythological expression of the individuation process; documented cross-culturally by Jung, Henderson, and Campbell as evidence for the collective unconscious and its archetypal structuring of human development.
 
 **Sources**:
+- [Campbell, J. (1949). *The hero with a thousand faces*. Pantheon Books.](../sources/the-hero-with-a-thousand-faces.md)
 - [Campbell, J. (1974). *The mythic image*. Princeton University Press.](../sources/the-mythic-image.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-20
 
 ---
 
@@ -21,7 +22,19 @@ The hero myth is the most widely distributed narrative structure in human storyt
 5. **The transformation**: Death and rebirth, loss of the old self and emergence of the new
 6. **The return**: Re-entry into the community, bringing the gift of what has been won
 
-[Joseph Campbell](../thinkers/joseph-campbell.md)'s *The Hero with a Thousand Faces* (1949) codified this pattern as the **monomyth**. [Joseph L. Henderson](../thinkers/joseph-henderson.md)'s chapter in [*Man and His Symbols*](../sources/man-and-his-symbols.md) examines the same pattern through the lens of analytical psychology, focusing on what the myth *does* psychologically rather than simply documenting its universality.
+[Joseph Campbell](../thinkers/joseph-campbell.md)'s *[The Hero with a Thousand Faces](../sources/the-hero-with-a-thousand-faces.md)* (1949) codified this pattern as the **monomyth**. [Joseph L. Henderson](../thinkers/joseph-henderson.md)'s chapter in [*Man and His Symbols*](../sources/man-and-his-symbols.md) examines the same pattern through the lens of analytical psychology, focusing on what the myth *does* psychologically rather than simply documenting its universality.
+
+## The Monomyth's Seventeen Stages (Campbell)
+
+Campbell's own schema, laid out in Part I of *The Hero with a Thousand Faces*, is considerably more granular than the six-beat summary above. He groups seventeen stages into three phases — Departure, Initiation, Return — while stressing that no single myth exhibits every stage; the schema is a composite drawn from world literature to reveal family resemblance, not a template found intact in any one tale.
+
+**Departure**: (1) *Call to Adventure* — a herald or chance event (the frog and the golden ball; the Buddha's Four Signs) draws the hero out of the ordinary world; (2) *Refusal of the Call* — the summons declined, converting adventure into an arrested, negative condition (King Minos withholding the sacrificial bull; Daphne fleeing Apollo); (3) *Supernatural Aid* — a protective figure supplies amulets or counsel (Spider Woman guiding the Navaho Twin Heroes); (4) *Crossing the First Threshold* — passage past a threshold guardian; (5) *Belly of the Whale* — the hero is swallowed rather than triumphing outright, a womb-image of death and rebirth (Jonah). This stage parallels, almost exactly, the swallowed-monster initiatory motif [Mircea Eliade](../thinkers/mircea-eliade.md) documents across Australian, African, and Melanesian ritual — see [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md).
+
+**Initiation**: (6) *Road of Trials* — tests survived with supernatural help (Psyche's tasks for Venus); (7) *Meeting with the Goddess* — mystical marriage experienced as the bliss of infancy regained; (8) *Woman as Temptress* — revulsion from incarnate life and flesh (Hamlet); (9) *Atonement with the Father* — reconciling with the ogre-aspect of paternal authority (Job; the Twin Heroes' ordeal before the Sun); (10) *Apotheosis* — a state beyond the pairs of opposites, exemplified by the androgynous Bodhisattva Avalokiteshvara/Kwan Yin; (11) *The Ultimate Boon* — attainment of elixir, grail, or illumination (Gilgamesh's plant of youth).
+
+**Return**: (12) *Refusal of the Return* — reluctance to re-enter ordinary life (King Muchukunda choosing to keep sleeping); (13) *The Magic Flight* — a pursued, magically obstructed escape (Gwion Bach's shape-shifting flight from Caridwen); (14) *Rescue from Without*; (15) *Crossing the Return Threshold* — reintegrating supernatural wisdom into ordinary life without losing either; (16) *Master of the Two Worlds* — free passage between sacred and profane realms; (17) *Freedom to Live* — release from fear of death.
+
+Campbell extends the same pattern to cosmic scale in Part II, "The Cosmogonic Cycle" (Emanations, Virgin Birth, Transformations of the Hero, Dissolutions), reading deluge myths and world-ages as the monomyth played out at civilizational rather than individual scale. See also [World Navel](world-navel.md) for Campbell's account of the fixed cosmic center that anchors both Departure and Return.
 
 ## Psychological Function
 
@@ -86,6 +99,8 @@ In [*The Mythic Image*](../sources/the-mythic-image.md), Campbell extends the he
 
 ## Related pages
 
+- [The Hero with a Thousand Faces (source)](../sources/the-hero-with-a-thousand-faces.md)
+- [World Navel](world-navel.md)
 - [The Mythic Image (source)](../sources/the-mythic-image.md)
 - [Man and His Symbols (source)](../sources/man-and-his-symbols.md)
 - [Joseph Campbell](../thinkers/joseph-campbell.md)
@@ -99,3 +114,6 @@ In [*The Mythic Image*](../sources/the-mythic-image.md), Campbell extends the he
 - [Shadow](shadow.md)
 - [Collective Unconscious](collective-unconscious.md)
 - [Archetypes](archetypes.md)
+- [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
+- [Rites and Symbols of Initiation (source)](../sources/rites-and-symbols-of-initiation.md)
+- [Mircea Eliade](../thinkers/mircea-eliade.md)

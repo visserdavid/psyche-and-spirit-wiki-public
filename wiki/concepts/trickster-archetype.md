@@ -82,8 +82,14 @@ Radin's own comparative essay anticipates Jung's psychological reading from the 
 
 The Trickster as a universal archetype is an interpretive hypothesis. The cross-cultural similarities are documented but their explanation — whether by collective unconscious, evolutionary psychology, cognitive universals, or cultural diffusion — remains debated. Radin's own comparative chapter is more cautious on this point than either commentator's essay built on top of it: he stresses that trickster cycles vary considerably in moral valence and divine status across tribes, and that isolating a "pure" trickster type required him to set aside considerable culture-hero and creation material that many tribes integrate directly into their own trickster narratives. Mainstream anthropology treats Radin's Winnebago fieldwork as historically significant but cautions against the further step — taken more emphatically by Jung and Kerényi than by Radin himself — of generalizing a single ethnographic case, transcribed from one narrator (Sam Blowsnake), into a universal psychological or mythological structure. See [The Trickster § Critique](../sources/the-trickster.md) for the fuller discussion.
 
+## Edshu: An Independent African Attestation
+
+[Joseph Campbell](../thinkers/joseph-campbell.md), in *[The Hero with a Thousand Faces](../sources/the-hero-with-a-thousand-faces.md)* (1949), recounts a Yoruba (West Africa) tale of the trickster-divinity **Edshu**, independently of Radin's Winnebago material: Edshu walks a path between two farmers wearing a hat colored differently on each side, so that each farmer sees only his own half; the two nearly come to blows arguing over what color hat the stranger wore, until Edshu reveals the prank and declares "spreading strife is my greatest joy." Campbell reads Edshu as a personification of the [World Navel](world-navel.md) — the trickster stationed at the world's center precisely because the center contains and reconciles moral contradiction rather than resolving it. The tale offers a geographically and ethnographically independent data point for the trickster's cross-cultural recurrence, alongside the Winnebago, Norse (Loki), and Hermes/Mercurius figures already documented above.
+
 ## Related pages
 
+- [The Hero with a Thousand Faces (source)](../sources/the-hero-with-a-thousand-faces.md)
+- [World Navel](world-navel.md)
 - [CW 9 Part 1 (source)](../sources/collected-works-9-1.md)
 - [Man and His Symbols (source)](../sources/man-and-his-symbols.md)
 - [The Trickster (source)](../sources/the-trickster.md)
