@@ -8,11 +8,12 @@
 - [Jung, C. G. (1969). *The archetypes and the collective unconscious* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 1). Princeton University Press.](../sources/collected-works-9-1.md)
 - [Jung, C. G. (1970). *Mysterium coniunctionis: An inquiry into the separation and synthesis of psychic opposites in alchemy* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 14). Princeton University Press.](../sources/mysterium-coniunctionis.md)
 - [Jung, C. G., & Kerényi, C. (1969). *Essays on a science of mythology: The myth of the divine child and the mysteries of Eleusis* (R. F. C. Hull, Trans.). Princeton University Press.](../sources/essays-on-a-science-of-mythology.md)
+- [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
 - [Myss, C. (1996). *Anatomy of the spirit: The seven stages of power and healing*. Harmony Books.](../sources/anatomy-of-the-spirit.md)
 - [Myss, C. (2001). *Sacred contracts: Awakening your divine potential*. Harmony Books.](../sources/sacred-contracts.md)
 
-**Last updated**: 2026-07-09 (updated after *Two Essays on Analytical Psychology* ingest)
+**Last updated**: 2026-07-20 (updated after *Memories, Dreams, Reflections* ingest)
 
 ---
 
@@ -20,7 +21,11 @@
 
 Carl Gustav Jung (1875–1961) was a Swiss psychiatrist who founded analytical psychology, departing from Freud's emphasis on sexuality and the personal unconscious to develop a broader framework centred on the **collective unconscious** — a layer of the psyche shared by all humans and populated by **archetypes**: universal patterns of experience (the Hero, the Shadow, the Self, the Wise Old Man, etc.).
 
-Jung's own near-death experience following a 1944 heart attack is cited by [Raymond Moody](../thinkers/raymond-moody.md) in *[Life After Life](../sources/life-after-life.md)* as a modern historical parallel to the accounts he collected, drawing on Jung's account in *Memories, Dreams, Reflections* (Jaffé, Ed., 1965) — a source not yet ingested in this wiki, so the specific content of Jung's vision is flagged here as needing verification rather than summarized secondhand. See [Near-Death Experiences](../concepts/near-death-experiences.md).
+## Memories, Dreams, Reflections (1962/1963)
+
+*[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)* is Jung's autobiography, recorded and edited by his close collaborator Aniela Jaffé, and the wiki's primary source for Jung's own biographical voice — as against the theoretical Collected Works volumes above. It documents his childhood visions and the "Personality No. 1/No. 2" split that anticipates the ego/Self distinction; his own first-person account of the [break with Freud](sigmund-freud.md); the 1913–1917 "confrontation with the unconscious" that produced the *Red Book* and the [Philemon/Salome fantasy-figures](../concepts/active-imagination-and-the-red-book.md), from which he says his entire later theory was drawn; the Bollingen Tower as a decades-long "confession of faith in stone"; and his final chapter, "Late Thoughts," extending *Aion*'s [privatio boni](../concepts/privatio-boni.md) critique into a fuller argument that incarnation itself requires a God-image encompassing both good and evil.
+
+**Jung's own near-death experience**: following a 1944 heart attack, Jung reports an hour-long vision of the earth seen from roughly a thousand miles up, then a black stone temple floating in space off the coast of the Indian Ocean, a sense of "everything sloughed away" as he approached its entrance, and — after being told by his own doctor's visionary double that he "had no right to leave the earth" — a return to ordinary life he experienced as a disappointment. This is the account [Raymond Moody](../thinkers/raymond-moody.md) cites in *[Life After Life](../sources/life-after-life.md)* as a modern historical parallel to the NDE accounts he collected; it is now directly sourced here rather than flagged as needing verification. See [Near-Death Experiences](../concepts/near-death-experiences.md).
 
 ## The Archetypes and the Collective Unconscious (CW 9 Part 1, 1969)
 
@@ -114,6 +119,8 @@ Jung's own work has been critiqued for being non-falsifiable (archetypes are not
 
 ## Related pages
 
+- [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
+- [Active Imagination and the Red Book](../concepts/active-imagination-and-the-red-book.md)
 - [Anatomy of the Spirit (source)](../sources/anatomy-of-the-spirit.md)
 - [Two Essays on Analytical Psychology (source)](../sources/two-essays-on-analytical-psychology.md)
 - [Sigmund Freud](sigmund-freud.md)

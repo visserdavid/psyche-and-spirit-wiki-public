@@ -4,9 +4,10 @@
 
 **Sources**:
 - [Fromm, E. (1964). *The heart of man: Its genius for good and evil*. Harper & Row.](../sources/heart-of-man.md)
+- [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Jung, C. G. (1966). *Two essays on analytical psychology* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 7). Princeton University Press.](../sources/two-essays-on-analytical-psychology.md)
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-07-20
 
 ---
 
@@ -19,6 +20,10 @@ Sigmund Freud (1856–1939) founded psychoanalysis on the discovery (building on
 ## Role in *Two Essays on Analytical Psychology*
 
 Jung's [triangulation of Freud against Adler](../concepts/eros-and-will-to-power.md) frames Freud's Eros theory as one valid but partial description of neurosis — characteristically **extraverted**, reading the symptom as encoding a frustrated relation to an external object (person or desire). Jung illustrates the theory's explanatory reach and its limits through parallel case readings (e.g., a woman's asthma and anxiety symptoms), arguing that Freud's account fits the clinical material without exhausting it.
+
+## Jung's Own Account of the Break
+
+*[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)* gives Jung's first-person telling of the relationship and its 1913 rupture, distinct from the theoretical triangulation in *Two Essays*. Jung describes the break as forced by Freud's decision to make the sexual theory into "a dogma" against which Jung could not, in conscience, agree — a conflict that came to a head as Jung was completing the chapter "The Sacrifice" of *Wandlungen und Symbole der Libido* (1912; later revised as *[Symbols of Transformation](../concepts/active-imagination-and-the-red-book.md)*), which he knew in advance would cost the friendship. He credits Freud's greatest achievement as the courage to take neurotic patients' material seriously without prior theoretical bias, and reads Freud's own late qualification (introducing a death instinct, Thanatos) as evidence that even Freud came to sense a single-instinct theory of the psyche could not hold — the same reading given in *Two Essays*, above. Jung's own reconstruction of the underlying disagreement: he saw archaic, mythic, and religious material (the "archaic vestiges" Freud also noted) as evidence of a **spiritual dimension irreducible to sexuality**, where Freud read the same material as sexuality in disguise.
 
 ## Revision by Reich
 
@@ -34,6 +39,8 @@ Freud's drive theory and clinical methodology are not treated by mainstream cont
 
 ## Related pages
 
+- [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
+- [Active Imagination and the Red Book](../concepts/active-imagination-and-the-red-book.md)
 - [Two Essays on Analytical Psychology (source)](../sources/two-essays-on-analytical-psychology.md)
 - [The Heart of Man (source)](../sources/heart-of-man.md)
 - [Character Analysis (source)](../sources/character-analysis.md)

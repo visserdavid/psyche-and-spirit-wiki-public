@@ -3,12 +3,13 @@
 **Summary**: Raymond Moody's 1975 book (and its 1977 sequel *Reflections on Life After Life*, included in the same vault edition) founded the modern field of near-death studies, synthesizing roughly 150 first-person accounts of clinical death and close brushes with death into a composite fifteen-element model — tunnel, out-of-body separation, beings of light, the panoramic life review, and reluctant return — that virtually every later NDE researcher in this wiki builds on or credits directly.
 
 **Sources**:
+- [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](memories-dreams-reflections.md)
 - [Moody, R. A., Jr. (1975). *Life after life: The investigation of a phenomenon—survival of bodily death*. Mockingbird Books.](life-after-life.md)
 - [Moody, R. A., Jr. (1977). *Reflections on life after life*. Bantam/Mockingbird Books.](life-after-life.md)
 
 **Vault file**: `raw/Raymond A. Moody Jr. - Life After Life and Reflections on Life After Life (1975-1977) (compressed).txt` — a combined two-in-one Guideposts edition of both books, each with its own foreword by [Elisabeth Kübler-Ross](../thinkers/elisabeth-kubler-ross.md). This page treats *Life After Life* (1975) as the anchor citation per this wiki's convention of citing original publication year, with *Reflections* (1977) cited alongside it as the companion volume covered in the same ingest.
 
-**Last updated**: 2026-07-20
+**Last updated**: 2026-07-20 (updated after *Memories, Dreams, Reflections* ingest)
 
 ---
 
@@ -16,7 +17,7 @@
 
 Raymond A. Moody Jr. — a philosophy PhD (University of Virginia, 1969) who later trained as a psychiatrist — began collecting near-death accounts almost by accident in 1965, after a philosophy professor described being pronounced dead twice and recounted a strange, vivid experience. Over the following decade Moody accumulated roughly 150 cases, falling into three categories: people resuscitated after being pronounced clinically dead, people who came very close to death through injury or illness, and secondhand accounts from bystanders of a dying person's reported experience (the third category he mostly excluded from his primary analysis). From detailed interviews with about fifty of these people, he distilled a theoretical composite model: no single person reported every element, but the elements recurred so consistently across otherwise unconnected accounts — different ages, religions, and circumstances — that Moody argued they described one underlying phenomenon.
 
-*Life After Life* (1975) introduces the model, surveys historical and scriptural parallels (the Bible, Plato's *Phaedo* and myth of Er, the *Tibetan Book of the Dead*, Swedenborg), addresses the most common sceptical objections, and surveys candidate explanations (supernatural, pharmacological, physiological, neurological, psychological) — rejecting each as a complete account while explicitly declining to claim proof of survival after death. *Reflections on Life After Life* (1977) is the sequel: it reports several new elements encountered in the growing case pool (the "vision of knowledge," "cities of light," a "realm of bewildered spirits," and "supernatural rescues"), engages the theological reception of the work (a chapter of dialogue with clergy), surveys further historical parallels including [Carl Jung's](../thinkers/carl-jung.md) own reported near-death vision described in *Memories, Dreams, Reflections*, and closes with a methodological appendix proposing a research agenda for controlled, prospective NDE studies — a program later carried out systematically by [Kenneth Ring](../thinkers/kenneth-ring.md).
+*Life After Life* (1975) introduces the model, surveys historical and scriptural parallels (the Bible, Plato's *Phaedo* and myth of Er, the *Tibetan Book of the Dead*, Swedenborg), addresses the most common sceptical objections, and surveys candidate explanations (supernatural, pharmacological, physiological, neurological, psychological) — rejecting each as a complete account while explicitly declining to claim proof of survival after death. *Reflections on Life After Life* (1977) is the sequel: it reports several new elements encountered in the growing case pool (the "vision of knowledge," "cities of light," a "realm of bewildered spirits," and "supernatural rescues"), engages the theological reception of the work (a chapter of dialogue with clergy), surveys further historical parallels including [Carl Jung's](../thinkers/carl-jung.md) own reported near-death vision described in *[Memories, Dreams, Reflections](memories-dreams-reflections.md)* — now itself an ingested primary source in this wiki, see [Near-Death Experiences § Jung's Own Near-Death Vision](../concepts/near-death-experiences.md) — and closes with a methodological appendix proposing a research agenda for controlled, prospective NDE studies — a program later carried out systematically by [Kenneth Ring](../thinkers/kenneth-ring.md).
 
 ## Key Takeaways
 
@@ -30,6 +31,8 @@ Raymond A. Moody Jr. — a philosophy PhD (University of Virginia, 1969) who lat
 ## Related pages
 
 - [Near-Death Experiences](../concepts/near-death-experiences.md)
+- [Memories, Dreams, Reflections](memories-dreams-reflections.md)
+- [Carl Jung](../thinkers/carl-jung.md)
 - [Heading Toward Omega](heading-toward-omega.md)
 - [The Tibetan Book of Living and Dying](tibetan-book-of-living-and-dying.md)
 - [Fire in the Soul](fire-in-the-soul.md)

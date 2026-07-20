@@ -6,10 +6,11 @@
 - [Hillman, J. (1996). *The soul's code: In search of character and calling*. Random House.](../sources/souls-code.md)
 - [Jung, C. G. (1966). *Two essays on analytical psychology* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 7). Princeton University Press.](../sources/two-essays-on-analytical-psychology.md)
 - [Jung, C. G. (1969). *The archetypes and the collective unconscious* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 1). Princeton University Press.](../sources/collected-works-9-1.md)
+- [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Jung, C. G. (1970). *Mysterium coniunctionis: An inquiry into the separation and synthesis of psychic opposites in alchemy* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 14). Princeton University Press.](../sources/mysterium-coniunctionis.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
 
-**Last updated**: 2026-07-09 (updated after *Two Essays on Analytical Psychology* ingest)
+**Last updated**: 2026-07-20 (updated after *Memories, Dreams, Reflections* ingest)
 
 ---
 
@@ -38,6 +39,10 @@ After the shadow, the deeper figures of the [anima/animus](anima-animus.md) beco
 
 **Phase 4: Encounter with the Self**
 The deepest movement: the gradual alignment of ego-consciousness with the Self — the archetype of totality that transcends and includes both the conscious and unconscious. This is not a mystical merger but a living dialogue in which the ego serves the Self's direction while maintaining its own perspective and responsibility. *Two Essays* identifies one further characteristic danger on the threshold of this phase: the **[mana-personality](mana-personality.md)**, in which the ego claims for itself the numinous potency ("mana") freed up once the anima or animus has been substantially differentiated — identifying as hero, magician, or saint rather than recognizing that the freed value belongs to the Self, not the ego.
+
+## Autobiographical Origin: Circumambulation of the Self
+
+*[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)* gives the biographical source of the individuation-as-process claim above. During his 1913–1917 "[confrontation with the unconscious](active-imagination-and-the-red-book.md)," Jung began spontaneously drawing mandala images without understanding their function; only over several years did he come to read them as daily reports on the state of the [Self](the-self.md), and conclude — against his own expectation of a linear goal — that "there is no linear evolution; there is only a circumambulation of the self." A 1927 dream of a radially organized city ("Liverpool — the Pool of Life") with a luminous tree at its center crystallized this insight and gave Jung, in his own words, "a sense of finality" about individuation's actual shape: not a destination but an ever-deepening return to a center. This autobiographical account is the direct empirical basis Jung cites for the theoretical formulations in *Two Essays* and CW 9.1 above.
 
 ## The Unconscious as Janus-Faced
 
@@ -130,6 +135,8 @@ The outcome: Henry becomes engaged, marries, and emigrates to take a professiona
 
 ## Related pages
 
+- [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
+- [Active Imagination and the Red Book](active-imagination-and-the-red-book.md)
 - [Two Essays on Analytical Psychology (source)](../sources/two-essays-on-analytical-psychology.md)
 - [CW 9 Part 1 (source)](../sources/collected-works-9-1.md)
 - [Mysterium Coniunctionis (source)](../sources/mysterium-coniunctionis.md)

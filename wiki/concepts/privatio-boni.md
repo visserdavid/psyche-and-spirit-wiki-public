@@ -3,9 +3,10 @@
 **Summary**: The Augustinian-Thomist doctrine that evil has no independent substance — that it is merely a privation (absence) of good, as darkness is the absence of light; Jung's extended argument that this doctrine, however logically coherent, has the psychological effect of denying evil's reality and thereby blocking its integration as [shadow](shadow.md).
 
 **Sources**:
+- [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Jung, C. G. (1968). *Aion: Researches into the phenomenology of the self* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 2). Princeton University Press.](../sources/aion.md)
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-07-20 (updated after *Memories, Dreams, Reflections* ingest)
 
 ---
 
@@ -26,6 +27,10 @@ Jung's alternative formulation: psychologically, good and evil function as **rea
 ## Jung's Explicit Caution: Psychology, Not Metaphysics
 
 Jung is careful to frame this as a psychological rather than theological claim: "Psychology... is not metaphysics... [it] has neither the inclination nor the competence to mix into these matters." He states repeatedly that he is describing how the *privatio boni* doctrine functions in the human psyche — what it does to a person's or a culture's relationship with its own darkness — not adjudicating whether it is theologically correct. Whether this distinction can be maintained consistently is itself contested (see Critique, below, and the parallel difficulty noted on [The Self](the-self.md) regarding Jung's Self/God-image equation).
+
+## Late Thoughts: Incarnation as Requiring a Complexio Oppositorum
+
+In the closing "Late Thoughts" chapter of *[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)*, Jung extends the *Aion* argument into a fuller claim about Christian incarnation itself. His reasoning: an omnipotent, wholly good, immaterial God choosing to become a finite, suffering man is already a kind of self-limitation (*kenosis*) that strains coherence if God's nature is defined as excluding darkness altogether. Jung argues the doctrine only becomes fully intelligible once God is understood — as in Nicholas of Cusa's *complexio oppositorum* and Jacob Boehme's moral ambivalence in the Godhead — as **already containing both poles**, so that incarnation becomes the concrete, human-scale reconciliation of a pre-existing divine ambivalence rather than the descent of a purely good being into a world it does not itself contain. On this reading, the human ethical task is to *become conscious* of the opposites God's own nature holds unconsciously — "Divine service, the service which man can render to God, [is that] light may emerge from the darkness, that the Creator may become conscious of His creation, and man conscious of himself." Jung frames this explicitly as his own late speculative myth-making, not doctrine or metaphysics — see [Jung's Explicit Caution](#jungs-explicit-caution-psychology-not-metaphysics), above, which applies equally here.
 
 ## Connection to the Gnostic and Kabbalistic Material
 
@@ -54,6 +59,7 @@ Where Jung's framework implies that the shadow (including its evil aspect) is a 
 
 ## Related pages
 
+- [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
 - [Aion (source)](../sources/aion.md)
 - [Hostage to the Devil (source)](../sources/hostage-to-the-devil.md)
 - [Carl Jung](../thinkers/carl-jung.md)

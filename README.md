@@ -8,7 +8,7 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 
 ## Coverage
 
-**60 sources · 80 thinkers · 204 concepts · 346 pages**
+**61 sources · 80 thinkers · 205 concepts · 348 pages**
 
 ## Sources
 
@@ -38,6 +38,7 @@ Recurring themes: the chakra system and energy anatomy; the principle that "biog
 | James, W. | [The Varieties of Religious Experience](wiki/sources/the-varieties-of-religious-experience.md) | 1902 |
 | Johari, H. | [Chakras: Energy Centers of Transformation](wiki/sources/chakras-energy-centers.md) | 2000 (rev. ed.; orig. 1987) |
 | Joy, W. B. | [Joy's Way](wiki/sources/joys-way.md) | 1979 |
+| Jung, C. G. | [Memories, Dreams, Reflections](wiki/sources/memories-dreams-reflections.md) | 1963 (orig. 1962) |
 | Jung, C. G. et al. | [Man and His Symbols](wiki/sources/man-and-his-symbols.md) | 1964 |
 | Jung, C. G. | [Two Essays on Analytical Psychology (CW 7)](wiki/sources/two-essays-on-analytical-psychology.md) | 1966 (orig. 1917/1928) |
 | Jung, C. G. | [Aion](wiki/sources/aion.md) | 1968 (orig. 1951) |

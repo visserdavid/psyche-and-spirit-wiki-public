@@ -5,6 +5,7 @@
 **Sources**:
 - [Borysenko, J. (1990). *Guilt is the teacher, love is the lesson*. Warner Books.](../sources/guilt-is-the-teacher.md)
 - [Borysenko, J. (1993). *Fire in the soul: A new psychology of spiritual optimism*. Warner Books.](../sources/fire-in-the-soul.md)
+- [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Moody, R. A., Jr. (1975). *Life after life: The investigation of a phenomenon—survival of bodily death*. Mockingbird Books.](../sources/life-after-life.md)
 - [Moody, R. A., Jr. (1977). *Reflections on life after life*. Bantam/Mockingbird Books.](../sources/life-after-life.md)
 - [Ring, K. (1984). *Heading toward omega: In search of the meaning of the near-death experience*. William Morrow.](../sources/heading-toward-omega.md)
@@ -191,6 +192,12 @@ For Ring's explanation of *why* NDEs produce these transformations, see [Omega H
 
 ---
 
+## Jung's Own Near-Death Vision (1944)
+
+[Carl Jung](../thinkers/carl-jung.md) reports his own near-death experience in *[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)*, following a heart attack and embolism. It shares core structural elements with Moody's and Ring's later composite models — an hour-long vision of the earth seen from roughly a thousand miles up, a sense of "everything sloughed away" as he approached a black stone temple floating off the coast of the Indian Ocean, and a felt certainty of impending arrival among "people who belonged to my reality" — but ends atypically: his own doctor's visionary double (framed as *basileus* of Kos, appearing in the "primal form" reserved for the dying) tells him he "had no right to leave the earth," and Jung experiences his subsequent return to ordinary life as a disappointment rather than a relief, spending weeks resentful of being "back in the box system" of three-dimensional existence. This is the account [Raymond Moody](../thinkers/raymond-moody.md) cites in *[Life After Life](../sources/life-after-life.md)* as a historical parallel to the accounts he collected. Jung's own reading of the experience emphasizes its **objectivity** rather than its evidential status: he explicitly declines to treat it as proof of survival after death, describing it instead as evidence that "our concepts of space and time... have only approximate validity" and that psychic experience is not exhaustively bounded by ordinary causality — a more cautious, psychological framing than Ring's explicit species-evolution claims in the Omega Hypothesis, above.
+
+---
+
 ## Cross-Links to Other Wiki Frameworks
 
 **[Closet Mystics](closet-mystics.md)**: The NDE is the most dramatic form of the mystical experience that Andrew Greeley's surveys document as widespread. The 5% NDE rate (12–15 million people by 1981) is the upper end of a spectrum of mystical experience that includes contact with deceased loved ones, visions, and ESP — all reported by large minorities of the general population.
@@ -239,6 +246,8 @@ Sogyal does not claim NDEs are identical to the full bardo traversal; the NDE is
 ## Related pages
 
 - [Life After Life (source)](../sources/life-after-life.md)
+- [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
+- [Carl Jung](../thinkers/carl-jung.md)
 - [Raymond Moody](../thinkers/raymond-moody.md)
 - [Mysticism's Four Marks](mysticism-four-marks.md)
 - [Heading Toward Omega (source)](../sources/heading-toward-omega.md)

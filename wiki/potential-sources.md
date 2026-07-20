@@ -4,6 +4,31 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 
 ---
 
+## Priority Top 10
+
+**Last updated**: 2026-07-20, after ingesting *Memories, Dreams, Reflections* (Jung, 1962/1963).
+
+Ranking method — candidates are drawn from entries below marked "Status: Not in vault," ranked by:
+
+1. **Repeat citation** — how many distinct already-ingested sources cite the candidate (the "Found in:" / "Already listed under" cross-references already present in each entry below).
+2. **Existing thinker page without a primary source** — the author has a `wiki/thinkers/*.md` page but no `wiki/sources/*.md` page yet.
+3. **Thematic centrality** — qualitative judgment of how many concept pages the work would deepen, and whether it fills a page currently sourced only second-hand.
+
+Ties are broken by judgment on (3). This section is regenerated at the end of every ingest per CLAUDE.md step 9.
+
+1. **Frazer, J. G. (1890). *The golden bough: A study in magic and religion*. Macmillan.** — 2x (Sacred Contracts; The Rites of Passage). Foundational dying-and-rising-god text.
+2. **Teilhard de Chardin, P. (1959). *The phenomenon of man* (B. Wall, Trans.). Harper & Row.** — thinker page exists, no source; Omega Point directly named by *Heading Toward Omega*.
+3. **Popper, K. R., & Eccles, J. C. (1977). *The self and its brain: An argument for interactionism*. Springer International.** — 2x (Global Mind Change; A New Science of Life).
+4. **Estés, C. P. (1992). *Women who run with the wolves: Myths and stories of the wild woman archetype*. Ballantine Books.** — 2x (Sacred Contracts; Women's Bodies, Women's Wisdom).
+5. **Krishna, G. (1971). *Kundalini: The evolutionary energy in man*. Shambhala.** — 2x (Heading Toward Omega; Joy's Way); fills a real gap — no primary kundalini text ingested yet.
+6. **Selye, H. (1956). *The stress of life*. McGraw-Hill.** — thinker page exists, no source; foundational General Adaptation Syndrome text underlying The Relaxation Response.
+7. **Cousins, N. (1979). *Anatomy of an illness as perceived by the patient: Reflections on healing and regeneration*. Norton.** — 2x (Meaning & Medicine; Love, Medicine and Miracles).
+8. **Fromm, E. (1941). *Escape from freedom*. Farrar & Rinehart.** — deepens an already primary-sourced thinker; explicitly flagged below as Peck's second major Fromm influence.
+9. **Herbert, N. (1985). *Quantum reality: Beyond the new physics*. Anchor Books/Doubleday.** — 2x (Healing Words; The Holographic Universe).
+10. **Jung, C. G. (Ed.), & Shamdasani, S. (Ed.). (2009). *The red book: Liber novus* (M. Kyburz, J. Peck, & S. Shamdasani, Trans.). W. W. Norton.** — the primary posthumously published text behind `wiki/concepts/active-imagination-and-the-red-book.md`, currently sourced only via Jung's own retrospective summary in *Memories, Dreams, Reflections*.
+
+---
+
 ## Key Works Cited in Anatomy of the Spirit
 
 ### By Myss and Shealy
@@ -275,7 +300,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Jung, C. G. (1965). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Random House.**
   Found in: The Road Less Traveled, "Evolution of Consciousness" section (Jung's rhizome image for the relationship between the ego, the unconscious, and God, quoted directly).
   Relevance: Jung's autobiography, edited by Aniela Jaffé; central source for Jung's own late reflections on God, the unconscious, and individuation — would deepen the Carl Jung thinker page and several individuation-adjacent concept pages.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-20 (vault file: C. G. Jung - Memories, Dreams, Reflections (1963) (compressed).txt; wiki cites the 1963 Pantheon first English edition per convention).
 
 ---
 
@@ -1857,7 +1882,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Jung, C. G. (1965). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Random House.**
   Found in: Reflections on Life After Life, Historical Examples chapter and bibliography (Moody cites Jung's own reported near-death vision, in a section entitled "Visions," as a modern parallel to the contemporary NDE accounts he collected).
   Relevance: Would let `wiki/thinkers/carl-jung.md`'s new note on his own NDE (added during the Life After Life ingest, currently flagged as needing verification) be substantiated with the primary source; also relevant to `wiki/concepts/near-death-experiences.md`'s historical-parallels material. Already listed under The Road Less Traveled (Peck, 1978) sources above as a candidate for Jung's late reflections on individuation; this is a second, independent point of citation.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-20 (vault file: C. G. Jung - Memories, Dreams, Reflections (1963) (compressed).txt).
 
 - **Weil, A. (1973). *The natural mind: A new way of looking at drugs and the higher consciousness*. Houghton Mifflin.**
   Found in: Life After Life, Explanations chapter (cited in the pharmacological-explanation discussion, on the historical and cross-cultural use of psychoactive substances to seek altered states, as a "lively fascinating contemporary exposition" of that side of the drug-use question).
@@ -1867,4 +1892,18 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **Lilly, J. C. (1972). *Center of the cyclone: An autobiography of inner space*. Julian Press.**
   Found in: Life After Life, Explanations chapter (isolation-research section; Moody cites Lilly, a pioneering isolation-tank researcher, as regarding his own near-death experience and his isolation-induced states as equally real, non-hallucinatory experiences of "enlightenment and insight").
   Relevance: The primary source connecting sensory-isolation research to near-death and mystical states; would deepen the isolation-research and altered-states material touching `wiki/concepts/near-death-experiences.md`.
+  Status: Not in vault.
+
+---
+
+## Key Works Cited in Memories, Dreams, Reflections (Jung, 1962/1963)
+
+- **Jung, C. G. (Ed.), & Shamdasani, S. (Ed.). (2009). *The red book: Liber novus* (M. Kyburz, J. Peck, & S. Shamdasani, Trans.). W. W. Norton.**
+  Found in: Memories, Dreams, Reflections, "Confrontation with the Unconscious" (Jaffé's account describes the *Red Book*/*Liber Novus* as the calligraphed folio volume into which Jung transcribed and illustrated the 1913-1917 fantasy material; it remained unpublished in Jung's lifetime and for decades after).
+  Relevance: The primary, posthumously published text of the fantasy material this wiki's new `wiki/concepts/active-imagination-and-the-red-book.md` page currently covers only via Jung's own retrospective summary in his autobiography; would let the wiki engage the original material (and Shamdasani's extensive scholarly introduction on its composition and editorial history) directly.
+  Status: Not in vault.
+
+- **Wilhelm, R. (Trans.), & Jung, C. G. (1962). *The secret of the golden flower: A Chinese book of life* (C. F. Baynes, Trans.). Harcourt, Brace & World. (Original work published 1929)**
+  Found in: Memories, Dreams, Reflections, "Work" chapter (Jung describes receiving Wilhelm's manuscript and translation of this Taoist alchemical text as the crucial external confirmation of his mandala/individuation theory, and later contributed a psychological commentary to it). Already listed under Man and His Symbols sources above (Jacobi's "Henry" case, I Ching synchronicity); this is a second, independent point of citation for the Wilhelm collaboration itself.
+  Relevance: Would deepen `wiki/concepts/active-imagination-and-the-red-book.md` and `wiki/thinkers/richard-wilhelm.md` (if a page exists) with the specific text Jung credits as breaking his years of isolation on the mandala/individuation material.
   Status: Not in vault.
