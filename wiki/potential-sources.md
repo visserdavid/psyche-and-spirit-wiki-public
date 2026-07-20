@@ -300,7 +300,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Jung, C. G. (1965). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Random House.**
   Found in: The Road Less Traveled, "Evolution of Consciousness" section (Jung's rhizome image for the relationship between the ego, the unconscious, and God, quoted directly).
   Relevance: Jung's autobiography, edited by Aniela Jaffé; central source for Jung's own late reflections on God, the unconscious, and individuation — would deepen the Carl Jung thinker page and several individuation-adjacent concept pages.
-  Status: ✓ Ingested 2026-07-20 (vault file: C. G. Jung - Memories, Dreams, Reflections (1963) (compressed).txt; wiki cites the 1963 Pantheon first English edition per convention).
+  Status: ✓ Ingested 2026-07-20 (vault file: Jung, Carl Gustav - Memories, Dreams, Reflections (1962-1963).txt; wiki cites the 1963 Pantheon first English edition per convention).
 
 ---
 
@@ -1882,7 +1882,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Jung, C. G. (1965). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Random House.**
   Found in: Reflections on Life After Life, Historical Examples chapter and bibliography (Moody cites Jung's own reported near-death vision, in a section entitled "Visions," as a modern parallel to the contemporary NDE accounts he collected).
   Relevance: Would let `wiki/thinkers/carl-jung.md`'s new note on his own NDE (added during the Life After Life ingest, currently flagged as needing verification) be substantiated with the primary source; also relevant to `wiki/concepts/near-death-experiences.md`'s historical-parallels material. Already listed under The Road Less Traveled (Peck, 1978) sources above as a candidate for Jung's late reflections on individuation; this is a second, independent point of citation.
-  Status: ✓ Ingested 2026-07-20 (vault file: C. G. Jung - Memories, Dreams, Reflections (1963) (compressed).txt).
+  Status: ✓ Ingested 2026-07-20 (vault file: Jung, Carl Gustav - Memories, Dreams, Reflections (1962-1963).txt).
 
 - **Weil, A. (1973). *The natural mind: A new way of looking at drugs and the higher consciousness*. Houghton Mifflin.**
   Found in: Life After Life, Explanations chapter (cited in the pharmacological-explanation discussion, on the historical and cross-cultural use of psychoactive substances to seek altered states, as a "lively fascinating contemporary exposition" of that side of the drug-use question).
