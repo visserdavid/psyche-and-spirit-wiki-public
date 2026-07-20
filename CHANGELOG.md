@@ -326,7 +326,7 @@ Updated pages:
 
 ### Added — *Joy's Way* (Joy, 1979)
 
-**Source**: `raw/joy_w_brugh_william_brugh_1939-joy_s_way_a_map_for_the_transformational_journey_an_introduction_to_the_potentials_for-t48981-c63.txt`
+**Source**: `raw/Joy, W. Brugh - Joy's Way, A Map for the Transformational Journey, An Introduction to the Potentials for Healing With Body Energies (1979).txt`
 (J. P. Tarcher, 1979; first edition; copyright © 1979 W. Brugh Joy M.D.; Los Angeles.)
 
 **APA citation**: Joy, W. B. (1979). *Joy's way: A map for the transformational journey — An introduction to the potentials for healing with body energies*. J. P. Tarcher.
@@ -351,7 +351,7 @@ Updated pages:
 
 ### Added — *A Course in Miracles* (Schucman, 1976)
 
-**Source**: `raw/a_course_in_miracles-t296137-c58.txt`
+**Source**: `raw/Schucman, Helen - A Course in Miracles (1976).txt`
 (Foundation for Inner Peace, 1976; scripted 1965–1972; 1,754 pages; public domain from 2004 court ruling; web scrape from acim.home.att.net, 2007. Text is heavily compressed — function words stripped — but conceptual content intact.)
 
 **APA citation**: Schucman, H. (1976). *A course in miracles*. Foundation for Inner Peace.
@@ -378,7 +378,7 @@ Updated pages:
 
 ### Added — *Love, Medicine and Miracles* (Siegel, 1986)
 
-**Source**: `raw/siegel_bernie_s-love_medicine_miracles_lessons_learned_about_self_healing_from_a_surgeon_s_experience_with_exceptiona-t48925-c60.txt`
+**Source**: `raw/Siegel, Bernie S. - Love, Medicine and Miracles, Lessons Learned About Self-Healing From a Surgeon's Experience With Exceptional Patients (1986).txt`
 (Harper & Row, 1986; copyright © 1986 B. H. Siegel, S. Korman & A. Schiff, Trustees of the Bernard S. Siegel, M.D. Children's Trust; 274 pages + appendix; New Haven, CT.)
 
 **APA citation**: Siegel, B. S. (1986). *Love, medicine and miracles: Lessons learned about self-healing from a surgeon's experience with exceptional patients*. Harper & Row.
@@ -420,7 +420,7 @@ Updated pages:
 
 ### Added — *Healing Words* (Dossey, 1993)
 
-**Source**: `raw/dossey_larry_1940-healing_words_the_power_of_prayer_and_the_practice_of_medicine-t72572-c57.txt`
+**Source**: `raw/Dossey, Larry - Healing Words, The Power of Prayer and the Practice of Medicine (1993).txt`
 (HarperSanFrancisco, 1993; copyright © 1993 Larry Dossey M.D.; 336 pages; New York Times bestseller.)
 
 **APA citation**: Dossey, L. (1993). *Healing words: The power of prayer and the practice of medicine*. HarperSanFrancisco.
@@ -461,7 +461,7 @@ Updated pages:
 
 ### Added — *Meaning & Medicine* (Dossey, 1991)
 
-**Source**: `raw/dossey_larry_1940-meaning_medicine_lessons_from_a_doctor_s_tales_of_breakthrough_and_healing-t65179-c58.txt`
+**Source**: `raw/Dossey, Larry - Meaning & Medicine, A Doctor's Tales of Breakthrough and Healing (1991).txt`
 (Bantam Books, 1991; copyright © 1991 Larry Dossey, M.D.; 3 parts, 22 chapters.)
 
 **APA citation**: Dossey, L. (1991). *Meaning & medicine: A doctor's tales of breakthrough and healing*. Bantam Books.
@@ -486,7 +486,7 @@ Updated pages:
 
 ### Added — *Heading Toward Omega* (Ring, 1984)
 
-**Source**: `raw/ring_kenneth-heading_toward_omega_in_search_of_the_meaning_of_the_near_death_experience-t63974-c61.txt`
+**Source**: `raw/Ring, Kenneth - Heading Toward Omega, In Search of the Meaning of the Near-Death Experience (1984).txt`
 (William Morrow, 1984; First Quill Edition; copyright © 1984, 1985 Kenneth Ring; 352 pages.)
 
 **APA citation**: Ring, K. (1984). *Heading toward omega: In search of the meaning of the near-death experience*. William Morrow.
@@ -509,7 +509,7 @@ Updated pages:
 
 ### Added — *The Relaxation Response* (Benson & Klipper, 1975)
 
-**Source**: `raw/benson_herbert-the_relaxation_response-t27998-c52.txt`
+**Source**: `raw/Benson, Herbert & Klipper, Miriam Z. - The Relaxation Response (1975).txt`
 (William Morrow, 1975; copyright © 1975 William Morrow Company Inc.; 164 pages. Written with co-author Miriam Z. Klipper.)
 
 **APA citation**: Benson, H., & Klipper, M. Z. (1975). *The relaxation response*. William Morrow.
@@ -534,7 +534,7 @@ Updated pages:
 
 ### Added — *Fire in the Soul* (Borysenko, 1993)
 
-**Source**: `raw/joan_borysenko-fire_in_the_soul-t41636-c59.txt`
+**Source**: `raw/Borysenko, Joan - Fire in the Soul, A New Psychology of Spiritual Optimism (1993).txt`
 (Warner Books, 1993; copyright © 1993 Joan Borysenko; 257 pages; 3 parts.)
 
 **APA citation**: Borysenko, J. (1993). *Fire in the soul: A new psychology of spiritual optimism*. Warner Books.
@@ -568,7 +568,7 @@ Updated pages:
 
 ### Added — *Guilt Is the Teacher, Love Is the Lesson* (Borysenko, 1990)
 
-**Source**: `raw/guilt_is_the_teacher_love_is_the_lesson_by_joan_borysenko_welib_org-t54411-c60.txt`
+**Source**: `raw/Borysenko, Joan - Guilt Is the Teacher, Love Is the Lesson (1990).txt`
 (Warner Books, 1990; copyright © 1990 Joan Borysenko; first trade printing May 1991; 260 pages; 3 parts.)
 
 **APA citation**: Borysenko, J. (1990). *Guilt is the teacher, love is the lesson*. Warner Books.
@@ -602,7 +602,7 @@ Updated pages:
 
 ### Added — *The Mythic Image* (Campbell, 1974)
 
-**Source**: `raw/campbell_joseph_1904_abadie_m_j_marie_jeanne-the_mythic_image-t113532-c67.txt`
+**Source**: `raw/Campbell, Joseph - The Mythic Image (1974).txt`
 (Princeton University Press, 1974; Bollingen Series C; 572 pages; 452 illustrations; research and illustrations by M. J. Abadie.)
 
 **APA citation**: Campbell, J. (1974). *The mythic image*. Princeton University Press.
@@ -631,7 +631,7 @@ Updated pages:
 
 ### Added — *Minding the Body, Mending the Mind* (Borysenko & Rothstein, 1987)
 
-**Source**: `raw/borysenko_joan_minding_the_body_mending_the_mind.txt`
+**Source**: `raw/Borysenko, Joan & Rothstein, Larry - Minding the Body, Mending the Mind (1987).txt`
 (Addison-Wesley, 1987; foreword by Herbert Benson, M.D.; co-authored with Miriam Z. Rothstein.)
 
 **APA citation**: Borysenko, J., & Rothstein, L. (1987). *Minding the body, mending the mind*. Addison-Wesley.
@@ -675,7 +675,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Chakras: Energy Centers of Transformation* (Johari, 2000 rev. ed.)
 
-**Source**: `raw/johari_harish_1934_1999-chakras_energy_centers_of_transformation-t28149-c50.txt`
+**Source**: `raw/Johari, Harish - Chakras, Energy Centers of Transformation (1987-2000).txt`
 (Compressed PDF extraction, 28,149 tokens at 50% compression, 188 pages; Destiny Books, 2000 revised and expanded edition; original 1987. Note: vault file is the 2000 revised edition — citation updated accordingly. Author: Harish Johari, 1934–1999.)
 
 **APA citation**: Johari, H. (2000). *Chakras: Energy centers of transformation* (Rev. expanded ed.). Destiny Books.
@@ -711,7 +711,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Light Emerging* (Brennan, 1993)
 
-**Source**: `raw/light_emerging_the_journey_of_personal_healing_barbara_ann_brennan_illustrated_by_thomas_j_schneider_and_welib_org-t112534-c62.txt`
+**Source**: `raw/Brennan, Barbara Ann - Light Emerging, The Journey of Personal Healing (1993).txt`
 (Compressed PDF extraction, 112,534 tokens at 62% compression; Bantam Books, 1993; ISBN 0-553-35456-6; illustrated by Thomas J. Schneider and Joan Tartaglia)
 
 **APA citation**: Brennan, B. A. (1993). *Light emerging: The journey of personal healing*. Bantam Books.
@@ -753,7 +753,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Hands of Light* (Brennan, 1987)
 
-**Source**: `raw/hands_of_light_a_guide_to_healing_through_the_human_energy_barbara_ann_brennan_jos_a_smith_welib_org-t82187-c60.txt`
+**Source**: `raw/Brennan, Barbara Ann - Hands of Light, A Guide to Healing Through the Human Energy Field (1987).txt`
 (Compressed PDF extraction, 82,187 tokens at 60% compression, 304 pages; Pleiades Books, 1987; Bantam Books edition, 1988; foreword by John Pierrakos, MD)
 
 **Source page created**:
@@ -800,7 +800,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Archetypes: Who Are You?* (Myss, 2013)
 
-**Source**: `raw/archetypes_interior_01_indd-t50380-c57.txt`
+**Source**: `raw/Myss, Caroline - Archetypes, Who Are You (2013).txt`
 (Compressed PDF extraction, 50,380 tokens at 57% compression, 265 pages; Hay House, 2013; foreword by Cristina Carlino, founder of ArchetypeMe.com)
 
 **Source page created**:
@@ -833,7 +833,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Man and His Symbols* (Jung et al., 1964)
 
-**Source**: `raw/man_and_his_symbols_turtleback_binding_edition_carl_gustav_jung_carl_gustav_jung_welib_org-t165391-c48.txt`
+**Source**: `raw/Jung, Carl Gustav et al. - Man and His Symbols (1964).txt`
 (Compressed extraction, 522,100 chars; Doubleday, 1964; first and only work where Jung explains his ideas to a general audience; five contributing authors)
 
 **APA citation**: Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.
@@ -881,7 +881,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Living Bliss* (Shealy, 2014)
 
-**Source**: `raw/shealy_c_norman-living_bliss-t30571-c58.txt`
+**Source**: `raw/Shealy, C. Norman - Living Bliss, Major Discoveries Along the Path (2014).txt`
 (Compressed PDF extraction, 30,571 tokens at 58% compression, ~250 pages; Hay House, ISBN 978-1-4019-4264-9; foreword by Caroline Myss; appendix by William A. Tiller)
 
 **Source page created**:
@@ -912,7 +912,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Embodying Experience* (Keleman, 1987)
 
-**Source**: `raw/keleman_stanley-embodying_experience_forming_a_personal_life-t16922-c59.txt`
+**Source**: `raw/Keleman, Stanley - Embodying Experience, Forming a Personal Life (1987).txt`
 (Compressed PDF extraction, 16,922 tokens at 59% compression, 108 pages; Center Press, Berkeley, ISBN 0-934320-12-8)
 
 **Source page created**:
@@ -943,7 +943,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *The Soul's Code* (Hillman, 1996)
 
-**Source**: `raw/hillman_james-the_soul_s_code_in_search_of_character_and_calling-t74957-c56.txt`
+**Source**: `raw/Hillman, James - The Soul's Code, In Search of Character and Calling (1996).txt`
 (Compressed PDF extraction, 74,957 tokens at 56% compression, 360 pages; Random House, ISBN 0-679-44522-6)
 
 **Source page created**:
@@ -977,7 +977,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *The Archetypes and the Collective Unconscious* (Jung, 1969)
 
-**Source**: `raw/jung_c_g_hull_r_f_c_adler_gerhard-collected_works_of_c_g_jung_volume_9_part_1_archetypes_and_the_collective_unconsci-t122117-c55.txt`
+**Source**: `raw/Jung, Carl Gustav - The Archetypes and the Collective Unconscious (1969).txt`
 (Compressed PDF extraction, 122,117 tokens at 55% compression, 552 pages; Collected Works Vol. 9 Part 1, 2nd ed., Princeton University Press, 1969)
 
 **Source page created**:
@@ -1012,7 +1012,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *The Creation of Health* (Myss & Shealy, 1988)
 
-**Source**: `raw/caroline_myss-the_creation_of_health-t60660-c62.txt`
+**Source**: `raw/Myss, Caroline & Shealy, C. Norman - The Creation of Health, The Emotional, Psychological, and Spiritual Responses That Promote Health and Healing (1988).txt`
 (Compressed PDF extraction, 60,660 tokens at 62% compression, 413 pages)
 
 **Source page created**:
@@ -1049,7 +1049,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Emotional Anatomy* (Keleman, 1985)
 
-**Source**: `raw/stanley_keleman-emotional_anatomy_the_structure_of_experience-t28237-c57.txt`
+**Source**: `raw/Keleman, Stanley - Emotional Anatomy, The Structure of Experience (1985).txt`
 (Compressed PDF extraction, 28,237 tokens at 57% compression, 180 pages, 126 drawings)
 
 **Source page created**:
@@ -1092,7 +1092,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Why People Don't Heal and How They Can* (Myss, 1997)
 
-**Source**: `raw/myss_caroline_m-why_people_don_t_heal_and_how_they_can-t49661-c62.txt`
+**Source**: `raw/Myss, Caroline - Why People Don't Heal and How They Can (1997).txt`
 (Compressed PDF extraction, 49,661 tokens at 62% compression, 292 pages)
 
 **Source page created**:
@@ -1127,7 +1127,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Sacred Contracts* (Myss, 2001)
 
-**Source**: `raw/caroline_myss-sacred_contracts_awakening_your_divine_potential_pdfdrive_com-t83983-c61.txt`
+**Source**: `raw/Myss, Caroline - Sacred Contracts, Awakening Your Divine Potential (2001).txt`
 (Compressed PDF extraction, 83,983 tokens at 61% compression, 466 pages)
 
 **Source page created**:
@@ -1170,7 +1170,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Sacred Healing* (Shealy, 1999)
 
-**Source**: `raw/shealy_c_norman_1932-sacred_healing_the_curing_power_of_energy_and_spirituality-t26857-c57.txt`
+**Source**: `raw/Shealy, C. Norman - Sacred Healing, The Curing Power of Energy and Spirituality (1999).txt`
 (Compressed PDF extraction, 26,857 tokens at 57% compression, 232 pages)
 
 **Source page created**:
@@ -1212,7 +1212,7 @@ Sorted `README.md` Sources table alphabetically by author last name (primary), t
 
 ### Added — *Anatomy of the Spirit* (Myss, 1996) — initial ingest
 
-**Source**: `raw/caroline_myss-anatomy_of_the_spirit-t47038-c62.txt`
+**Source**: `raw/Myss, Caroline - Anatomy of the Spirit, The Seven Stages of Power and Healing (1996).txt`
 (Compressed PDF extraction, 47,038 tokens at 62% compression, 333 pages)
 
 **Source page created**:

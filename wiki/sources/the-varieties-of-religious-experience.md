@@ -16,7 +16,7 @@
 **Basis**: The Gifford Lectures on Natural Religion, delivered at the University of Edinburgh, 1901–1902
 **First published**: June 1902, Longmans, Green & Co., New York/London
 **Edition consulted**: Routledge Centenary Edition (2002), reset from the original 1902 edition, with a foreword by Micky James (James's grandson) and new introductions by Eugene Taylor and Jeremy Carrette
-**Vault file**: `raw/william_james-varieties_of_religious_experience_a_study_in_human_nature_centenary_edition-t153443-c49.txt`
+**Vault file**: `raw/James, William - The Varieties of Religious Experience, A Study in Human Nature (1902).txt`
 
 The wiki cites the work under its original 1902 publication year, following the convention used elsewhere for classic texts read in a later critical edition.
 

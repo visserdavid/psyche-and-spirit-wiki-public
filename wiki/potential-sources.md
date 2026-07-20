@@ -168,7 +168,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 ### By Myss's Other Key Influences
 
 - **Hay, L. L. (1984). *You can heal your life*. Hay House.**
-  Found in: Anatomy of the Spirit, praise/blurbs section. Also in vault as `louise_l_hay-you_can_heal_your_life-t38166-c56.txt`.
+  Found in: Anatomy of the Spirit, praise/blurbs section. Also in vault as `Hay, Louise L. - You Can Heal Your Life (1984).txt`.
   Relevance: Pioneer of the affirmation-based self-healing movement; endorser of Myss; relevant to the biography-is-biology tradition.
   Status: ✓ Ingested 2026-06-25. (Note: corrected year from 1982 to 1984, the actual first publication date.)
 
@@ -487,7 +487,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 - **James, W. (1902). *The varieties of religious experience*. Modern Library.**
   Found in: Sacred Healing, Chapters 2 and 3 (mind cure and spirituality).
   Relevance: Foundational text on the psychology of religion; Shealy draws on James's analysis of mind cure and the therapeutic power of belief. Mentioned in Anatomy of the Spirit as well.
-  Status: Ingested 2026-07-20 (vault file: william_james-varieties_of_religious_experience_a_study_in_human_nature_centenary_edition-t153443-c49.txt, the Routledge Centenary Edition; wiki cites the 1902 Longmans, Green original per convention).
+  Status: Ingested 2026-07-20 (vault file: James, William - The Varieties of Religious Experience, A Study in Human Nature (1902).txt, the Routledge Centenary Edition; wiki cites the 1902 Longmans, Green original per convention).
 
 - **Underhill, E. (1993). *The spiritual life*. Penguin Books.**
   Found in: Sacred Healing, Chapter 6 (spirituality basis of healing; Underhill's definition of spirituality as everyday attitude).
@@ -650,7 +650,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 
 - **Keleman, S. (1987). *Embodying experience: Forming a personal life*. Center Press.**
   Found in: Emotional Anatomy, back matter (described as companion volume to Emotional Anatomy).
-  Relevance: Presents the clinical methodology for applying Formative Psychology — the practical counterpart to Emotional Anatomy's theory. In vault (`keleman_stanley-embodying_experience_forming_a_personal_life-t16922-c59.txt`).
+  Relevance: Presents the clinical methodology for applying Formative Psychology — the practical counterpart to Emotional Anatomy's theory. In vault (`Keleman, Stanley - Embodying Experience, Forming a Personal Life (1987).txt`).
   Status: ✓ Ingested 2026-06-22
 
 - **Keleman, S. (1979). *Somatic reality*. Center Press.**
