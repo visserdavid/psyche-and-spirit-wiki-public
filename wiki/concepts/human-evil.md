@@ -4,10 +4,12 @@
 
 **Sources**:
 - [Frankl, V. E. (1992). *Man's search for meaning: An introduction to logotherapy* (4th ed., I. Lasch, Trans.). Beacon Press. (Original work published 1946)](../sources/mans-search-for-meaning.md)
+- [Fromm, E. (1941). *Escape from freedom*. Farrar & Rinehart.](../sources/escape-from-freedom.md)
 - [Fromm, E. (1964). *The heart of man: Its genius for good and evil*. Harper & Row.](../sources/heart-of-man.md)
 - [Martin, M. (1992). *Hostage to the devil: The possession and exorcism of five living Americans* (Rev. ed.). HarperSanFrancisco. (Original work published 1976)](../sources/hostage-to-the-devil.md)
 - [Peck, M. S. (1978). *The road less traveled: A new psychology of love, traditional values, and spiritual growth*. Simon & Schuster.](../sources/the-road-less-traveled.md)
 - [Peck, M. S. (1983). *People of the lie: The hope for healing human evil*. Simon & Schuster.](../sources/people-of-the-lie.md)
+- [Jung, C. G. (1969). *Psychology and religion: West and East* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 11). Princeton University Press.](../sources/psychology-and-religion-west-and-east.md)
 
 **Last updated**: 2026-07-11
 
@@ -43,7 +45,7 @@ The mechanism proceeds:
 4. **The lie**: Construct a narrative in which the self is blameless and the victim is responsible
 5. **The hardening**: Each cycle deepens the pattern; the capacity for self-awareness diminishes; the lies become more elaborate and more automatic
 
-Peck draws on [Erich Fromm](../thinkers/erich-fromm.md)'s *[The Heart of Man](../sources/heart-of-man.md)* (1964) for the concept of malignant narcissism and on [Martin Buber](../thinkers/martin-buber.md)'s *Good and Evil* (1953) for the image of evil as a compulsive **insistence on self-affirmation** regardless of evidence. See [Fromm's Three-Strand Account](#fromms-three-strand-account-necrophilia-narcissism-symbiosis) below for how Peck's single-mechanism narcissism account relates to Fromm's broader three-strand "syndrome of decay."
+Peck draws on [Erich Fromm](../thinkers/erich-fromm.md)'s *[The Heart of Man](../sources/heart-of-man.md)* (1964) for the concept of malignant narcissism and on [Martin Buber](../thinkers/martin-buber.md)'s *Good and Evil* (1953) for the image of evil as a compulsive **insistence on self-affirmation** regardless of evidence. Peck names Fromm's earlier *[Escape from Freedom](../sources/escape-from-freedom.md)* (1941) as a second, distinct Fromm influence — not on the narcissism mechanism itself but on his account of *character disorders* as a flight from the anxiety of freedom, discussed separately in *[The Road Less Traveled](../sources/the-road-less-traveled.md)*; see [Discipline as the Four Tools of Growth](discipline-four-tools.md) and [Escape Mechanisms (Fromm)](escape-mechanisms-fromm.md). See [Fromm's Three-Strand Account](#fromms-three-strand-account-necrophilia-narcissism-symbiosis) below for how Peck's single-mechanism narcissism account relates to Fromm's broader three-strand "syndrome of decay."
 
 ## Fromm's Three-Strand Account: Necrophilia, Narcissism, Symbiosis
 
@@ -66,6 +68,16 @@ This is a difference in kind rather than degree: Martin's entity has independent
 [Viktor Frankl](../thinkers/viktor-frankl.md)'s [*Man's Search for Meaning*](../sources/mans-search-for-meaning.md) (1946/1992) offers a pointed counterweight to all four accounts above, from direct observation of the same historical catastrophe (Nazi Germany) that grounds Jung's, Fromm's, and Peck's diagnoses. Rather than proposing a mechanism that isolates a distinct evil-prone type — Peck's malignant narcissist, Fromm's necrophilous-narcissistic-symbiotic character, Martin's possessed individual — Frankl explicitly resists typological division of the camp population (guards and prisoners alike) into categories of evil and good people: "We know that man is that being who has invented the gas chambers of Auschwitz; however, he is also that being who has entered those gas chambers upright, with the Lord's Prayer or the Shema Yisrael on his lips." He reports SS guards who showed unexpected personal kindness and prisoner-functionaries ("Capos") who matched their supervisors' cruelty, concluding that only two "races" of human beings truly exist — the decent and the indecent — and that both are found within every social or political grouping, not aligned with any external category (nationality, uniform, victimhood) that would let an observer sort people into evil and non-evil groups in advance.
 
 This does not contradict Peck's, Fromm's, or Martin's accounts of what happens *within* a person who becomes capable of atrocity — Frankl does not offer a competing mechanism — but it cautions against reading any of those mechanisms as reliably identifying evil people *in advance* of their acts, and it resists the comfortable inference that "the perpetrators" and "the victims" of a historical atrocity map cleanly onto "the evil" and "the good." See [Logotherapy § Relationship to Existing Wiki Frameworks](logotherapy.md#relationship-to-existing-wiki-frameworks) for the fuller discussion of this tension.
+
+## A Sixth Account: Teilhard's Cosmic-Evolutionary Evil
+
+[Pierre Teilhard de Chardin](../thinkers/pierre-teilhard-de-chardin.md)'s brief Appendix to *[The Phenomenon of Man](../sources/the-phenomenon-of-man.md)* (1955/1959) offers a register of evil entirely different from the five clinical, theological, and existential accounts above: not a psychological mechanism within a person (Peck, Fromm), an external possessing agency (Martin), a critique of typological moral sorting (Frankl), or a claim about the structure of the psyche (Jung's *privatio boni*), but a claim about the **structure of an evolving universe as such**. Teilhard distinguishes four forms of evil built into any process of "groping," converging complexification: **disorder/failure** (the statistical cost of trial-and-error advance — many failures for every success), **decomposition** (death itself, the "regular, indispensable condition" of generational replacement), **solitude and anxiety** (consciousness's dread on newly waking into a universe it does not yet understand), and **growth** (the "pangs of childbirth" that accompany every synthesis toward greater unity). On this account, evil is neither an illusion nor a moral failing but a structural by-product of cosmic evolution itself — "the universe... labours, sins, suffers" simply by virtue of undertaking arrangement and centration at all.
+
+This is compatible with, but categorically distinct from, the other five accounts: none of Peck's malignant narcissism, Fromm's necrophilia-narcissism-symbiosis syndrome, Martin's possession, Frankl's refusal to typologise, or Jung's shadow-integration task addresses *why suffering and disorder exist in a universe at all*, and Teilhard's cosmic-scale account says nothing about why any particular person becomes a scapegoating narcissist rather than another. Teilhard does, notably, leave open — without resolving — whether the sheer quantity of evil actually observed exceeds what ordinary evolutionary "groping" would predict, gesturing toward (without endorsing) the possibility of "a primordial deviation" of the kind Christian doctrine addresses through the concept of a fall — the same doctrinal territory [Jung's *privatio boni* critique](privatio-boni.md) engages from a very different angle.
+
+## A Seventh Account: Jung's Unconscious, Undeveloped God
+
+*[Psychology and Religion: West and East](../sources/psychology-and-religion-west-and-east.md)*'s "Answer to Job" gives Jung's most direct narrative statement of the [*privatio boni*](privatio-boni.md) argument: the biblical Yahweh is read as morally undeveloped rather than as a coherent, wholly-good being — capable of "obtuseness and loving-kindness, cruelty and creative power" without contradiction because no "reflecting consciousness" yet mediates them. On this account, evil at the largest scale is a failure of consciousness rather than a distinct force, mechanism, or agency — Job's insistence on Yahweh's injustice forces a kind of unconscious self-recognition that Jung reads as continuing through the Incarnation. This is compatible with the *privatio boni* critique already covered via *Aion* and distinct from all six accounts above: it locates evil's ultimate root not in a person's psychology (Peck, Fromm), an external agency (Martin), typological moral sorting (Frankl), or cosmic structural cost (Teilhard), but in a lack of consciousness at the very ground of the God-image itself — the same shadow-integration task Jung elsewhere applies to individual psychology, here run at theological scale.
 
 ## Scapegoating as the Defining Behaviour
 
@@ -155,7 +167,12 @@ The answer in both frameworks is the same: the refusal of self-knowledge.
 - [Individual and Group Narcissism](individual-and-group-narcissism.md)
 - [Incestuous-Symbiotic Fixation](incestuous-symbiotic-fixation.md)
 - [Erich Fromm](../thinkers/erich-fromm.md)
+- [Escape from Freedom (source)](../sources/escape-from-freedom.md)
+- [Escape Mechanisms (Fromm)](escape-mechanisms-fromm.md)
 - [Martin Buber](../thinkers/martin-buber.md)
+- [Psychology and Religion: West and East (source)](../sources/psychology-and-religion-west-and-east.md)
+- [Privatio Boni](privatio-boni.md)
+- [Carl Jung](../thinkers/carl-jung.md)
 - [Entropy, Laziness, and Grace](entropy-and-grace.md)
 - [Aion (source)](../sources/aion.md)
 - [M. Scott Peck](../thinkers/m-scott-peck.md)
@@ -170,3 +187,5 @@ The answer in both frameworks is the same: the refusal of self-knowledge.
 - [Five Myths of Healing](five-myths-of-healing.md)
 - [Ego vs. Holy Spirit](ego-vs-holy-spirit.md)
 - [Guilt and Soul Sickness](guilt-and-soul-sickness.md)
+- [The Phenomenon of Man (source)](../sources/the-phenomenon-of-man.md)
+- [Pierre Teilhard de Chardin](../thinkers/pierre-teilhard-de-chardin.md)

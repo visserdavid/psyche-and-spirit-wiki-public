@@ -4,6 +4,7 @@
 
 **Sources**:
 - [Jung, C. G. (1968). *Aion: Researches into the phenomenology of the self* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 2). Princeton University Press.](aion.md)
+- [Jung, C. G. (1968). *Psychology and alchemy* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 12). Princeton University Press. (Original work published 1944)](psychology-and-alchemy.md)
 
 **Last updated**: 2026-07-09
 
@@ -70,6 +71,7 @@ See [Gnostic Quaternios and the Structure of the Self](../concepts/gnostic-quate
 - [Marie-Louise von Franz](../thinkers/marie-louise-von-franz.md)
 - [CW 9 Part 1 (source)](collected-works-9-1.md)
 - [Mysterium Coniunctionis (source)](mysterium-coniunctionis.md)
+- [Psychology and Alchemy (source)](psychology-and-alchemy.md)
 - [Man and His Symbols (source)](man-and-his-symbols.md)
 - [The Self](../concepts/the-self.md)
 - [Shadow](../concepts/shadow.md)

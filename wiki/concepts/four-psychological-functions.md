@@ -4,17 +4,18 @@
 
 **Sources**:
 - [Jung, C. G. (1966). *Two essays on analytical psychology* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 7). Princeton University Press.](../sources/two-essays-on-analytical-psychology.md)
+- [Jung, C. G. (1971). *Psychological types* (H. G. Baynes, Trans., rev. R. F. C. Hull; Collected Works of C. G. Jung, Vol. 6). Princeton University Press. (Original work published 1921)](../sources/psychological-types.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
 
-**Last updated**: 2026-07-09 (updated after *Two Essays on Analytical Psychology* ingest)
+**Last updated**: 2026-07-22 (updated after *Psychological Types* ingest)
 
 ---
 
 ## Overview
 
-The introversion/extraversion distinction first appears in this wiki's Jung material in [*Two Essays on Analytical Psychology*](../sources/two-essays-on-analytical-psychology.md) (1917), where Jung develops it not as personality typology in the abstract but as a diagnostic tool for explaining why [Freud and Adler](eros-and-will-to-power.md) reached opposite clinical conclusions from similar case material — Freud's theory characteristically extraverted (object-oriented), Adler's characteristically introverted (subject-oriented). See [Eros and the Will to Power](eros-and-will-to-power.md) for the full argument. The four-function model (thinking, feeling, sensation, intuition) crossed with this attitude-pair was only systematized later, in *Psychological Types* (1921).
+The introversion/extraversion distinction first appears in this wiki's Jung material in [*Two Essays on Analytical Psychology*](../sources/two-essays-on-analytical-psychology.md) (1917), where Jung develops it not as personality typology in the abstract but as a diagnostic tool for explaining why [Freud and Adler](eros-and-will-to-power.md) reached opposite clinical conclusions from similar case material — Freud's theory characteristically extraverted (object-oriented), Adler's characteristically introverted (subject-oriented). See [Eros and the Will to Power](eros-and-will-to-power.md) for the full argument. The full four-function model (thinking, feeling, sensation, intuition) crossed with this attitude-pair was systematized in *[Psychological Types](../sources/psychological-types.md)* (1921) — the primary source for everything in this page below, later restated for a general audience in *Man and His Symbols*.
 
-In [*Man and His Symbols*](../sources/man-and-his-symbols.md), [Jung](../thinkers/carl-jung.md) introduces the four psychological functions as the modes through which human consciousness orients itself to experience. Every individual develops a primary reliance on one or two functions, while the complementary functions remain less developed — and the most neglected function (the **inferior function**) remains most deeply connected to the unconscious.
+In *[Psychological Types](../sources/psychological-types.md)*, [Jung](../thinkers/carl-jung.md) gives his mature, systematic account of the four psychological functions as the modes through which human consciousness orients itself to experience — later restated more briefly in *[Man and His Symbols](../sources/man-and-his-symbols.md)*. Every individual develops a primary reliance on one or two functions, while the complementary functions remain less developed — and the most neglected function (the **inferior function**) remains most deeply connected to the unconscious.
 
 ## The Four Functions
 
@@ -34,7 +35,9 @@ The functions operate within two orientations:
 - **Extraversion**: Libido (psychic energy) primarily oriented outward, toward the object and the world
 - **Introversion**: Libido primarily oriented inward, toward the subject's own inner world
 
-The combination of dominant function and attitude produces eight basic psychological types — the foundation of subsequent personality typology systems, including the Myers-Briggs Type Indicator (MBTI).
+The combination of dominant function and attitude produces eight basic psychological types, described individually in Chapter X of *[Psychological Types](../sources/psychological-types.md)* (e.g., the extraverted-thinking type subordinates life to an objective intellectual formula, with feeling as the repressed, secretly over-sensitive inferior function; the introverted-intuitive type is oriented almost entirely to inner images, at the cost of practical judgment) — the foundation of subsequent personality typology systems, including the Myers-Briggs Type Indicator (MBTI).
+
+Jung develops the type system at length across nine historical chapters before reaching this systematic statement, reading it into (among others) Tertullian and Origen in the early Church, the medieval nominalism/realism dispute, and — at particular length — Schiller's 1795 *Letters on the Aesthetic Education of Man*, which Jung credits as the first sustained attempt to describe the type problem consciously. See *[Psychological Types](../sources/psychological-types.md)* for this historical material and Jung's own candid acknowledgment that his reading of these figures is shaped by his own psychological type.
 
 ## The Superior and Inferior Function
 
@@ -65,6 +68,7 @@ Jung's typology was systematised into the **Myers-Briggs Type Indicator (MBTI)**
 ## Related pages
 
 - [Two Essays on Analytical Psychology (source)](../sources/two-essays-on-analytical-psychology.md)
+- [Psychological Types (source)](../sources/psychological-types.md)
 - [Man and His Symbols (source)](../sources/man-and-his-symbols.md)
 - [Carl Jung](../thinkers/carl-jung.md)
 - [Individuation](individuation.md)

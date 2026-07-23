@@ -39,6 +39,8 @@ The book has two interlocking parts: a theological and mythological argument for
 
 7. **Shadow work is essential** — Each archetype has a shadow expression that blocks growth. Confronting shadows (especially the survival archetypes' shadows) is integral to living out the Contract.
 
+8. **The Vasalisa story** — Myss draws on [Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)'s reading of the Vasalisa/Baba Yaga tale (see [*Women Who Run with the Wolves*](women-who-run-with-the-wolves.md)) to illustrate the Sacred Contract's stages of unfolding; Estés also gave the book a cover endorsement.
+
 ## Structure
 
 - **Introduction**: The premise — each life has a hidden sacred purpose.
@@ -76,3 +78,5 @@ See [Sacred Contracts (concept page)](../concepts/sacred-contracts.md) for a ful
 - [Grace and Charism](../concepts/grace-and-charism.md)
 - [Chakra System](../concepts/chakra-system.md)
 - [Symbolic Sight](../concepts/symbolic-sight.md)
+- [Wild Woman Archetype](../concepts/wild-woman-archetype.md)
+- [Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)

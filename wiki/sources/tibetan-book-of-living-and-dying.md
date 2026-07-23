@@ -141,12 +141,16 @@ This parallels [Willis Harman's](../thinkers/willis-harman.md) [M-1/M-2/M-3 taxo
 
 **NDE mapping**: The identification of NDE elements with bardo stages is suggestive but not established. The NDE is a brief, partial experience; the bardo of dharmata in full Dzogchen teaching is a much more extended and structured process.
 
+**Contrast with Jung's psychological reading**: [Jung](../thinkers/carl-jung.md)'s own commentaries on the (older, Evans-Wentz) Tibetan Book of the Dead, in *[Psychology and Religion: West and East](psychology-and-religion-west-and-east.md)*, take a substantially different approach from Sogyal's — reading the text psychologically and symbolically, as a map of the psyche read backwards from death to birth, while deliberately bracketing its own metaphysical claims about literal rebirth and the after-death state. Sogyal's book, by contrast, presents the tradition's metaphysical claims as true rather than as psychologically instructive fictions.
+
 ---
 
 ## Related pages
 
 - [Sogyal Rinpoche](../thinkers/sogyal-rinpoche.md)
 - [The Four Bardos](../concepts/bardos.md)
+- [Psychology and Religion: West and East (source)](psychology-and-religion-west-and-east.md)
+- [Carl Jung](../thinkers/carl-jung.md)
 - [Rigpa and the Nature of Mind](../concepts/rigpa-nature-of-mind.md)
 - [Ground Luminosity](../concepts/ground-luminosity.md)
 - [Near-Death Experiences](../concepts/near-death-experiences.md)

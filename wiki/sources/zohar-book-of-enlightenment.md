@@ -4,14 +4,15 @@
 
 **Sources**:
 - [Matt, D. C. (Ed. & Trans.). (1983). *Zohar: The book of enlightenment* (Classics of Western Spirituality). Paulist Press.](zohar-book-of-enlightenment.md)
+- [Scholem, G. (1995). *Major trends in Jewish mysticism* (3rd rev. ed.). Schocken Books. (Original work published 1941)](major-trends-in-jewish-mysticism.md)
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-07-22
 
 ---
 
 ## Overview
 
-The *Zohar* (Hebrew: זֹהַר, meaning "Splendor" or "Radiance") is the foundational text of Jewish Kabbalah. Written in a distinctive pseudo-Aramaic, it takes the form of a mystical commentary on the Torah organized around the wanderings and teachings of Rabbi Shimon bar Yochai and his circle of disciples in second-century Galilee. Modern scholarship — led by Gershom Scholem — has established that the text was actually composed in 13th-century Spain by Moses de León (c. 1240–1305), who circulated it in booklets while claiming to be copying an ancient manuscript. The work ranks alongside the Bible and the Talmud in traditional Kabbalistic communities.
+The *Zohar* (Hebrew: זֹהַר, meaning "Splendor" or "Radiance") is the foundational text of Jewish Kabbalah. Written in a distinctive pseudo-Aramaic, it takes the form of a mystical commentary on the Torah organized around the wanderings and teachings of Rabbi Shimon bar Yochai and his circle of disciples in second-century Galilee. Modern scholarship — led by [Gershom Scholem](../thinkers/gershom-scholem.md), whose own primary argument is now directly in this wiki via [*Major Trends in Jewish Mysticism*](major-trends-in-jewish-mysticism.md) — has established through detailed philological analysis (an artificial Aramaic built on Moses de León's own medieval Hebrew habits, systematic grammatical errors, and citations of invented source books) that the bulk of the text was actually composed in 13th-century Spain by Moses de León (c. 1240–1305), who circulated it in booklets while claiming to be copying an ancient manuscript. Scholem distinguishes three compositional layers (the earliest *Midrash ha-Ne'elam*, the main body, and a later, inferior *Ra'aya Meheimna*/*Tikkunim* stratum by a different, lesser imitator), so "sole authorship" is a simplification even Scholem himself qualifies. The work ranks alongside the Bible and the Talmud in traditional Kabbalistic communities.
 
 This volume, translated and introduced by Daniel Chanan Matt for Paulist Press's Classics of Western Spirituality series, comprises approximately 2% of the full Zohar — selected passages from Bereshit (Genesis), Shemot (Exodus), and Vayikra/Bemidbar/Devarim (Leviticus–Deuteronomy), preceded by an extensive introduction and accompanied by detailed notes occupying nearly half the volume.
 
@@ -107,7 +108,7 @@ The Zohar teaches that Torah has four levels: the garment (the narrative surface
 
 ## Critique
 
-**Scholarly debate on authorship**: Modern scholarship (Scholem, Tishby, Matt himself) has established Moses de León as the author, not the ancient Rabbi Shimon bar Yochai. The pseudepigraphic framing is deliberate. Traditionalists defend the book's authority on other grounds; academic study enhances rather than diminishes appreciation.
+**Scholarly debate on authorship**: Modern scholarship (Scholem, Tishby, Matt himself) has established Moses de León as the primary author, not the ancient Rabbi Shimon bar Yochai. The pseudepigraphic framing is deliberate — Scholem treats it as a legitimate, if unusual, category of religious literature rather than simple fraud, noting Moses de León appears to have experienced himself as a genuine vessel for tradition even while composing in his own hand. Traditionalists defend the book's authority on other grounds; academic study enhances rather than diminishes appreciation.
 
 **Myss's use of the sefirot**: Myss uses the sefirot selectively and synthetically, filtered through her own framework. Her specific seven-level compression (pairing Hokhmah/Binah, Hesed/Gevurah, Nezah/Hod) departs from traditional interpretations in ways Kabbalistic scholars would critique. Her overall alignment, however, has clear textual basis in the Zohar's own structure.
 
@@ -129,3 +130,6 @@ The Zohar teaches that Torah has four levels: the garment (the narrative surface
 - [Caroline Myss](../thinkers/caroline-myss.md)
 - [Moses de León](../thinkers/moses-de-leon.md)
 - [Daniel Chanan Matt](../thinkers/daniel-chanan-matt.md)
+- [Major Trends in Jewish Mysticism (source)](major-trends-in-jewish-mysticism.md)
+- [Gershom Scholem](../thinkers/gershom-scholem.md)
+- [Lurianic Kabbalah](../concepts/lurianic-kabbalah.md)

@@ -39,7 +39,7 @@ Stress (Selye's 1936 framework) releases cortisol and adrenalin that suppress im
 
 The chapter also presents Siegel's cancer personality profile (derived from LeShan, Evans 1926, Caroline Bedell Thomas's Johns Hopkins 30-year study): a person who lacked emotional closeness in childhood, came to rely on external validation, invested meaning in a single relationship or role, and when that meaning disappeared experienced quiet desperation — unexpressed grief and loss rather than overt depression.
 
-**Chapter 4 — The Will to Live**: Siegel's tool for assessing and strengthening the patient's will to live: four diagnostic questions (see [Exceptional Cancer Patients](../concepts/exceptional-cancer-patients.md)). He discusses the role of denial, stoicism, and quiet desperation as separate failure modes. He reviews Derogatis's 1979 finding that 35 breast cancer long-term survivors were rated by their physicians as difficult — they expressed emotions, asked questions, and formed real relationships, rather than performing compliance. He presents the role of imagery and drawings in revealing the unconscious, citing Susan Bach's work and Achterberg and Lawlis's finding that imagery predicted disease state more accurately than blood chemistry in 126 cancer patients.
+**Chapter 4 — The Will to Live**: Siegel opens by quoting [Norman Cousins's](../thinkers/norman-cousins.md) *[Anatomy of an Illness](anatomy-of-an-illness.md)* (1979) — "The will to live is not a theoretical abstraction, but a physiologic reality with therapeutic characteristics" — as the epigraph for his own will-to-live framework. Siegel's tool for assessing and strengthening the patient's will to live: four diagnostic questions (see [Exceptional Cancer Patients](../concepts/exceptional-cancer-patients.md)). He discusses the role of denial, stoicism, and quiet desperation as separate failure modes. He reviews Derogatis's 1979 finding that 35 breast cancer long-term survivors were rated by their physicians as difficult — they expressed emotions, asked questions, and formed real relationships, rather than performing compliance. He presents the role of imagery and drawings in revealing the unconscious, citing Susan Bach's work and Achterberg and Lawlis's finding that imagery predicted disease state more accurately than blood chemistry in 126 cancer patients.
 
 ### Part II: Embodying the Mind (Chapters 5–9)
 
@@ -122,5 +122,7 @@ See `wiki/potential-sources.md` for new entries added from this book's reference
 - [Meaning & Medicine (source)](meaning-and-medicine.md)
 - [Hans Selye](../thinkers/hans-selye.md)
 - [Herbert Benson](../thinkers/herbert-benson.md)
+- [Norman Cousins](../thinkers/norman-cousins.md)
+- [Anatomy of an Illness (source)](anatomy-of-an-illness.md)
 - [Viktor Frankl](../thinkers/viktor-frankl.md)
 - [Robert Becker](../thinkers/robert-becker.md)

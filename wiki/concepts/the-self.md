@@ -111,6 +111,10 @@ In [*Aion*](../sources/aion.md), Jung extends the God-image parallel (above) int
 
 **Self in art**: [Aniela Jaffé](../thinkers/aniela-jaffe.md)'s section in the same volume shows how the circle symbol — the Self's primary visual form — appears spontaneously not only in Tibetan mandalas and Navajo sand paintings but in the ground plans of ancient cities (Rome, Washington D.C., Angkor Wat), cathedral rose windows, and across the history of modern painting. The unconscious search for the circle in contemporary abstract art (Kandinsky, Klee, Pollock) is read as a cultural symptom: a civilisation seeking a new centre to replace the God-image that has faded.
 
+## Watts's Vedantic Non-Dual Self
+
+Alan Watts's [The Skin-Encapsulated Ego](skin-encapsulated-ego.md), drawn from Hindu Vedanta rather than Jungian theory, offers an instructive point of contrast rather than a simple parallel. Watts's non-dual Self is not a structure *within* an individual, differentiated psyche (as Jung's Self is — see "The Self vs. the Ego," above) but the undifferentiated cosmic ground itself, with which the individual is held to be strictly identical (*atman* = *Brahman*). Jung's model retains individual psychic particularity as real, valuable, and progressively integrated through [individuation](individuation.md); Watts's Vedantic framing treats individual particularity as maya's "Projecting Power" — real as appearance, not real as final fact. Both traditions nonetheless agree that identifying the ego alone as the whole of what one is constitutes a basic error.
+
 ## Critique
 
 **The God-image parallel**: Jung's equation of the Self with the God-image is the most contested aspect of his work. Critics argue that:
@@ -147,3 +151,5 @@ Jung himself was carefully agnostic: he claimed only to describe the psychologic
 - [Grace and Charism](grace-and-charism.md)
 - [Polytheistic Psychology](polytheistic-psychology.md)
 - [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)
+- [The Skin-Encapsulated Ego](skin-encapsulated-ego.md)
+- [Alan Watts](../thinkers/alan-watts.md)

@@ -4,11 +4,13 @@
 
 **Sources**:
 - [Bohm, D. (1980). *Wholeness and the implicate order*. Routledge & Kegan Paul.](../sources/wholeness-and-the-implicate-order.md)
+- [Jung, C. G. (1960). *Synchronicity: An acausal connecting principle* (R. F. C. Hull, Trans.). In *The structure and dynamics of the psyche* (Collected Works of C. G. Jung, Vol. 8). Routledge & Kegan Paul. (Original work published 1952)](../sources/synchronicity.md)
 - [Jung, C. G. (1968). *Aion: Researches into the phenomenology of the self* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 2). Princeton University Press.](../sources/aion.md)
+- [Jung, C. G. (1969). *Psychology and religion: West and East* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 11). Princeton University Press.](../sources/psychology-and-religion-west-and-east.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
 - [Talbot, M. (1991). *The holographic universe*. HarperCollins.](../sources/the-holographic-universe.md)
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-22
 
 ---
 
@@ -44,6 +46,14 @@ In [*Aion*](../sources/aion.md), Jung applies the same acausal logic at civiliza
 
 Jung proposes synchronicity as an **acausal connecting principle** — a principle of order that operates through meaning rather than through cause-and-effect. It joins the classical causal principle as a second mode of connection between events.
 
+Jung's primary text, [*Synchronicity: An Acausal Connecting Principle*](../sources/synchronicity.md) (1952/1960), grounds the concept in three further bodies of evidence beyond the scarab case:
+
+- **J. B. Rhine's ESP card and dice experiments**, whose above-chance results held steady across distances up to 4,000 miles and declined only with subjects' waning interest — evidence, for Jung, that emotional/archetypal activation (not spatial or temporal proximity) is the real precondition for synchronistic correlation.
+- **An astrological statistics experiment of his own**: testing traditional "marriage aspect" claims against up to 483 married couples' horoscopes and a much larger unmarried-pairs control group. The classical lunar conjunctions did emerge as statistical maxima across three successive batches, but at steadily weakening significance — a result Jung candidly qualifies with corrections for his own calculation errors, and reads not as proof of astrology but as a second-order synchronistic curiosity in its own right.
+- **Taoist, alchemical, and correspondence-theory forerunners** — Lao-tzu and Chuang-tzu's Tao (via Richard Wilhelm), and the classical/medieval doctrine of universal sympathy (Hippocrates, Philo, Plotinus, Pico della Mirandola) — as historical precedents for an ordering principle prior to, and encompassing, causality.
+
+See [*Synchronicity: An Acausal Connecting Principle*](../sources/synchronicity.md) for the full primary-source treatment.
+
 This has implications for:
 - The nature of time: synchronistic events reveal that inner and outer states can be connected across the temporal gap that causality requires
 - The nature of the psyche: the unconscious is not sealed within the skull; it participates in a broader field that includes physical events
@@ -65,9 +75,9 @@ This parallels Pauli's work on quantum complementarity: the discovery that light
 Von Franz draws explicit parallels between synchronicity and developments in microphysics:
 - **Heisenberg's uncertainty principle**: The observer's apparatus is inseparable from the phenomenon observed — the measurement changes what is measured. Correspondingly, the psyche's encounter with the unconscious changes the unconscious content being encountered.
 - **Complementarity (Bohr)**: Two mutually exclusive descriptions may both be necessary for complete description. Psyche and matter are complementary descriptions of the same underlying reality.
-- **Non-locality (quantum entanglement)**: Events spatially separated can be correlated without causal connection — a physical parallel to synchronistic correlation across psychic and physical domains.
+- **Non-locality (quantum entanglement)**: Events spatially separated can be correlated without causal connection — a physical parallel to synchronistic correlation across psychic and physical domains. [Nick Herbert](../thinkers/nick-herbert.md)'s [*Quantum Reality*](../sources/quantum-reality.md) (1985) gives the rigorous version of this parallel: John Stewart Bell's 1964 theorem proves that no theory respecting locality can reproduce the correlations quantum mechanics predicts for particles that have once interacted — non-locality is not speculative physics but an experimentally confirmed feature of reality (Clauser, 1972; Aspect, 1982).
 
-Note: These parallels are suggestive analogies, not formal proofs. The physics-psychology connection as Jung and Pauli proposed it remains speculative. Mainstream physics does not accept synchronicity as a physical principle, and mainstream psychology does not accept it as a validated concept. It is a creative theoretical hypothesis with clinical and philosophical interest.
+Note: These parallels are suggestive analogies, not formal proofs. The physics-psychology connection as Jung and Pauli proposed it remains speculative. Mainstream physics does not accept synchronicity as a physical principle, and mainstream psychology does not accept it as a validated concept. It is a creative theoretical hypothesis with clinical and philosophical interest. Crucially, even Herbert — whose own book supplies the "Bell's theorem" evidence this parallel leans on — treats the leap from subatomic non-locality to meaningful psychic correlation as speculation beyond what physics itself establishes; see [Quantum Reality](../sources/quantum-reality.md) and [Non-local Consciousness](non-local-consciousness.md) for the fuller version of this caution.
 
 ## Synchronicity and the [Individuation](individuation.md) Process
 
@@ -79,7 +89,7 @@ This is one reason why synchronicities are experienced as significant: they are 
 
 - [Myss](../thinkers/caroline-myss.md) invokes synchronicity in [*Sacred Contracts*](../sources/sacred-contracts.md) as evidence that archetypal forces operate through events: the right person, the chance encounter, the unexpected obstacle — all may be synchronistic expressions of the archetypal pattern at work in a biography
 - [Dream Symbolism](dream-symbolism.md): synchronicities often parallel dream content — the outer event confirms or extends what the dream has announced
-- The I Ching itself is based on a principle identical to synchronicity: the hexagram generated by casting coins is assumed to be meaningfully related to the questioner's situation, not by causation but by the ordering principle of the moment
+- The I Ching itself is based on a principle identical to synchronicity: the hexagram generated by casting coins is assumed to be meaningfully related to the questioner's situation, not by causation but by the ordering principle of the moment — Jung makes this connection explicit in his own foreword to the I Ching, collected in *[Psychology and Religion: West and East](../sources/psychology-and-religion-west-and-east.md)*, where the same interpretive move (bracketing metaphysical claims, reading the practice as psychologically real regardless) appears in his commentaries on Zen and the Tibetan Books in the same volume
 
 ## Bohm's Implicate Order as Mechanism
 
@@ -97,8 +107,11 @@ Talbot's *The Holographic Universe* cites Peat's synthesis and uses synchronicit
 
 **Note**: Mainstream psychology classifies synchronistic experiences as examples of **apophenia** (pattern detection in random events) or confirmation bias. Their occurrence is well-documented; their proposed mechanism (an acausal connecting principle) is not scientifically accepted. The concept remains clinically useful as a framework for understanding experiences of meaningful coincidence that patients report in analysis.
 
+**Jung's own astrological experiment**, described in the primary source, is itself a useful cautionary case: Jung reports discovering calculation errors that had inflated his results, and a follow-up experiment (reshuffling the data into new batches) that further weakened the effect — a rare instance, within this wiki's literature, of a thinker publishing his own null-result correction. The residual pattern he reports (declining but nonzero significance across three batches) falls within what critics would call the normal range of chance variation in small, non-preregistered statistical tests, and has not been independently replicated.
+
 ## Related pages
 
+- [Synchronicity (source)](../sources/synchronicity.md)
 - [Man and His Symbols (source)](../sources/man-and-his-symbols.md)
 - [Mysterium Coniunctionis (source)](../sources/mysterium-coniunctionis.md)
 - [Aion (source)](../sources/aion.md)
@@ -116,3 +129,5 @@ Talbot's *The Holographic Universe* cites Peat's synthesis and uses synchronicit
 - [Dream Symbolism](dream-symbolism.md)
 - [Sacred Contracts](sacred-contracts.md)
 - [Non-local Consciousness](non-local-consciousness.md)
+- [Quantum Reality (source)](../sources/quantum-reality.md)
+- [Nick Herbert](../thinkers/nick-herbert.md)

@@ -4,14 +4,29 @@
 
 **Sources**:
 - [Campbell, J. (1974). *The mythic image*. Princeton University Press.](../sources/the-mythic-image.md)
+- [Estés, C. P. (1992). *Women who run with the wolves: Myths and stories of the wild woman archetype*. Ballantine Books.](../sources/women-who-run-with-the-wolves.md)
+- [Frazer, J. G. (1994). *The golden bough: A study in magic and religion* (R. Fraser, Ed.). Oxford University Press. (Original work published 1890)](../sources/the-golden-bough.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-22
 
 ---
 
 ## Overview
 
-The dying-and-rising god is a pan-cultural mythological archetype in which a divine or semi-divine figure — typically connected to nature's cycles and to a goddess consort — undergoes violent death and then rises again. [Joseph Campbell](../thinkers/joseph-campbell.md) documents it exhaustively in *The Mythic Image*, arguing that its near-universal distribution reflects either a shared Bronze Age cultural matrix or (on the psychological reading) a fundamental archetype of the collective unconscious expressing a universal psychic truth about the relationship between death and transformation.
+The dying-and-rising god is a pan-cultural mythological archetype in which a divine or semi-divine figure — typically connected to nature's cycles and to a goddess consort — undergoes violent death and then rises again. [James George Frazer](../thinkers/james-george-frazer.md) first assembled the comparative case at scale in *[The Golden Bough](../sources/the-golden-bough.md)* (1890), reading Adonis, Attis, Osiris, and Dionysus as regional variants of a single vegetation-death-and-return pattern tied to the agricultural cycle. [Joseph Campbell](../thinkers/joseph-campbell.md) inherits Frazer's comparative method directly but reframes it psychologically in *The Mythic Image*, arguing that the pattern's near-universal distribution reflects either a shared Bronze Age cultural matrix or (on the Jungian reading Campbell prefers) a fundamental archetype of the collective unconscious expressing a universal psychic truth about the relationship between death and transformation. Frazer supplies the raw comparative material; Campbell supplies the depth-psychological interpretation of why it recurs.
+
+## Frazer's Account: Vegetation, Kingship, and Sacrifice
+
+Frazer's version of the pattern, developed across Book II ("Killing the God") of *The Golden Bough*, ties the dying god directly to the agricultural cycle and to sacred kingship rather than treating it primarily as a psychological archetype:
+
+- **Adonis**: gored to death by a boar (in some tellings, Ares in boar form, jealous of Aphrodite's love), mourned annually by women in the Adonia festival, and — in some traditions — restored to the world of the living for half the year. Frazer reads the annual "gardens of Adonis" (quick-sprouting, quick-withering seed-beds planted at his festival) as a direct enactment of vegetation's death and return.
+- **Attis**: beloved of the Phrygian goddess Cybele, self-castrated and dies beneath a pine tree; his priests (the *Galli*) ritually reenacted his self-mutilation, and the felled, decorated pine tree of his spring festival is one of Frazer's proposed ancestors of the Christmas tree.
+- **Osiris**: killed and dismembered by Seth, reassembled by Isis — Frazer reads Osiris above all as a corn-god, his scattered and buried body-parts identified with buried grain that springs up as the new harvest, making him simultaneously a dying king, a dying god, and the dying-and-returning crop itself.
+- **Dionysus**: torn apart as the infant Zagreus by the Titans, later reborn — Frazer connects the vine (Dionysus's "blood") to the same buried-seed logic as Osiris's grain.
+- **The Corn-Mother and Corn-Maiden**: a broader European folk-custom layer Frazer surveys separately from the "high" myths above — the last sheaf of the harvest personified as a dying and reviving spirit, ritually cut, mourned, and sometimes ritually "reborn" the following spring, which Frazer treats as the common agricultural substrate underlying the more elaborated Near Eastern and Greek myths.
+- **Balder** (Norse): killed by the one thing that had not sworn an oath not to harm him — a sprig of mistletoe — and burned on a ship-pyre; Frazer uses Balder to connect the dying-god pattern to European seasonal fire festivals and, in the book's closing argument, to identify mistletoe itself (a rootless plant growing on the oak) as the "external soul" of the tree — and hence, finally, as the Golden Bough of the book's title.
+
+See [The Golden Bough](../sources/the-golden-bough.md) and [Sympathetic Magic and Taboo](sympathetic-magic-and-taboo.md) for Frazer's broader interpretive framework, and [The Scapegoat Ritual](scapegoat-ritual.md) for Frazer's most controversial extension of this pattern — his reading of the mockery preceding the Crucifixion as an instance of the sacrificial mock-king.
 
 ## Principal Manifestations
 
@@ -63,6 +78,10 @@ Campbell is careful to note that this reading does not diminish the Christian ev
 
 Part VI of *The Mythic Image* focuses on the Pali scripture account of the Buddha's death (*Mahaparinibbana Sutta*): the Blessed One accepts a meal of "succulent boar flesh" from Chunda the blacksmith, falls ill, and dies. Campbell reads this as the dying-god archetype in Buddhist form: the boar (the avatar of the deity's animal power) brings the death of the divine teacher, who accepts it willingly. The Buddha ("One Waked") is the dying-and-rising god who does not return from death in a resurrection body but completes the pattern in the opposite direction — the final waking from the dream that is both death and liberation simultaneously.
 
+## La Loba: A Feminine-Psychological Variant
+
+[Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)'s [*Women Who Run with the Wolves*](../sources/women-who-run-with-the-wolves.md) (1992) opens with a tale — La Loba, the Wolf Woman, who gathers wolf bones in the desert and sings them back to living flesh — that Estés explicitly parallels to Isis reassembling Osiris and to Demeter's retrieval of Persephone. Unlike Frazer's and Campbell's material above, Estés does not read the pattern as vegetation-cycle myth or as a Bronze Age cultural artifact but purely psychologically: dismemberment-and-re-membering as a template for creative and psychic renewal after periods of deadness, particularly in women's lives. See [Wild Woman Archetype](wild-woman-archetype.md). Estés does not cite Frazer or Campbell directly in this book — the convergence is a parallel reading of the same underlying motif from an independent (clinical/Jungian rather than comparative-religion) tradition, which is itself notable given how sharply the two traditions' methods differ.
+
 ## The Structural Logic: Dismemberment and Re-membering
 
 Across all versions, the pattern carries the same structural logic:
@@ -101,12 +120,16 @@ The dying-and-rising god archetype speaks directly to the transformative dimensi
 
 **From Christian theology**: The Christian tradition insists on the historical uniqueness and literal factuality of the Resurrection — not as myth but as event. Reading it as one instance of a universal archetype is theologically unacceptable to orthodox Christianity even if philosophically illuminating.
 
-**From comparative religion**: The timing and mechanisms of the dying-and-rising motif are disputed. James George Frazer's *Golden Bough* (1890–1915), which first systematised the archetype, has been extensively criticised for methodological anachronism and selection bias. Campbell's version is more sophisticated but faces similar objections.
+**From comparative religion**: The timing and mechanisms of the dying-and-rising motif are disputed. James George Frazer's *[The Golden Bough](../sources/the-golden-bough.md)* (1890–1915), which first systematised the archetype at scale, has been extensively criticised for methodological anachronism and selection bias — see [James George Frazer](../thinkers/james-george-frazer.md) for the fuller discussion. J. Z. Smith's essay "Dying and Rising Gods" (*Encyclopedia of Religion*, 1987) argues the category itself is a modern scholarly construction imposing false unity on traditions whose actual death-and-return narratives (sacrifice vs. murder vs. accident; bodily vs. spiritual vs. symbolic resurrection) differ far more than Frazer's — or Campbell's — synthesis allows. Campbell's version is more psychologically sophisticated but faces the same underlying objection: both read superficially similar stories from unrelated cultures as instances of one underlying pattern.
 
 ## Related pages
 
 - [The Mythic Image (source)](../sources/the-mythic-image.md)
+- [The Golden Bough (source)](../sources/the-golden-bough.md)
 - [Joseph Campbell](../thinkers/joseph-campbell.md)
+- [James George Frazer](../thinkers/james-george-frazer.md)
+- [Sympathetic Magic and Taboo](sympathetic-magic-and-taboo.md)
+- [The Scapegoat Ritual](scapegoat-ritual.md)
 - [Myths as Dreams](myths-as-dreams.md)
 - [Maya: Three Powers](maya-three-powers.md)
 - [Hero Myth](hero-myth.md)
@@ -115,3 +138,6 @@ The dying-and-rising god archetype speaks directly to the transformative dimensi
 - [Biography Is Biology](biography-is-biology.md)
 - [Healing vs. Curing](healing-vs-curing.md)
 - [Chakra Psychology (Campbell)](chakra-psychology-campbell.md)
+- [Wild Woman Archetype](wild-woman-archetype.md)
+- [Women Who Run with the Wolves (source)](../sources/women-who-run-with-the-wolves.md)
+- [Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)

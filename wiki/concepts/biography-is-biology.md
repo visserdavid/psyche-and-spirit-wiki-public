@@ -87,7 +87,7 @@ Borysenko's four converging frameworks on biography-is-biology: energy anatomy (
 
 ## Shealy's Parallel: Electromagnetic Dysthymia
 
-[Shealy](../thinkers/norman-shealy.md)'s [Electromagnetic Dysthymia](electromagnetic-dysthymia.md) (EMD) framework offers a parallel pathway from biography to biology — grounded in stress physiology ([Selye](../thinkers/hans-selye.md)) and bioelectromagnetism rather than energy anatomy. In Shealy's model:
+[Shealy](../thinkers/norman-shealy.md)'s [Electromagnetic Dysthymia](electromagnetic-dysthymia.md) (EMD) framework offers a parallel pathway from biography to biology — grounded in stress physiology ([Selye's General Adaptation Syndrome](general-adaptation-syndrome.md), set out in his own primary text [*The Stress of Life*](../sources/the-stress-of-life.md)) and bioelectromagnetism rather than energy anatomy. In Shealy's model:
 
 - Chronic negative attitudes (anger, resentment, fear, guilt) activate the sympathetic nervous system in ways that deplete DHEA and magnesium, disrupt neurochemistry, and eventually damage specific organs.
 - The specific organ affected depends on the dominant emotional pattern: breast cancer from depression around nurturing; prostate cancer from security/sexuality issues; heart disease from blocked forgiveness and compassion.
@@ -140,7 +140,7 @@ James Pennebaker's controlled research provides empirical support: writing about
 
 ## Dossey's Contribution: "Belief Becomes Biology"
 
-[Larry Dossey](../thinkers/larry-dossey.md) in *Meaning & Medicine* [(1991)](../sources/meaning-and-medicine.md) arrives at the same core claim through a different route — not through energy anatomy or chakra theory but through clinical case studies, epidemiology, and David Bohm's philosophy. Dossey quotes Norman Cousins's formulation: **"Belief becomes biology."**
+[Larry Dossey](../thinkers/larry-dossey.md) in *Meaning & Medicine* [(1991)](../sources/meaning-and-medicine.md) arrives at the same core claim through a different route — not through energy anatomy or chakra theory but through clinical case studies, epidemiology, and David Bohm's philosophy. Dossey quotes [Norman Cousins's](../thinkers/norman-cousins.md) formulation: **"Belief becomes biology"** — Cousins's own book, *[Anatomy of an Illness as Perceived by the Patient](../sources/anatomy-of-an-illness.md)* (1979), is the earlier, popular-audience source of this claim, built on his own recovery from a severe collagen illness.
 
 Key evidence Dossey adds to the biography-is-biology framework:
 

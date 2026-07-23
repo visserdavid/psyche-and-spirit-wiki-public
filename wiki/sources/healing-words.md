@@ -4,8 +4,9 @@
 
 **Sources**:
 - [Dossey, L. (1993). *Healing words: The power of prayer and the practice of medicine*. HarperSanFrancisco.](healing-words.md)
+- [Herbert, N. (1985). *Quantum reality: Beyond the new physics*. Anchor Books/Doubleday.](quantum-reality.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-22
 
 ---
 
@@ -37,7 +38,7 @@ Dossey's framework situates prayer within the evolution of medicine:
 - **Era II** (from 1950s): Mind-body medicine; mind affects the body within the person; the domain of psychoneuroimmunology, biofeedback, imagery, and placebo effects.
 - **Era III** (emerging): Non-local medicine; consciousness is not bounded by individual brain, body, or moment in time; healing can occur at a distance and retroactively. Prayer, therapeutic touch, intuitive diagnosis, and distant healing are Era III phenomena.
 
-The theoretical basis of Era III: physicist John Stewart Bell's 1964 theorem demonstrated that subatomic particles, once in contact, remain correlated regardless of subsequent separation — change one and the other changes instantaneously, no matter the distance. Bell's theorem proved non-locality is a real feature of the universe, not a theoretical oddity. Nick Herbert (Quantum Reality, 1985) argues this applies beyond the quantum domain.
+The theoretical basis of Era III: physicist John Stewart Bell's 1964 theorem demonstrated that subatomic particles, once in contact, remain correlated regardless of subsequent separation — change one and the other changes instantaneously, no matter the distance. Bell's theorem proved non-locality is a real feature of the universe, not a theoretical oddity. [Nick Herbert](../thinkers/nick-herbert.md) ([*Quantum Reality*](quantum-reality.md), 1985) argues this applies beyond the quantum domain — though Herbert's own book treats that extension as speculation, not physics; see [Quantum Reality](quantum-reality.md) for the primary-source treatment.
 
 Dossey cites Myss and Shealy's intuitive diagnosis protocol as a clinical example of Era III: Myss diagnosed patients from 1,200 miles away, given only their name and birthdate, with 93% accuracy — her mind demonstrating non-local access to clinical information. See [Medical Intuition](../concepts/medical-intuition.md).
 
@@ -109,7 +110,7 @@ Evidence that focused intention can harm living organisms:
 - Laboratory: controlled studies show that ordinary people can inhibit growth of fungi, bacteria, and yeast through focused intention — from distances up to 15 miles.
 - Michael Harner (anthropologist, Jivaro fieldwork): distant hexing was standard practice among Jivaro shamans, always performed by teams of 2–3 for safety.
 
-Physicist Nick Herbert: Bell's theorem demonstrates the universe is fundamentally "contagious" at the particle level — "magic" (Frazer's word for action at a distance) is woven into the fabric of reality. This does not prove distant hexing works at the human scale, but it removes the a priori reason to dismiss it.
+Physicist [Nick Herbert](../thinkers/nick-herbert.md): Bell's theorem demonstrates the universe is fundamentally "contagious" at the particle level — "magic" ([James George Frazer](../thinkers/james-george-frazer.md)'s word for action at a distance, from [The Golden Bough](the-golden-bough.md)) is woven into the fabric of reality. This does not prove distant hexing works at the human scale, but it removes the a priori reason to dismiss it.
 
 ---
 

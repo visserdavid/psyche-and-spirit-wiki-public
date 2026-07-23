@@ -141,6 +141,10 @@ The ten archetypes are presented as expressions of the deeper [Sacred Contracts]
 
 For full profiles of the ten archetypes, see [Ten Contemporary Archetypes](ten-contemporary-archetypes.md).
 
+## Estés's Wild Woman Archetype
+
+[Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)'s [*Women Who Run with the Wolves*](../sources/women-who-run-with-the-wolves.md) (1992) offers a further variant, distinct from Myss's twelve personal companions and Hillman's individual acorn: a single universal instinctual substratum of the feminine psyche (the [Wild Woman archetype](wild-woman-archetype.md)) expressed through culturally local figures (Baba Yaga, Spider Woman, the Dakini) rather than a set of discrete personal archetypes to be identified and worked with individually. Estés's Vasalisa/Baba Yaga material is cited directly by Myss in *Sacred Contracts* to illustrate the Contract's stages of unfolding.
+
 ## Critique
 
 **The universality claim**: Both Jung and Campbell have been criticised for over-universalising — imposing Western psychological and mythological categories on cultures that may not share them. The same critique applies to Myss's synthesis, which draws heavily on Judeo-Christian and Hindu frameworks while claiming universal applicability.
@@ -188,3 +192,6 @@ For full profiles of the ten archetypes, see [Ten Contemporary Archetypes](ten-c
 - [Re-Visioning Psychology (source)](../sources/re-visioning-psychology.md)
 - [Polytheistic Psychology](polytheistic-psychology.md)
 - [Soul-Making and the Imaginal](soul-making.md)
+- [Wild Woman Archetype](wild-woman-archetype.md)
+- [Women Who Run with the Wolves (source)](../sources/women-who-run-with-the-wolves.md)
+- [Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)

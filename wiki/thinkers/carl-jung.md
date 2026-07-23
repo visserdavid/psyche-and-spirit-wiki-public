@@ -5,11 +5,15 @@
 **Sources**:
 - [Jung, C. G. (1966). *Two essays on analytical psychology* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 7). Princeton University Press.](../sources/two-essays-on-analytical-psychology.md)
 - [Jung, C. G. (1968). *Aion: Researches into the phenomenology of the self* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 2). Princeton University Press.](../sources/aion.md)
+- [Jung, C. G. (1968). *Psychology and alchemy* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 12). Princeton University Press. (Original work published 1944)](../sources/psychology-and-alchemy.md)
 - [Jung, C. G. (1969). *The archetypes and the collective unconscious* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 1). Princeton University Press.](../sources/collected-works-9-1.md)
+- [Jung, C. G. (1971). *Psychological types* (H. G. Baynes, Trans., rev. R. F. C. Hull; Collected Works of C. G. Jung, Vol. 6). Princeton University Press. (Original work published 1921)](../sources/psychological-types.md)
 - [Jung, C. G. (1970). *Mysterium coniunctionis: An inquiry into the separation and synthesis of psychic opposites in alchemy* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 14). Princeton University Press.](../sources/mysterium-coniunctionis.md)
 - [Jung, C. G., & Kerényi, C. (1969). *Essays on a science of mythology: The myth of the divine child and the mysteries of Eleusis* (R. F. C. Hull, Trans.). Princeton University Press.](../sources/essays-on-a-science-of-mythology.md)
 - [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Jung, C. G., von Franz, M.-L., Henderson, J. L., Jacobi, J., & Jaffé, A. (1964). *Man and his symbols*. Doubleday.](../sources/man-and-his-symbols.md)
+- [Jung, C. G. (1967). *Symbols of transformation* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 5). Princeton University Press. (Original work published 1912/1952)](../sources/symbols-of-transformation.md)
+- [Jung, C. G. (1969). *Psychology and religion: West and East* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 11). Princeton University Press.](../sources/psychology-and-religion-west-and-east.md)
 - [Myss, C. (1996). *Anatomy of the spirit: The seven stages of power and healing*. Harmony Books.](../sources/anatomy-of-the-spirit.md)
 - [Myss, C. (2001). *Sacred contracts: Awakening your divine potential*. Harmony Books.](../sources/sacred-contracts.md)
 
@@ -23,7 +27,7 @@ Carl Gustav Jung (1875–1961) was a Swiss psychiatrist who founded analytical p
 
 ## Memories, Dreams, Reflections (1962/1963)
 
-*[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)* is Jung's autobiography, recorded and edited by his close collaborator Aniela Jaffé, and the wiki's primary source for Jung's own biographical voice — as against the theoretical Collected Works volumes above. It documents his childhood visions and the "Personality No. 1/No. 2" split that anticipates the ego/Self distinction; his own first-person account of the [break with Freud](sigmund-freud.md); the 1913–1917 "confrontation with the unconscious" that produced the *Red Book* and the [Philemon/Salome fantasy-figures](../concepts/active-imagination-and-the-red-book.md), from which he says his entire later theory was drawn; the Bollingen Tower as a decades-long "confession of faith in stone"; and his final chapter, "Late Thoughts," extending *Aion*'s [privatio boni](../concepts/privatio-boni.md) critique into a fuller argument that incarnation itself requires a God-image encompassing both good and evil.
+*[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)* is Jung's autobiography, recorded and edited by his close collaborator Aniela Jaffé, and the wiki's primary source for Jung's own biographical voice — as against the theoretical Collected Works volumes above. It documents his childhood visions and the "Personality No. 1/No. 2" split that anticipates the ego/Self distinction; his own first-person account of the [break with Freud](sigmund-freud.md); the 1913–1917 "confrontation with the unconscious" that produced the *Red Book* — now itself an ingested primary source, see *[The Red Book: Liber Novus](../sources/the-red-book.md)* and the [Philemon/Salome fantasy-figures](../concepts/active-imagination-and-the-red-book.md), from which he says his entire later theory was drawn — including, controversially, whether this period is better described as disciplined self-experimentation or an unacknowledged psychotic episode (see Richard Noll's critique, discussed on that concept page); the Bollingen Tower as a decades-long "confession of faith in stone"; and his final chapter, "Late Thoughts," extending *Aion*'s [privatio boni](../concepts/privatio-boni.md) critique into a fuller argument that incarnation itself requires a God-image encompassing both good and evil.
 
 **Jung's own near-death experience**: following a 1944 heart attack, Jung reports an hour-long vision of the earth seen from roughly a thousand miles up, then a black stone temple floating in space off the coast of the Indian Ocean, a sense of "everything sloughed away" as he approached its entrance, and — after being told by his own doctor's visionary double that he "had no right to leave the earth" — a return to ordinary life he experienced as a disappointment. This is the account [Raymond Moody](../thinkers/raymond-moody.md) cites in *[Life After Life](../sources/life-after-life.md)* as a modern historical parallel to the NDE accounts he collected; it is now directly sourced here rather than flagged as needing verification. See [Near-Death Experiences](../concepts/near-death-experiences.md).
 
@@ -81,7 +85,11 @@ Jung's contribution to *Man and His Symbols* develops several points not fully a
 
 **[Four Psychological Functions](../concepts/four-psychological-functions.md)**: Jung introduces thinking, feeling, intuition, and sensation — with introversion and extraversion as the two basic attitudes — as the framework for understanding personality typology and the location of the inferior function as the primary gateway between the ego and the unconscious.
 
-**[Synchronicity](../concepts/synchronicity.md)**: Though Jung developed this concept more fully in *Synchronicity: An Acausal Connecting Principle* (1952), *Man and His Symbols* situates it in the broader project of aligning psychology with physics. Working with Wolfgang Pauli, Jung proposed that meaningful coincidence — the scarab dream example, the Darwin/Wallace parallel discovery — reveals an acausal connecting principle complementary to causation.
+**[Synchronicity](../concepts/synchronicity.md)**: Though Jung developed this concept more fully in [*Synchronicity: An Acausal Connecting Principle*](../sources/synchronicity.md) (1952), *Man and His Symbols* situates it in the broader project of aligning psychology with physics. Working with Wolfgang Pauli, Jung proposed that meaningful coincidence — the scarab dream example, the Darwin/Wallace parallel discovery — reveals an acausal connecting principle complementary to causation.
+
+## Synchronicity: An Acausal Connecting Principle (1952/1960)
+
+[*Synchronicity: An Acausal Connecting Principle*](../sources/synchronicity.md) is Jung's fullest theoretical statement of the concept, developed in dialogue with physicist Wolfgang Pauli (his own former analysand) and grounded in the scarab case, an astrological statistics experiment on married couples' horoscopes, J. B. Rhine's ESP experiments, and Taoist/alchemical forerunners of acausal, meaning-based ordering. See [Synchronicity](../concepts/synchronicity.md) for the full treatment.
 
 ## Essays on a Science of Mythology (with Karl Kerényi, 1949/1969)
 
@@ -103,6 +111,10 @@ This volume gives [The Self](../concepts/the-self.md) its deepest ground: the **
 
 Its two major extensions of the wiki's Jung material: **[Christ as a Symbol of the Self](../concepts/christ-as-symbol-of-the-self.md)**, in which Jung reads the historical figure of Christ as the West's dominant totality-symbol and the doctrinally anticipated Antichrist as the shadow that Christianity's exclusion of evil from the God-image (via **[privatio boni](../concepts/privatio-boni.md)**, the doctrine that evil is a mere absence of good) inevitably generated — framed astrologically through the two-thousand-year Age of Pisces, the direct technical precedent for Myss's [Three Ages of Power](../concepts/three-ages-of-power.md); and **[Gnostic Quaternios and the Structure of the Self](../concepts/gnostic-quaternios.md)**, a catalogue of Naassene, alchemical, and comparative material organized into fourfold quaternio diagrams (Anthropos, Shadow, Paradise, Lapis) that directly anticipates *Mysterium Coniunctionis*'s alchemical schema.
 
+## Psychological Types (1921/1971)
+
+[*Psychological Types*](../sources/psychological-types.md) marks the end of the post-Freud "fallow period" and gives Jung's mature, systematic statement of introversion/extraversion crossed with the four functions (thinking, feeling, sensation, intuition) — the theory sketched more briefly three years earlier in *Two Essays* and restated for a general audience four decades later in *Man and His Symbols*. Its historical chapters read the type problem into Tertullian and Origen, the medieval nominalism/realism dispute, and Schiller's aesthetics; its systematic Chapter X describes all eight functional types individually, and its "Definitions" chapter is the clearest single glossary of Jung's own technical vocabulary. See [Four Psychological Functions](../concepts/four-psychological-functions.md) for the full treatment, including the book's direct historical descent into the Myers-Briggs Type Indicator.
+
 ## Two Essays on Analytical Psychology (1917/1928, rev. through 1966)
 
 [*Two Essays on Analytical Psychology*](../sources/two-essays-on-analytical-psychology.md) is the wiki's clinical-mechanics counterpart to *Aion*'s architecture: where *Aion* gives the Ego–Shadow–Syzygy–Self sequence its structure, CW 7 shows the actual technique of getting from one stage to the next. Its major contributions:
@@ -121,6 +133,7 @@ Jung's own work has been critiqued for being non-falsifiable (archetypes are not
 
 - [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
 - [Active Imagination and the Red Book](../concepts/active-imagination-and-the-red-book.md)
+- [The Red Book: Liber Novus (source)](../sources/the-red-book.md)
 - [Anatomy of the Spirit (source)](../sources/anatomy-of-the-spirit.md)
 - [Two Essays on Analytical Psychology (source)](../sources/two-essays-on-analytical-psychology.md)
 - [Sigmund Freud](sigmund-freud.md)
@@ -130,7 +143,9 @@ Jung's own work has been critiqued for being non-falsifiable (archetypes are not
 - [Compensation](../concepts/compensation.md)
 - [Mana-Personality](../concepts/mana-personality.md)
 - [Aion (source)](../sources/aion.md)
+- [Synchronicity: An Acausal Connecting Principle (source)](../sources/synchronicity.md)
 - [CW 9 Part 1 (source)](../sources/collected-works-9-1.md)
+- [Psychological Types (source)](../sources/psychological-types.md)
 - [Essays on a Science of Mythology (source)](../sources/essays-on-a-science-of-mythology.md)
 - [Christ as a Symbol of the Self](../concepts/christ-as-symbol-of-the-self.md)
 - [Privatio Boni](../concepts/privatio-boni.md)

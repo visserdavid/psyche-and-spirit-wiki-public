@@ -166,7 +166,7 @@ Ring cites Gopi Krishna's statement that kundalini arousal energises the brain t
 
 Ring's culminating thesis: NDEs are not merely individual transformative events — they are catalysts in the evolution of human consciousness toward what Teilhard de Chardin called the Omega Point.
 
-**Teilhard de Chardin's framework**: The Jesuit paleontologist Pierre Teilhard de Chardin argued in *The Phenomenon of Man* (1959) that evolution is not merely biological but also psychic — the universe is developing toward increasing complexity and consciousness, tending toward a convergent state he called the Omega Point, where consciousness reaches its maximum.
+**Teilhard de Chardin's framework**: The Jesuit paleontologist [Pierre Teilhard de Chardin](../thinkers/pierre-teilhard-de-chardin.md) argued in *[The Phenomenon of Man](the-phenomenon-of-man.md)* (1959) that evolution is not merely biological but also psychic — the universe is developing toward increasing complexity and consciousness, tending toward a convergent state he called the Omega Point, where consciousness reaches its maximum. Ring draws only on Teilhard's optimistic vision of that convergence; see [Omega Hypothesis](../concepts/omega-hypothesis.md) for how this compares with Teilhard's own, more ambivalent treatment of evil and a possible "paroxysm" scenario.
 
 **John White's "Homo noeticus"**: Ring draws on John White's concept of an emerging form of humanity characterised by:
 - Deeper awareness of the self and universe

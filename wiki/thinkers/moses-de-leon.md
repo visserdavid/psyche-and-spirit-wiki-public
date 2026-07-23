@@ -4,8 +4,9 @@
 
 **Sources**:
 - [Matt, D. C. (Ed. & Trans.). (1983). *Zohar: The book of enlightenment* (Classics of Western Spirituality). Paulist Press.](../sources/zohar-book-of-enlightenment.md)
+- [Scholem, G. (1995). *Major trends in Jewish mysticism* (3rd rev. ed.). Schocken Books. (Original work published 1941)](../sources/major-trends-in-jewish-mysticism.md)
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-07-22
 
 ---
 
@@ -21,7 +22,7 @@ Beginning around 1280–1286, he produced the main body of the Zohar — a spraw
 
 Isaac ben Samuel of Acre, a contemporary who investigated the Zohar's origins, records that Moses de León's widow admitted her husband had "written [the Zohar] from his own head" — attributing the work to financial motivation. Moses's friend Joseph Abulafia confirmed the role of a meditative writing technique (writing in an altered state using divine names) in the composition.
 
-Modern scholarship, pioneered by Gershom Scholem in his 1925 lecture "Did Moses de León Write the Zohar?" and confirmed by Isaiah Tishby and Daniel Chanan Matt, has established beyond reasonable doubt that Moses de León was the primary (though possibly not sole) author. The Aramaic of the Zohar, while archaic-seeming, contains systematic Hebraisms, grammatical errors, and neologisms characteristic of Moses's Hebrew style.
+Modern scholarship, pioneered by [Gershom Scholem](gershom-scholem.md) in his 1925 lecture "Did Moses de León Write the Zohar?" and his fuller argument in [*Major Trends in Jewish Mysticism*](../sources/major-trends-in-jewish-mysticism.md) (1941), and confirmed by Isaiah Tishby and Daniel Chanan Matt, has established beyond reasonable doubt that Moses de León was the primary (though not sole) author. The Aramaic of the Zohar, while archaic-seeming, contains systematic Hebraisms, grammatical errors, and neologisms characteristic of Moses's Hebrew style — and its fantastical, literary-derived (rather than lived) geography of Palestine independently confirms he had never set foot there. Scholem distinguishes three compositional layers: the *Midrash ha-Ne'elam* (earliest, 1275–1281, where Moses still wavers over which legendary figures to center his narrative on), the main body of the Zohar (1281–1286, dominated by Rabbi Shimon bar Yochai), and the later, distinctly inferior *Ra'aya Meheimna* and *Tikkunim* (c. 1300), which Scholem attributes to a different, less gifted writer imitating Moses's style.
 
 ### The Zohar's Purpose
 
@@ -64,3 +65,5 @@ The creative genius Moses de León displays — composing a masterwork while att
 - [Tikkun](../concepts/tikkun.md)
 - [Daniel Chanan Matt](daniel-chanan-matt.md)
 - [Channeling and Spiritual Dictation](../concepts/channeling-spiritual-dictation.md)
+- [Gershom Scholem](gershom-scholem.md)
+- [Major Trends in Jewish Mysticism (source)](../sources/major-trends-in-jewish-mysticism.md)

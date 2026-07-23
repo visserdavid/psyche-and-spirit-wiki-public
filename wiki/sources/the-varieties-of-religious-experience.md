@@ -58,6 +58,8 @@ James closes with his own tentative metaphysical position — piecemeal supernat
 
 The 2002 centenary edition's introductions (Eugene Taylor; Jeremy Carrette) situate the book as the founding document of the psychology of religion, tracing its influence on later psychoanalytic, humanistic, transpersonal, and neuroscientific approaches to religious experience, while noting recurring criticisms: an individualist and Protestant bias in James's selection of testimony, insufficient attention to institutional and communal religion, and — from later neuroscience-of-religion research (e.g., Michael Persinger's temporal-lobe studies) — a persistent tendency to repeat exactly the "medical materialist" category error James's first lecture had already diagnosed and rejected a century earlier.
 
+Alan Watts lists this book in his own bibliography for [*The Book: On the Taboo Against Knowing Who You Are*](the-book-on-the-taboo.md) (1966) as a work expanding the same non-dual, mystical-experience themes.
+
 ## Related pages
 
 - [William James](../thinkers/william-james.md)

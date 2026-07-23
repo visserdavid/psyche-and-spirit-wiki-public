@@ -18,6 +18,14 @@ Joseph Campbell (1904–1987) was an American professor of comparative mythology
 
 Key works: *The Hero with a Thousand Faces* (1949), *The Masks of God* (4 vols., 1959–1968), *The Mythic Image* (1974), and the posthumous *The Power of Myth* (with Bill Moyers, 1988). *The Mythic Image* — the Bollingen Series C volume, ten years in preparation — is considered by many scholars his deepest and most original work, but *The Hero with a Thousand Faces* remains his most widely read and influential book, and the direct textual source of the monomyth schema *The Mythic Image* and later works build on. See [Hero Myth](../concepts/hero-myth.md) for the wiki's full account of the seventeen-stage schema, and [World Navel](../concepts/world-navel.md) for Campbell's account of the fixed cosmic center anchoring the journey.
 
+## Biography
+
+Campbell earned a master's degree in medieval literature at Columbia University, focused on the Old French and Old German Arthurian romances, then went to study at the University of Paris (Sorbonne) and the University of Munich from 1927. There he encountered both the mythically-inflected modernist art of James Joyce, Thomas Mann, Picasso, and Paul Klee, and the "revolutionary psychological teachings" of Freud and Jung — an exposure he later credited as the source of his own formula "myths are public dreams, dreams are private myths." He returned to Columbia in 1929 intending to continue his doctorate but abandoned it after his advisers refused to approve a dissertation spanning Arthurian legend, modernist literature, and depth psychology together; the Wall Street Crash arrived the same year, and he spent much of the Depression unemployed, reading independently across mythology, philosophy, and comparative religion. He joined the faculty of Sarah Lawrence College in 1934 and taught there until retiring in 1972.
+
+*The Hero with a Thousand Faces* originated when a New York publisher asked Campbell to compile a modern collection of world myths "like Bulfinch's Mythology"; Campbell instead spent five years developing the single recurring hero-pattern he found running through Sumerian epic, Pacific and Siberian folktale, the lives of Buddha and Jesus, and modern psychiatric case material — the book that resulted, in his own account, was "a book about how to read a myth" rather than a myth collection itself. George Lucas has described discovering *The Hero with a Thousand Faces* mid-way through drafting the original *Star Wars* screenplay as the moment he first recognized the pattern he had already been working from intuitively.
+
+*Source: editorial foreword ("Editor's Foreword" and "A Note on the Text," by David Kudler) to the Joseph Campbell Foundation's 2008/2020 Collected Works third edition/ebook of* The Hero with a Thousand Faces*. This edition's body text is otherwise identical to the 1949 original already cited above and was not separately ingested as a source.*
+
 ## The Mythic Image (1974)
 
 *The Mythic Image* (Princeton University Press, 1974; Bollingen Series C) is a 572-page illustrated work arguing that myths are public dreams and dreams are private myths — both arising from the same unconscious source. Across six parts it moves from the outer world of mythological imagery (the universe as Vishnu's dream) through cosmic order (world mountain, calendric cycles, the number 432,000) and the lotus/rose symbolism of East and West, to a detailed psychological reading of the seven-chakra system of Kundalini Yoga, the universal sacrifice archetype, and the final theme of waking from the dream of multiplicity.
@@ -64,7 +72,7 @@ Campbell was not a healer or medical intuitive; his concerns were academic and l
 
 ## Critique
 
-Campbell's monomyth has been criticized by scholars for over-universalizing: forcing diverse cultural narratives into a single Western-shaped template can erase important differences. Feminist critics (including some within the holistic health movement) have noted that the hero's journey privileges a masculine archetype of individual adventure and return. Myss's framework partly addresses this by incorporating feminine archetypes (Shekhinah, the partnership chakra's emphasis on relationship), but the underlying Campbell model remains oriented toward individual spiritual heroism.
+Campbell's comparative method is itself directly descended from [James George Frazer](james-george-frazer.md)'s *[The Golden Bough](../sources/the-golden-bough.md)* — the same critique leveled at Frazer's "armchair" synthesis of decontextualized customs into a single evolutionary pattern applies, in modified form, to Campbell's monomyth. Campbell's monomyth has been criticized by scholars for over-universalizing: forcing diverse cultural narratives into a single Western-shaped template can erase important differences. Feminist critics (including some within the holistic health movement) have noted that the hero's journey privileges a masculine archetype of individual adventure and return. Myss's framework partly addresses this by incorporating feminine archetypes (Shekhinah, the partnership chakra's emphasis on relationship), but the underlying Campbell model remains oriented toward individual spiritual heroism.
 
 ## Related pages
 
@@ -72,6 +80,8 @@ Campbell's monomyth has been criticized by scholars for over-universalizing: for
 - [World Navel](../concepts/world-navel.md)
 - [The Mythic Image (source)](../sources/the-mythic-image.md)
 - [Anatomy of the Spirit (source)](../sources/anatomy-of-the-spirit.md)
+- [The Golden Bough (source)](../sources/the-golden-bough.md)
+- [James George Frazer](james-george-frazer.md)
 - [Sacred Contracts (source)](../sources/sacred-contracts.md)
 - [Myths as Dreams](../concepts/myths-as-dreams.md)
 - [Maya: Three Powers](../concepts/maya-three-powers.md)

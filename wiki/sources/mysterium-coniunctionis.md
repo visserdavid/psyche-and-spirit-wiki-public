@@ -11,7 +11,7 @@
 
 ## Bibliographic Note
 
-Originally published in German as *Mysterium Coniunctionis: Untersuchung über die Trennung und Zusammensetzung der seelischen Gegensätze in der Alchemie* (Rascher Verlag, Zurich), Parts I and II in 1955 and 1956. First English edition (Bollingen Series XX) copyright 1963 by Bollingen Foundation, New York; this second edition copyright 1970 by Princeton University Press. Translated throughout by R. F. C. Hull. Written over roughly a decade (1941–1954) and completed the year before Jung's death in 1961, it is explicitly framed by its editors as Jung's "culminating" work — the summation of the alchemical research begun with his 1929 commentary on *The Secret of the Golden Flower* and continued through *Psychology and Alchemy* (1944), *Alchemical Studies* (CW 13), *The Psychology of the Transference* (1946), and *Aion* (1951).
+Originally published in German as *Mysterium Coniunctionis: Untersuchung über die Trennung und Zusammensetzung der seelischen Gegensätze in der Alchemie* (Rascher Verlag, Zurich), Parts I and II in 1955 and 1956. First English edition (Bollingen Series XX) copyright 1963 by Bollingen Foundation, New York; this second edition copyright 1970 by Princeton University Press. Translated throughout by R. F. C. Hull. Written over roughly a decade (1941–1954) and completed the year before Jung's death in 1961, it is explicitly framed by its editors as Jung's "culminating" work — the summation of the alchemical research begun with his 1929 commentary on *The Secret of the Golden Flower* and continued through *[Psychology and Alchemy](psychology-and-alchemy.md)* (1944), *Alchemical Studies* (CW 13), *The Psychology of the Transference* (1946), and *[Aion](aion.md)* (1951).
 
 **Note on potential-sources.md correction**: the wiki's prior candidate-source entry cited this as "Jung, C. G. (1963). *Mysterium coniunctionis* (Collected Works Vol. 14). Princeton University Press" — correct as far as it went (1963 was indeed the first English Bollingen printing) but incomplete; it omitted the translator, the original 1955–56 German date, and the 2nd-edition (1970) printing that is the standard citation used elsewhere in this wiki for Jung's Collected Works (matching the convention set by [CW 9 Part 1](collected-works-9-1.md), cited there as the 1969 2nd edition). Corrected above.
 
@@ -101,6 +101,7 @@ The scintilla doctrine gives Jung's clinical concept of the **complex** (a split
 
 - [Carl Jung](../thinkers/carl-jung.md)
 - [Marie-Louise von Franz](../thinkers/marie-louise-von-franz.md)
+- [Psychology and Alchemy (source)](psychology-and-alchemy.md)
 - [CW 9 Part 1 (source)](collected-works-9-1.md)
 - [Essays on a Science of Mythology (source)](essays-on-a-science-of-mythology.md)
 - [Sol, Luna, and the Alchemical Coniunctio](../concepts/coniunctio.md)

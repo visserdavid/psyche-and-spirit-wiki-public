@@ -5,8 +5,9 @@
 **Sources**:
 - [Ring, K. (1984). *Heading toward omega: In search of the meaning of the near-death experience*. William Morrow.](../sources/heading-toward-omega.md)
 - [Sheldrake, R. (1981). *A new science of life: The hypothesis of morphic resonance*. Blond & Briggs.](../sources/a-new-science-of-life.md)
+- [Teilhard de Chardin, P. (1959). *The phenomenon of man* (B. Wall, Trans.; J. Huxley, Intro.). Harper & Brothers. (Original work published 1955 as *Le phénomène humain*)](../sources/the-phenomenon-of-man.md)
 
-**Last updated**: 2026-07-18
+**Last updated**: 2026-07-22
 
 ---
 
@@ -24,11 +25,13 @@ The hypothesis has three components:
 
 ## Teilhard de Chardin and the Omega Point
 
-[Pierre Teilhard de Chardin](../thinkers/pierre-teilhard-de-chardin.md) (1881–1955), Jesuit priest and paleontologist, argued in *The Phenomenon of Man* (1959) that evolution is not merely biological but psychic — reality has an "inner face" as well as an outer one, and this inner face (consciousness) is evolving toward greater complexity and unity alongside the material.
+[Pierre Teilhard de Chardin](../thinkers/pierre-teilhard-de-chardin.md) (1881–1955), Jesuit priest and paleontologist, argued in *[The Phenomenon of Man](../sources/the-phenomenon-of-man.md)* (written 1938–1940, published 1955/1959) that evolution is not merely biological but psychic — reality has an "inner face" as well as an outer one, and this inner face (consciousness) is evolving toward greater complexity and unity alongside the material, per his **Law of Complexity-Consciousness** (see [Noosphere and the Law of Complexity-Consciousness](noosphere-and-complexity-consciousness.md) for the full account).
 
-Teilhard's key argument: The universe is converging. Evolution moves from the geosphere through the biosphere to the noosphere (sphere of thought) and ultimately toward what he called the **Omega Point** — a final convergent state of maximum consciousness, love, and unity, toward which the entire cosmic process is oriented.
+Teilhard's key argument: The universe is converging. Evolution moves from the geosphere through the biosphere to the noosphere (sphere of thought) and ultimately toward what he called the **Omega Point** — a final convergent state of maximum consciousness, love, and unity, toward which the entire cosmic process is oriented. Teilhard gives Omega four specific attributes: it must be **autonomous** (an independent pole, not merely the sum of what converges on it), **actual** (already really present, not merely a future ideal — because, on his account, love as a cosmic energy "dies at the touch of the impersonal and anonymous" and so requires an already-existing personal object), **irreversible** (a state that has genuinely escaped entropy, his account of what personal survival of death would mean cosmologically), and **transcendent** (Omega must ultimately exceed the space-time process that converges on it, rather than merely being its terminus). He proposes **love itself as a form of cosmic energy** — the psychic-attraction analogue of gravitational curvature — as the actual mechanism of convergence, writing that "the physical structure of the universe is love."
 
 Ring's connection: NDEs are not random accidents of resuscitation technology. They are triggering something in survivors that closely resembles the characteristics Teilhard attributed to the approaching Omega — a decrease in ego-centrism, an increase in compassion for all beings, a deepened sense of cosmic unity, a diminished fear of death, and an enhanced capacity for love. If millions of people are undergoing this transformation, the species may be accelerating toward Teilhard's Omega.
+
+Teilhard himself, notably, considers two possible endings for this convergence: one in which "ideal and evil on earth" are reduced to a minimum and the "final convergence takes place in peace," and a second, closer to traditional apocalyptic thought, in which good and evil both intensify together to a "paroxysm" before the noosphere splits into two poles at the moment of planetary death. Ring's Omega Hypothesis draws only on Teilhard's optimistic first scenario; the second, darker possibility (extensively documented in Teilhard's own Appendix on evil) is not addressed in Ring's adaptation. See [Human Evil § A Sixth Account: Teilhard's Cosmic-Evolutionary Evil](human-evil.md#a-sixth-account-teilhards-cosmic-evolutionary-evil).
 
 ---
 
@@ -153,7 +156,7 @@ Ring's conclusion: "The meaning of NDEs and the meaning of others' awakenings...
 
 **Selection effects**: Ring's Omega sample consists disproportionately of people who deeply integrated and publicised their NDE transformation. The full distribution of post-NDE outcomes — including people who remained unchanged, became disturbed, or regressed to pre-NDE patterns — is not represented. The Omega Hypothesis may overestimate the transformative power of the NDE in the population as a whole.
 
-**Teilhard's cosmology**: Teilhard de Chardin's teleological evolutionary framework — the idea that the universe is "aimed at" the Omega Point — is a theological commitment that most evolutionary biologists reject. Ring appropriates the vocabulary without fully committing to the metaphysics; this leaves the philosophical foundation of the hypothesis ambiguous.
+**Teilhard's cosmology**: Teilhard de Chardin's teleological evolutionary framework — the idea that the universe is "aimed at" the Omega Point — is a theological commitment that most evolutionary biologists reject; see [The Phenomenon of Man § Reception and Critique](../sources/the-phenomenon-of-man.md) for the mainstream evolutionary-biology objection (no built-in directionality in the modern synthesis) and the 1962 Vatican *monitum* on the same book's theological ambiguities. Ring appropriates the vocabulary without fully committing to the metaphysics; this leaves the philosophical foundation of the hypothesis ambiguous. Notably, Ring also adopts only Teilhard's optimistic convergence-in-peace scenario, not the harsher second possibility Teilhard himself considers equally consistent with his framework (see above).
 
 **Note**: Ring himself is careful to present the Omega Hypothesis as hypothesis, not established fact. He explicitly states: "I want to be clear... this book does not prove any of these propositions of course." The framework is offered as "the most plausible interpretation" of the NDE data, not a scientific conclusion.
 

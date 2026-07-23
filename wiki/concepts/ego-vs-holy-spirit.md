@@ -69,6 +69,8 @@ The ego/Holy Spirit split resonates with several frameworks in this wiki:
 
 **Divergence**: Jung, Brennan, and Borysenko retain the empirical self as real; ACIM treats it as illusory. This is the key philosophical divergence between ACIM and most other frameworks in this wiki.
 
+[Alan Watts's Skin-Encapsulated Ego](skin-encapsulated-ego.md) (Vedanta) also treats the separate self as a maintained illusion to be seen through, but on a different cosmological basis than ACIM: Watts's Vedantic frame treats the phenomenal world itself as maya — real *as* appearance, not illusory in ACIM's stronger sense that the physical universe is a mistaken defense against knowledge of God. Both nonetheless converge in diagnosing the felt, bounded, embattled ego as constructed rather than final fact.
+
 ## Related pages
 
 - [A Course in Miracles](../sources/a-course-in-miracles.md)
@@ -79,3 +81,4 @@ The ego/Holy Spirit split resonates with several frameworks in this wiki:
 - [Shadow](shadow.md)
 - [Mask Self, Lower Self, and Higher Self](mask-self-lower-self-higher-self.md)
 - [Guilt and Soul Sickness](guilt-and-soul-sickness.md)
+- [The Skin-Encapsulated Ego](skin-encapsulated-ego.md)

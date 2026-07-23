@@ -70,7 +70,7 @@ Cannon's most important observation was that voodoo death is not merely individu
 
 Modern equivalents: the social withdrawal from the terminally diagnosed, the isolation of the retired, the institutionalisation of the elderly are all forms of community-level meaning withdrawal that accelerate the biological process.
 
-Norman Cousins captured the mechanism in the phrase Dossey quotes: **"belief becomes biology."**
+[Norman Cousins](../thinkers/norman-cousins.md) captured the mechanism in the phrase Dossey quotes: **"belief becomes biology"** — see [Anatomy of an Illness](../sources/anatomy-of-an-illness.md) for the primary source.
 
 ---
 

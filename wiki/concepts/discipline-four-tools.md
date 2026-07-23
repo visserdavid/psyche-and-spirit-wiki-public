@@ -3,9 +3,10 @@
 **Summary**: Peck's definition of discipline as a set of four interrelated techniques — delaying gratification, accepting responsibility, dedicating oneself to truth, and balancing — for scheduling the pain and pleasure of living so that life's problems get solved rather than avoided.
 
 **Sources**:
+- [Fromm, E. (1941). *Escape from freedom*. Farrar & Rinehart.](../sources/escape-from-freedom.md)
 - [Peck, M. S. (1978). *The road less traveled: A new psychology of love, traditional values, and spiritual growth*. Simon & Schuster.](../sources/the-road-less-traveled.md)
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-07-22
 
 ---
 
@@ -21,7 +22,7 @@ Scheduling the pain of a task before its pleasure — doing the difficult hour o
 ### Acceptance of Responsibility
 Peck distinguishes two clinical failure modes on the responsibility axis:
 - **Neurotics** assume too much responsibility, treating themselves as at fault for conflicts that are not truly theirs
-- **Character disorders** assume too little, treating the world as at fault for their own choices — a pattern Peck (citing Erich Fromm's *Escape from Freedom*) reads as itself a flight from the anxiety of freedom
+- **Character disorders** assume too little, treating the world as at fault for their own choices — a pattern Peck (citing [Erich Fromm](../thinkers/erich-fromm.md)'s *[Escape from Freedom](../sources/escape-from-freedom.md)*) reads as itself an instance of Fromm's [escape mechanisms](escape-mechanisms-fromm.md): a flight from the anxiety of freedom into blame and dependency rather than autonomous responsibility
 
 Both patterns are correctable only through the painful, ongoing work of assessing exactly where responsibility actually lies — neither denial nor over-assumption of guilt is health.
 
@@ -54,6 +55,9 @@ Peck's map-revision metaphor for mental health closely parallels the Jungian vie
 ## Related pages
 
 - [The Road Less Traveled (source)](../sources/the-road-less-traveled.md)
+- [Escape from Freedom (source)](../sources/escape-from-freedom.md)
+- [Escape Mechanisms (Fromm)](escape-mechanisms-fromm.md)
+- [Erich Fromm](../thinkers/erich-fromm.md)
 - [Love as an Act of Will](love-as-will.md)
 - [Entropy, Laziness, and Grace](entropy-and-grace.md)
 - [M. Scott Peck](../thinkers/m-scott-peck.md)

@@ -3,9 +3,10 @@
 **Summary**: German-American social psychologist and psychoanalyst (1900–1980); revised Freudian drive theory into a humanist framework centered on freedom, love, and destructiveness; his concepts of necrophilia, malignant narcissism, and incestuous-symbiotic fixation directly shaped M. Scott Peck's clinical psychology of evil.
 
 **Sources**:
+- [Fromm, E. (1941). *Escape from freedom*. Farrar & Rinehart.](../sources/escape-from-freedom.md)
 - [Fromm, E. (1964). *The heart of man: Its genius for good and evil*. Harper & Row.](../sources/heart-of-man.md)
 
-**Last updated**: 2026-07-09
+**Last updated**: 2026-07-22
 
 ---
 
@@ -35,6 +36,9 @@ Fromm's diagnostic claim that necrophilia, malignant narcissism, and incestuous-
 ### Freedom as Alternativism
 Fromm rejected both strict determinism and libertarian free will, proposing **alternativism**: freedom consists in the effortful awareness of motives, situation, and consequences that keeps more than one live possibility open, against a character-structure that otherwise narrows choice — most starkly illustrated by his reading of the "hardening" of Pharaoh's heart in Exodus.
 
+### Escape from Freedom
+In his first and best-known book, *[Escape from Freedom](../sources/escape-from-freedom.md)* (1941), written after his own flight from Nazi Germany, Fromm argued that the historical process of individuation — severing "primary ties" to family, guild, and church — brings "freedom from" external authority without automatically bringing "freedom to" realize one's own powers, leaving many people to unconsciously flee the resulting isolation through **authoritarianism** (sado-masochistic symbiosis), **destructiveness**, or **automaton conformity**. See [Escape Mechanisms (Fromm)](../concepts/escape-mechanisms-fromm.md) for the full treatment; this earlier, more socially/historically grounded analysis is the direct ancestor of the narcissism/necrophilia/symbiosis framework of *The Heart of Man*.
+
 ## Connections to Other Thinkers
 
 **Sigmund Freud**: Fromm's primary theoretical point of departure. He retains Freud's structural insights (narcissism, the death instinct, mother-fixation) while relocating them from biological drive theory into a humanist, character-based framework. See [Sigmund Freud](sigmund-freud.md).
@@ -53,6 +57,8 @@ Fromm rejected both strict determinism and libertarian free will, proposing **al
 
 ## Related pages
 
+- [Escape from Freedom (source)](../sources/escape-from-freedom.md)
+- [Escape Mechanisms (Fromm)](../concepts/escape-mechanisms-fromm.md)
 - [The Heart of Man (source)](../sources/heart-of-man.md)
 - [Necrophilia and Biophilia](../concepts/necrophilia-and-biophilia.md)
 - [Individual and Group Narcissism](../concepts/individual-and-group-narcissism.md)

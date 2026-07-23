@@ -4,9 +4,10 @@
 
 **Sources**:
 - [Benson, H., & Klipper, M. Z. (1975). *The relaxation response*. William Morrow.](../sources/the-relaxation-response.md)
+- [Selye, H. (1956). *The stress of life*. McGraw-Hill.](../sources/the-stress-of-life.md)
 - [Shealy, C. N. (1999). *Sacred healing: The curing power of energy and spirituality*. Element Books.](../sources/sacred-healing.md)
 
-**Last updated**: 2026-06-24
+**Last updated**: 2026-07-22
 
 ---
 
@@ -16,11 +17,15 @@ Hans Selye (1907–1982) was born in Vienna and spent most of his career at the 
 
 ## General Adaptation Syndrome
 
-Selye described three stages of the stress response:
+Selye's core finding, developed across two decades of endocrinological research and set out in full in his own primary account [*The Stress of Life*](../sources/the-stress-of-life.md) (1956), is a stereotyped triphasic bodily response to any sufficiently strong demand — see [General Adaptation Syndrome](../concepts/general-adaptation-syndrome.md) for the full treatment (the operational definition, the stressor/stress distinction, adaptation energy, and "diseases of adaptation"). In brief, the three stages are:
 
 1. **Alarm reaction**: The immediate response to a stressor — adrenaline release, elevated blood sugar, increased heart rate. This is adaptive in the short term.
 2. **Stage of adaptation (resistance)**: The body adapts to the stressor, and the alarm reaction subsides. However, adaptation has a cost: the threshold for new stressors is lowered. Over time, previously tolerable stimuli (a single cigarette, a cup of coffee, a teaspoon of sugar) can each individually trigger the alarm reaction.
 3. **Stage of exhaustion**: If stressors continue, adaptation fails. The body enters a state it cannot sustain, and disease becomes increasingly likely. Selye called this maladaptation — the feature underlying most chronic illness.
+
+## Altruistic Egoism: Selye's Philosophy of Gratitude
+
+*The Stress of Life*'s closing chapters extend the biological findings into an explicit ethic, which Selye calls **altruistic egoism**. He traces an evolutionary line from single-cell self-preservation, through the cooperation of cells within a multicellular body (where one cell's "altruism" toward the organism is simultaneously its own best strategy for survival), to human social cooperation. His practical conclusion: because interpersonal stress is driven by the twin poles of **gratitude** and **revenge**, and because gratitude is cumulative and self-reinforcing while revenge only breeds further revenge, consciously working to earn others' goodwill is not mere altruism but the most biologically sound form of long-term self-interest. Selye offers this "philosophy of gratitude" as the ultimate practical lesson of the entire stress research program — a rare case of a laboratory endocrinologist drawing an explicit ethical conclusion from his own physiological data.
 
 ## Relevance to The Relaxation Response
 
@@ -43,6 +48,8 @@ Nevertheless, the core insight — that chronic physiological activation (sustai
 ## Related pages
 
 - [The Relaxation Response (source)](../sources/the-relaxation-response.md)
+- [The Stress of Life (source)](../sources/the-stress-of-life.md)
+- [General Adaptation Syndrome](../concepts/general-adaptation-syndrome.md)
 - [Sacred Healing (source)](../sources/sacred-healing.md)
 - [Herbert Benson](herbert-benson.md)
 - [Norman Shealy](norman-shealy.md)

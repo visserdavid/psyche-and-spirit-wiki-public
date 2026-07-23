@@ -23,7 +23,7 @@ The book unfolds in four movements:
 
 Benson opens with the epidemiological case. At the time of writing, hypertension afflicted between 23 and 44 million Americans (15–33 percent of the adult population) and contributed to two million deaths per year — through atherosclerosis, heart attack, and stroke. Ninety to ninety-five percent of cases were "essential hypertension" — no identifiable anatomical cause.
 
-Benson's hypothesis, developed with [Hans Selye](../thinkers/hans-selye.md)'s stress framework and the Holmes-Rahe Social Readjustment Rating Scale as theoretical ground, was that repeated elicitation of the [fight-or-flight response](../concepts/fight-or-flight-response.md) in situations that do not permit physical action was the primary driver. Urban adjustment, racial disadvantage, occupational mobility, and life-event accumulation all raised blood pressure — not through identifiable tissue pathology, but through repeated stress-activation.
+Benson's hypothesis, developed with [Hans Selye](../thinkers/hans-selye.md)'s [General Adaptation Syndrome](../concepts/general-adaptation-syndrome.md) — set out in Selye's own primary text, [*The Stress of Life*](the-stress-of-life.md) (1956) — and the Holmes-Rahe Social Readjustment Rating Scale as theoretical ground, was that repeated elicitation of the [fight-or-flight response](../concepts/fight-or-flight-response.md) in situations that do not permit physical action was the primary driver. Urban adjustment, racial disadvantage, occupational mobility, and life-event accumulation all raised blood pressure — not through identifiable tissue pathology, but through repeated stress-activation.
 
 Supporting studies cited:
 - Texas City explosion (1947): elevated blood pressures in surrounding patients in the days following the blast
@@ -147,4 +147,6 @@ Any word or short phrase can substitute for "ONE" — including a prayer word or
 - [Mindfulness](../concepts/mindfulness.md)
 - [Centering Prayer](../concepts/centering-prayer.md)
 - [Hans Selye](../thinkers/hans-selye.md)
+- [The Stress of Life](the-stress-of-life.md)
+- [General Adaptation Syndrome](../concepts/general-adaptation-syndrome.md)
 - [Joan Borysenko](../thinkers/joan-borysenko.md)

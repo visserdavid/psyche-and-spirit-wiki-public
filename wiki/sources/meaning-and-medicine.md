@@ -119,7 +119,7 @@ Ten chapters showing how perceived meanings — particularly shame, despair, hel
 
 ## Potential Sources (from Dossey's endnotes)
 
-See `wiki/potential-sources.md` for the list of new entries added from this book's notes, including Dossey's earlier works (*Space, Time and Medicine*, 1982; *Recovering the Soul*, 1989), Norman Cousins's *Head First* (1989), and key research papers (Lown 1976; Byrd 1988; Wirth wound study; Cairns bacteria mutation 1988).
+See `wiki/potential-sources.md` for the list of new entries added from this book's notes, including Dossey's earlier works (*Space, Time and Medicine*, 1982; *Recovering the Soul*, 1989), Norman Cousins's *Head First* (1989, still not in vault — distinct from Cousins's already-ingested *[Anatomy of an Illness](anatomy-of-an-illness.md)*, 1979, the source of the "belief becomes biology" phrase Dossey quotes), and key research papers (Lown 1976; Byrd 1988; Wirth wound study; Cairns bacteria mutation 1988).
 
 ---
 
@@ -135,6 +135,8 @@ See `wiki/potential-sources.md` for the list of new entries added from this book
 - [Hardiness](../concepts/hardiness.md)
 - [Medical Intuition](../concepts/medical-intuition.md)
 - [Healing vs Curing](../concepts/healing-vs-curing.md)
+- [Norman Cousins](../thinkers/norman-cousins.md)
+- [Anatomy of an Illness (source)](anatomy-of-an-illness.md)
 - [The Creation of Health (source)](creation-of-health.md)
 - [Sacred Healing (source)](sacred-healing.md)
 - [Wholeness and the Implicate Order (source)](wholeness-and-the-implicate-order.md)

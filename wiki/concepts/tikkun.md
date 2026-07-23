@@ -4,8 +4,9 @@
 
 **Sources**:
 - [Matt, D. C. (Ed. & Trans.). (1983). *Zohar: The book of enlightenment* (Classics of Western Spirituality). Paulist Press.](../sources/zohar-book-of-enlightenment.md)
+- [Scholem, G. (1995). *Major trends in Jewish mysticism* (3rd rev. ed.). Schocken Books. (Original work published 1941)](../sources/major-trends-in-jewish-mysticism.md)
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-07-22
 
 ---
 
@@ -13,7 +14,7 @@
 
 *Tikkun* (תִּקּוּן, "repair," "correction," "rectification") is one of the Zohar's most consequential teachings: human action in the world has direct effects on the divine realm. When Israel observes the Torah, prays, and acts ethically, they re-unite the divine couple — Tif'eret and Shekhinah — healing the rift caused by sin and exile. When they sin, they deepen the separation. The human being is not a passive recipient of divine grace but an active participant in the repair of the cosmos.
 
-The full concept of *tikkun olam* (repair of the world) is developed most systematically by the 16th-century Lurianic Kabbalah (Isaac Luria, Safed), which elaborated the Zohar's teachings into a complete cosmological narrative. In Lurianic Kabbalah, the creation itself involves a catastrophic shattering (*shevirat ha-kelim* — the breaking of the vessels), which scattered divine sparks throughout material reality; all of human history is the project of gathering these sparks back through righteous action.
+The full concept of *tikkun olam* (repair of the world) is developed most systematically by the 16th-century Lurianic Kabbalah (Isaac Luria, Safed), which elaborated the Zohar's teachings into a complete cosmological narrative — creation itself first requires *tzimtzum* (divine self-contraction), followed by a catastrophic shattering (*shevirat ha-kelim*, the Breaking of the Vessels), which scattered divine sparks throughout material reality; all of human history is the project of gathering these sparks back through righteous action. See [Lurianic Kabbalah](lurianic-kabbalah.md) for the full treatment, per [Scholem](../thinkers/gershom-scholem.md)'s historical account, of this fuller cosmology and its aftermath in the [Sabbatianism](sabbatianism.md) crisis.
 
 The Zohar itself — slightly earlier in this development — places the emphasis on restoring the Shekhinah's union with Tif'eret through the quality of human moral and spiritual life.
 
@@ -77,6 +78,9 @@ This sacralising of ordinary human life — especially marital and family life �
 ## Related pages
 
 - [Zohar: The Book of Enlightenment (source)](../sources/zohar-book-of-enlightenment.md)
+- [Major Trends in Jewish Mysticism (source)](../sources/major-trends-in-jewish-mysticism.md)
+- [Lurianic Kabbalah](lurianic-kabbalah.md)
+- [Sabbatianism](sabbatianism.md)
 - [Sefirot](sefirot.md)
 - [Shekhinah](shekhinah.md)
 - [Ein Sof](ein-sof.md)

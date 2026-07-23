@@ -57,6 +57,10 @@ Five fundamental beliefs of the addictive system that damage women's health:
 
 Recovery from the addictive system is the precondition for genuine healing. See [Addictive System](../concepts/addictive-system.md).
 
+### Feminine Intelligence and the Wild Woman Archetype
+
+Northrup cites [Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)'s [*Women Who Run with the Wolves*](women-who-run-with-the-wolves.md) (1992) as a complementary resource for reclaiming instinctual feminine wisdom; Estés's [Wild Woman archetype](../concepts/wild-woman-archetype.md) — an instinctual layer of the psyche suppressed by patriarchal culture — closely parallels Northrup's own "feminine intelligence" concept below, though Northrup develops hers through clinical/gynecological practice while Estés works through fairy-tale analysis.
+
 ### Feminine Intelligence and the Bodymind
 
 Women's intelligence is multimodal and embodied — not deficient male logic but a different architecture that uses both hemispheres simultaneously alongside the body's intelligence. Women have a larger corpus callosum (connecting both hemispheres) and access body-based information through this structure in ways male-dominated education does not validate.
@@ -141,3 +145,5 @@ Northrup adapts Alcoholics Anonymous's twelve-step recovery process as a templat
 - [Psychoneuroimmunology](../concepts/psychoneuroimmunology.md)
 - [Medical Intuition](../concepts/medical-intuition.md)
 - [Healing vs. Curing](../concepts/healing-vs-curing.md)
+- [Wild Woman Archetype](../concepts/wild-woman-archetype.md)
+- [Clarissa Pinkola Estés](../thinkers/clarissa-pinkola-estes.md)

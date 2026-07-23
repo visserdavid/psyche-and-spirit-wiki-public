@@ -5,6 +5,7 @@
 **Sources**:
 - [Jung, C. G. (1963). *Memories, dreams, reflections* (A. Jaffé, Ed.; R. Winston & C. Winston, Trans.). Pantheon Books. (Original work published 1962 as *Erinnerungen, Träume, Gedanken*)](../sources/memories-dreams-reflections.md)
 - [Jung, C. G. (1968). *Aion: Researches into the phenomenology of the self* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 9, Part 2). Princeton University Press.](../sources/aion.md)
+- [Jung, C. G. (1969). *Psychology and religion: West and East* (R. F. C. Hull, Trans.; 2nd ed.; Collected Works of C. G. Jung, Vol. 11). Princeton University Press.](../sources/psychology-and-religion-west-and-east.md)
 
 **Last updated**: 2026-07-20 (updated after *Memories, Dreams, Reflections* ingest)
 
@@ -31,6 +32,10 @@ Jung is careful to frame this as a psychological rather than theological claim: 
 ## Late Thoughts: Incarnation as Requiring a Complexio Oppositorum
 
 In the closing "Late Thoughts" chapter of *[Memories, Dreams, Reflections](../sources/memories-dreams-reflections.md)*, Jung extends the *Aion* argument into a fuller claim about Christian incarnation itself. His reasoning: an omnipotent, wholly good, immaterial God choosing to become a finite, suffering man is already a kind of self-limitation (*kenosis*) that strains coherence if God's nature is defined as excluding darkness altogether. Jung argues the doctrine only becomes fully intelligible once God is understood — as in Nicholas of Cusa's *complexio oppositorum* and Jacob Boehme's moral ambivalence in the Godhead — as **already containing both poles**, so that incarnation becomes the concrete, human-scale reconciliation of a pre-existing divine ambivalence rather than the descent of a purely good being into a world it does not itself contain. On this reading, the human ethical task is to *become conscious* of the opposites God's own nature holds unconsciously — "Divine service, the service which man can render to God, [is that] light may emerge from the darkness, that the Creator may become conscious of His creation, and man conscious of himself." Jung frames this explicitly as his own late speculative myth-making, not doctrine or metaphysics — see [Jung's Explicit Caution](#jungs-explicit-caution-psychology-not-metaphysics), above, which applies equally here.
+
+## Answer to Job: The Argument in Jung's Own Case
+
+*[Psychology and Religion: West and East](../sources/psychology-and-religion-west-and-east.md)* contains Jung's fullest working-out of this argument in narrative form: "Answer to Job" (1952) reads the biblical Yahweh of the Book of Job as morally undeveloped and unconscious of his own contradictory nature — "obtuseness and loving-kindness, cruelty and creative power" coexisting without one being an obstacle to the other, for lack of "a reflecting consciousness" to mediate them. Jung reads Job's steadfast refusal to accept a morally incoherent God at face value as forcing an unconscious process of self-recognition onto Yahweh himself, continued through the Incarnation and, later, the Assumption of Mary (which Jung reads as completing a hidden divine quaternity by incorporating the feminine). This is the same volume's Trinity/quaternity essay extending the *Aion* argument that a symbol of wholeness excluding evil and the feminine is structurally incomplete. *Answer to Job* provoked serious and lasting theological objection from both Protestant and Catholic readers for treating scripture as evidence of God's own moral development — see [Psychology and Religion: West and East](../sources/psychology-and-religion-west-and-east.md) for the fuller treatment.
 
 ## Connection to the Gnostic and Kabbalistic Material
 
@@ -61,6 +66,7 @@ Where Jung's framework implies that the shadow (including its evil aspect) is a 
 
 - [Memories, Dreams, Reflections (source)](../sources/memories-dreams-reflections.md)
 - [Aion (source)](../sources/aion.md)
+- [Psychology and Religion: West and East (source)](../sources/psychology-and-religion-west-and-east.md)
 - [Hostage to the Devil (source)](../sources/hostage-to-the-devil.md)
 - [Carl Jung](../thinkers/carl-jung.md)
 - [Malachi Martin](../thinkers/malachi-martin.md)
@@ -73,4 +79,5 @@ Where Jung's framework implies that the shadow (including its evil aspect) is a 
 - [The Self](the-self.md)
 - [Sefirot](sefirot.md)
 - [Shekhinah](shekhinah.md)
+- [Lurianic Kabbalah](lurianic-kabbalah.md)
 - [Gnostic Quaternios and the Structure of the Self](gnostic-quaternios.md)

@@ -19,12 +19,15 @@
 
 - **[Personality No. 1 and No. 2](../concepts/individuation.md)**: Jung's lifelong sense of an ordinary schoolboy self alongside an ancient, timeless "Other" — the earliest statement of the ego/Self distinction that later became formal theory.
 - **The break with Freud**: Jung's own first-person account of the friendship, the 1909 voyage to America, and the 1913 rupture over Freud's insistence on defending the sexual theory "as a dogma" — see [Sigmund Freud](../thinkers/sigmund-freud.md).
-- **[Active imagination and the Red Book](../concepts/active-imagination-and-the-red-book.md)**: the 1913–1917 "confrontation with the unconscious" — the Philemon, Salome, and Elijah fantasy-figures, the *Black Books*, and the unpublished-in-his-lifetime *Septem Sermones ad Mortuos* — from which Jung says every later theoretical concept was drawn.
+- **[Active imagination and the Red Book](../concepts/active-imagination-and-the-red-book.md)**: the 1913–1917 "confrontation with the unconscious" — the Philemon, Salome, and Elijah fantasy-figures, the *Black Books*, and the unpublished-in-his-lifetime *Septem Sermones ad Mortuos* — from which Jung says every later theoretical concept was drawn; the primary document itself, *[The Red Book: Liber Novus](the-red-book.md)*, was published in 2009, long after this book, and now supplies the direct textual material this book only summarizes.
 - **[Individuation](../concepts/individuation.md) as circumambulation of the Self**: Jung's mandala drawings (1916 onward) as the direct empirical origin of his theory that individuation has no linear goal but circles a center.
-- **Alchemy as historical precedent**: how a 1926 dream of being "caught in the seventeenth century" led Jung to alchemy as the historical bridge between Gnosticism and modern depth psychology, underlying *[Aion](aion.md)* and *[Mysterium Coniunctionis](mysterium-coniunctionis.md)*.
+- **The fallow period and *[Psychological Types](psychological-types.md)***: Jung's own account of the 1913–1921 years names the same "confrontation with the unconscious" as the backdrop to his systematic introversion/extraversion and four-function theory, published in 1921 as the period's first major theoretical work.
+- **Alchemy as historical precedent**: how a 1926 dream of being "caught in the seventeenth century" and a 1928 encounter with Richard Wilhelm's translation of *The Secret of the Golden Flower* led Jung to alchemy as the historical bridge between Gnosticism and modern depth psychology, underlying *[Psychology and Alchemy](psychology-and-alchemy.md)*, *[Aion](aion.md)*, and *[Mysterium Coniunctionis](mysterium-coniunctionis.md)*.
 - **The Bollingen Tower**: the stone house Jung built and expanded over decades as a "confession of faith in stone" — including the carved Bollingen Stone and a synchronistic dream of a medieval mercenaries' procession.
 - **The 1944 near-death visions**: following a heart attack, Jung's vision of the earth from space, a rock temple in the Indian Ocean, and a mystical marriage (*hierosgamos*) — see [Near-Death Experiences](../concepts/near-death-experiences.md) and [Life After Life](life-after-life.md).
 - **Late Thoughts on good and evil**: Jung's argument, echoing and extending *Aion*'s [privatio boni](../concepts/privatio-boni.md) critique, that only a God-image encompassing both good and evil (a *complexio oppositorum*) can account for incarnation and for humanity's ethical task of consciousness.
+
+Alan Watts lists this book in his own bibliography for [*The Book: On the Taboo Against Knowing Who You Are*](the-book-on-the-taboo.md) (1966) as a work expanding the same themes of self-knowledge.
 
 ## Related pages
 
@@ -39,4 +42,7 @@
 - [Near-Death Experiences](../concepts/near-death-experiences.md)
 - [Life After Life](life-after-life.md)
 - [Aion](aion.md)
+- [Psychology and Alchemy](psychology-and-alchemy.md)
 - [Mysterium Coniunctionis](mysterium-coniunctionis.md)
+- [Psychological Types](psychological-types.md)
+- [The Red Book: Liber Novus](the-red-book.md)

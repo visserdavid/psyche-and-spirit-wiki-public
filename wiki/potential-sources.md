@@ -6,7 +6,7 @@ Candidate sources for future research and ingestion. No wiki-links. APA citation
 
 ## Priority Top 10
 
-**Last updated**: 2026-07-20, after ingesting *Memories, Dreams, Reflections* (Jung, 1962/1963).
+**Last updated**: 2026-07-22, after ingesting *Psychology and Alchemy* (Jung, 1944/1968, CW Vol. 12) — the fourth and final scoped extraction from the Collected Works megafile in this batch, not itself drawn from this list, so the ranking below is unchanged.
 
 Ranking method — candidates are drawn from entries below marked "Status: Not in vault," ranked by:
 
@@ -16,16 +16,16 @@ Ranking method — candidates are drawn from entries below marked "Status: Not i
 
 Ties are broken by judgment on (3). This section is regenerated at the end of every ingest per CLAUDE.md step 9.
 
-1. **Frazer, J. G. (1890). *The golden bough: A study in magic and religion*. Macmillan.** — 2x (Sacred Contracts; The Rites of Passage). Foundational dying-and-rising-god text.
-2. **Teilhard de Chardin, P. (1959). *The phenomenon of man* (B. Wall, Trans.). Harper & Row.** — thinker page exists, no source; Omega Point directly named by *Heading Toward Omega*.
-3. **Popper, K. R., & Eccles, J. C. (1977). *The self and its brain: An argument for interactionism*. Springer International.** — 2x (Global Mind Change; A New Science of Life).
-4. **Estés, C. P. (1992). *Women who run with the wolves: Myths and stories of the wild woman archetype*. Ballantine Books.** — 2x (Sacred Contracts; Women's Bodies, Women's Wisdom).
-5. **Krishna, G. (1971). *Kundalini: The evolutionary energy in man*. Shambhala.** — 2x (Heading Toward Omega; Joy's Way); fills a real gap — no primary kundalini text ingested yet.
-6. **Selye, H. (1956). *The stress of life*. McGraw-Hill.** — thinker page exists, no source; foundational General Adaptation Syndrome text underlying The Relaxation Response.
-7. **Cousins, N. (1979). *Anatomy of an illness as perceived by the patient: Reflections on healing and regeneration*. Norton.** — 2x (Meaning & Medicine; Love, Medicine and Miracles).
-8. **Fromm, E. (1941). *Escape from freedom*. Farrar & Rinehart.** — deepens an already primary-sourced thinker; explicitly flagged below as Peck's second major Fromm influence.
-9. **Herbert, N. (1985). *Quantum reality: Beyond the new physics*. Anchor Books/Doubleday.** — 2x (Healing Words; The Holographic Universe).
-10. **Jung, C. G. (Ed.), & Shamdasani, S. (Ed.). (2009). *The red book: Liber novus* (M. Kyburz, J. Peck, & S. Shamdasani, Trans.). W. W. Norton.** — the primary posthumously published text behind `wiki/concepts/active-imagination-and-the-red-book.md`, currently sourced only via Jung's own retrospective summary in *Memories, Dreams, Reflections*.
+1. **Popper, K. R., & Eccles, J. C. (1977). *The self and its brain: An argument for interactionism*. Springer International.** — 2x (Global Mind Change; A New Science of Life).
+2. **Krishna, G. (1971). *Kundalini: The evolutionary energy in man*. Shambhala.** — 2x (Heading Toward Omega; Joy's Way); fills a real gap — no primary kundalini text ingested yet.
+3. **Cannon, W. B. (1932). *The wisdom of the body*. W. W. Norton.** — 2x (Selye's *The Stress of Life* acknowledgments; Cousins's *Anatomy of an Illness*, Chapter 1); thinker page exists (`wiki/thinkers/walter-cannon.md`), no source; founding text of "homeostasis," currently sourced only via Benson's secondhand account.
+4. **Girard, R. (1972). *La violence et le sacré* [Violence and the sacred]. Johns Hopkins University Press (Eng. trans. 1977).** — newly surfaced by the Frazer ingest; the major later theoretical extension of Frazer's scapegoat material, taken far more seriously by contemporary religious studies than Frazer's own evolutionary framework; would deepen `wiki/concepts/scapegoat-ritual.md` beyond Frazer's comparative survey.
+5. **Bergson, H. (1911). *Creative evolution* (A. Mitchell, Trans.). Henry Holt. (Original French: *L'évolution créatrice*, 1907)** — newly surfaced by the Teilhard ingest; cited in *A New Science of Life* as Sheldrake's closest philosophical precedent (the *élan vital*) and directly relevant to Teilhard's own Law of Complexity-Consciousness; would deepen both `wiki/concepts/morphic-resonance.md` and `wiki/concepts/noosphere-and-complexity-consciousness.md`.
+6. **von Franz, M.-L. (Ed. & Trans.). (1966). *Aurora consurgens: A document attributed to Thomas Aquinas on the problem of opposites in alchemy* (Bollingen Series LXXVII). Pantheon Books/Princeton University Press.** — thinker page exists (`wiki/thinkers/marie-louise-von-franz.md`), no source; the medieval alchemical text she used to extend Jung's coniunctio thesis into female psychology and Marian symbolism, deepening `wiki/concepts/coniunctio.md`.
+7. **Brand, P., & Yancey, P. (1993). *Pain: The gift nobody wants*. HarperCollins.** — newly surfaced by the Cousins ingest; Brand's own full account of the Vellore leprosy research Cousins summarizes secondhand in *Anatomy of an Illness*, Chapter 4; would deepen the pain-as-protective-signal material with the primary source.
+8. **Fromm, E. (1955). *The sane society*. Rinehart.** — newly surfaced by the *Escape from Freedom* ingest; Fromm's own extension of the same analysis to societal-level pathology, cited in *The Road Less Traveled*'s "Nature of Power" section; would deepen `wiki/concepts/escape-mechanisms-fromm.md` and the group-evil material in *People of the Lie*.
+9. **Peat, F. D. (1987). *Synchronicity: The bridge between matter and mind*. Bantam Books.** — newly surfaced by the Herbert ingest (also cited in *The Holographic Universe*); a physicist and Bohm collaborator's argument that the implicate order is the physical mechanism behind Jung's synchronicity — would deepen `wiki/concepts/synchronicity.md` and `wiki/concepts/implicate-order.md` beyond the current secondhand treatment.
+10. **Noll, R. (1994). *The Jung cult: Origins of a charismatic movement*. Princeton University Press.** — newly surfaced by the Red Book ingest; the most prominent scholarly critique arguing Jung's system originated in psychological crisis rather than disciplined method, currently named only secondhand in `wiki/concepts/active-imagination-and-the-red-book.md`'s Critique section; would sharpen that page's balance-and-critique treatment with the primary critical source.
 
 ---
 
@@ -139,6 +139,21 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Scholem, G. (1941). *Major trends in Jewish mysticism*. Schocken Books.**
   Found in: Zohar: The Book of Enlightenment, Introduction (Scholem as the primary modern scholar who established Moses de León's authorship and rehabilitated Kabbalah as serious scholarly subject).
   Relevance: The foundational modern scholarship on Kabbalah; Scholem's framework shapes all subsequent understanding of the Zohar and is referenced throughout the Matt introduction. Would deepen the historical and scholarly dimension of the Kabbalistic entries.
+  Status: ✓ Ingested 2026-07-22 (vault file: Major trends in Jewish mysticism -- Gershom G. Scholem -- ( WeLib.org ) (compressed).md; wiki cites the Schocken Books 3rd rev. ed., 1995 printing, per its original 1941 publication).
+
+- **Tishby, I. (1989). *The wisdom of the Zohar: An anthology of texts* (D. Goldstein, Trans., 3 vols.). Oxford University Press/Littman Library. (Original Hebrew work published 1949–1961)**
+  Found in: Major Trends in Jewish Mysticism, cited throughout as the standard confirming elaboration of Scholem's Zohar authorship and theosophical analysis (Zohar: The Book of Enlightenment's own critique section already names Tishby as a confirming scholar).
+  Relevance: The other foundational modern scholarly treatment of Zohar theology, organized thematically rather than by lecture; would give `wiki/concepts/sefirot.md` and `wiki/concepts/tikkun.md` a second, more systematically organized scholarly source alongside Scholem's historical-narrative approach.
+  Status: Not in vault.
+
+- **Vital, H. (16th c.). *Etz Chaim* [Tree of Life]. (Various editions; no complete standard English translation).**
+  Found in: Major Trends in Jewish Mysticism, Seventh Lecture (Vital's own systematic redaction of Isaac Luria's oral teaching is the primary textual basis for everything Scholem reports about tzimtzum, shevirat ha-kelim, and tikkun — Luria himself left almost nothing in writing).
+  Relevance: The actual primary text behind `wiki/concepts/lurianic-kabbalah.md`, currently sourced entirely through Scholem's historical summary; no complete English translation is readily available, which somewhat limits near-term ingestion value.
+  Status: Not in vault.
+
+- **Buber, M. (1947–1948). *Tales of the Hasidim* (2 vols.; O. Marx, Trans.). Schocken Books.**
+  Found in: Major Trends in Jewish Mysticism, Ninth Lecture (Scholem cites Buber's collections as the most accessible entry point to Hasidic teaching and story, alongside Horodezky and Dubnow, while noting his own lecture cannot do justice to the material's scope).
+  Relevance: Would give this wiki its first primary Hasidic-story source, complementing Scholem's historical framing of Hasidism in `wiki/sources/major-trends-in-jewish-mysticism.md` with the genre's own characteristic epigrammatic, anecdotal voice — distinct from the already-listed Buber, M. (1953). *Good and Evil*.
   Status: Not in vault.
 
 - **Matt, D. C. (Ed. & Trans.). (2004–2017). *The Zohar: Pritzker Edition* (12 vols.). Stanford University Press.**
@@ -275,7 +290,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Fromm, E. (1941). *Escape from freedom*. Farrar & Rinehart.**
   Found in: The Road Less Traveled, "Discipline" section (character-disordered individuals' flight from the anxiety of freedom into blame and dependency).
   Relevance: Foundational analysis of authoritarianism as a psychological escape from the burden of freedom; directly informs Peck's account of character disorders and the responsibility axis. Companion to Fromm's *The Heart of Man* (already listed above) as a second major Fromm influence on Peck.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: Escape from Freedom -- Erich Fromm, Erich Fromm -- ( WeLib.org ) (compressed).md).
 
 - **Fromm, E. (1955). *The sane society*. Rinehart.**
   Found in: The Road Less Traveled, "Nature of Power" section (quoted on power and society).
@@ -582,12 +597,22 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Frazer, J. G. (1890). *The golden bough: A study in magic and religion*. Macmillan.**
   Found in: Sacred Contracts, Chapter 3 (hero's journey; dying-and-rising god pattern).
   Relevance: Campbell drew heavily on Frazer; the dying-and-rising pattern in myth underlies Myss's Sacred Contract stages.
+  Status: ✓ Ingested 2026-07-22 (vault file: The Golden Bough- A Study in Magic and Religion (Oxford -- Frazer, Sir James George & Sir -- ( WeLib.org ) (compressed).md; wiki cites the Oxford World's Classics edition, ed. Robert Fraser, 1994, under the original 1890 first-edition year per convention).
+
+- **Smith, J. Z. (1987). "Dying and rising gods." In M. Eliade (Ed.), *The encyclopedia of religion* (Vol. 4, pp. 521–527). Macmillan.**
+  Found in: The Golden Bough (Oxford World's Classics introduction and explanatory notes reference the modern scholarly debate over Frazer's central category).
+  Relevance: The single most influential scholarly critique of Frazer's (and by extension Campbell's) dying-and-rising god synthesis, arguing the category is a modern construction imposing false unity on disparate traditions — already cited secondhand in `wiki/concepts/dying-and-rising-god.md`'s critique section and would let the wiki cite the critique's own argument directly rather than at second hand.
+  Status: Not in vault.
+
+- **Girard, R. (1972). *La violence et le sacré* [Violence and the sacred] (P. Gregory, Trans.). Johns Hopkins University Press. (English translation 1977)**
+  Found in: Cited in this wiki's own `wiki/concepts/scapegoat-ritual.md` as the major later theoretical extension of Frazer's scapegoat material.
+  Relevance: Girard's theory that scapegoating is the foundational mechanism generating religion and social order, not merely one ritual technique among others, is taken far more seriously by contemporary religious studies than Frazer's broader evolutionary framework; would substantially deepen `wiki/concepts/scapegoat-ritual.md` beyond Frazer's own comparative survey.
   Status: Not in vault.
 
 - **Estés, C. P. (1992). *Women who run with the wolves*. Ballantine Books.**
   Found in: Sacred Contracts, Chapters 2, 4, and acknowledgements (Vasalisa story; Myss received endorsement from Estés).
   Relevance: The Vasalisa/Baba Yaga story is used extensively to illustrate the Sacred Contract's stages; Estés's approach to myth and the instinctual feminine deeply informs Myss.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: Clarissa Pincola Estes - Women Who Run With the Wolves - -- Clarissa Pinkola Estés Phd -- ( WeLib.org ) (compressed).md).
 
 ### On Mysticism and Spiritual Transformation
 
@@ -919,12 +944,17 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Pauli, W., & Jung, C. G. (1955). *The interpretation of nature and the psyche* (P. Silz, Trans.). Pantheon Books.**
   Found in: Man and His Symbols, Conclusion (von Franz's discussion of the convergence of physics and psychology draws directly on the Pauli-Jung collaboration; this is the source volume for both Jung's synchronicity essay and Pauli's essay on the influence of archetypal ideas on Kepler's theories).
   Relevance: The primary theoretical source for the synchronicity-concept page's physics section and von Franz's unus mundus hypothesis. Key companion to the synchronicity page's discussion of Heisenberg uncertainty, Bohr complementarity, and the acausal connecting principle.
+  Status: Jung's half (the *Synchronicity* essay) ✓ Ingested 2026-07-22 (vault file: Synchronicity - An Acausal Connecting Principle -- Carl Gustav Jung -- ( WeLib.org ) (compressed).md; wiki cites it standalone per its 1955/1960 English publication history). Pauli's own essay on Kepler, from the same original joint volume, remains Not in vault.
+
+- **Rhine, J. B. (1934). *Extra-sensory perception*. Boston Society for Psychic Research.**
+  Found in: Synchronicity: An Acausal Connecting Principle, Chapter 1 (Jung leans heavily on Rhine's Duke University ESP card- and dice-guessing experiments as statistically rigorous evidence for acausal correlation independent of space and time, central to his argument for the psychoid archetype).
+  Relevance: The primary experimental source underlying Jung's synchronicity argument's strongest empirical claim; would let `wiki/concepts/synchronicity.md` cite Rhine's own methodology and results directly rather than only through Jung's summary — also an opportunity to note the parapsychology field's own severe, long-standing replication problems.
   Status: Not in vault.
 
 ### On Alchemy (Background)
 
 - **Wilhelm, R. (Trans.), & Jung, C. G. (1962). *The secret of the golden flower: A Chinese book of life* (C. F. Baynes, Trans.). Harcourt, Brace & World. (Original work published 1929)**
-  Found in: Man and His Symbols, Part 5 (Jacobi's Henry case: Henry's MENG hexagram synchronicity and his I Ching consultation connect to Jung's long engagement with Chinese thought through the Wilhelm collaboration; cited in the context of the Henry case study's I Ching oracle).
+  Found in: Man and His Symbols, Part 5 (Jacobi's Henry case: Henry's MENG hexagram synchronicity and his I Ching consultation connect to Jung's long engagement with Chinese thought through the Wilhelm collaboration; cited in the context of the Henry case study's I Ching oracle). Also cited in *Synchronicity: An Acausal Connecting Principle*, Chapter 3, as the source of Jung's Tao/Chuang-tzu material.
   Relevance: The volume documenting Jung's first sustained encounter with Chinese thought and with synchronicity as a concept; essential background for the synchronicity page and the Henry individuation case on the individuation concept page.
   Status: Not in vault.
 
@@ -1358,7 +1388,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Selye, H. (1956). *The stress of life*. McGraw-Hill.**
   Found in: The Relaxation Response, Chapter 3 (Selye's theory of stress hormones as the mechanism linking stressful events to disease is the endocrinological framework Benson builds on; Selye believed adrenal stress hormones are the primary indices of the stress response).
   Relevance: Selye's primary popular work on the General Adaptation Syndrome — the companion to the thinker page already in the wiki; would add Selye's own voice to the stress framework.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: The Stress of Life -- Hans Selye -- ( WeLib.org ) (compressed).md).
 
 ### TM and Meditation Physiology
 
@@ -1414,7 +1444,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Teilhard de Chardin, P. (1959). *The phenomenon of man* (B. Wall, Trans.). Harper & Row. (Original French: *Le Phénomène humain*, 1955)**
   Found in: Heading Toward Omega, Chapter 9 (Teilhard's Omega Point — the convergent end-state of cosmic evolution toward maximum consciousness and love — is the explicit framework for Ring's evolutionary hypothesis about NDEs; "heading toward omega" is a direct reference to Teilhard's thesis).
   Relevance: The theoretical foundation of the omega-hypothesis concept page; essential for understanding Ring's claim that NDEs are not merely personal transformations but catalysts in species-level evolution. Teilhard is a major thinker in the consciousness-evolution tradition that connects to Myss, Shealy, and the broader wiki.
-  Status: Not in vault.
+  Status: Ingested 2026-07-22 (vault file: The Phenomenon of Man (Harper Perennial Modern Thought) -- Pierre Teilhard de Chardin; with an introduction by Sir (compressed).md).
 
 - **White, J. (1981). *The meeting of science and spirit: Guidelines for a new age*. Paragon House.**
   Found in: Heading Toward Omega, Chapter 9 (White's Homo noeticus concept — a qualitatively higher form of human being characterised by expanded consciousness, love-based motivation, and psychic sensitivity — is Ring's framework for characterising NDErs as evolutionary prototypes).
@@ -1445,7 +1475,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Cousins, N. (1979). *Anatomy of an illness as perceived by the patient: Reflections on healing and regeneration*. Norton.**
   Found in: Meaning & Medicine (Dossey cites Cousins's formulation "belief becomes biology" as the vernacular summary of the book's thesis; Cousins is Dossey's predecessor in bringing meaning-and-healing stories to a medical audience).
   Relevance: The most widely read personal account of illness and self-directed healing; Cousins's recovery from ankylosing spondylitis (a degenerative disease) using humour, vitamin C, and involvement in his own treatment is the paradigm case for meaning-as-medicine before Dossey systematised the evidence. Directly relevant to biography-is-biology, spontaneous-remission, and meaning-and-health pages.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22
 
 ### On Voodoo Death and the No-Exit Syndrome
 
@@ -1482,7 +1512,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Herbert, N. (1985). *Quantum reality: Beyond the new physics*. Anchor Books/Doubleday.**
   Found in: Healing Words, Chapter 6 and throughout (Herbert is Dossey's primary physics authority; his statement "Bell's theorem requires our knowledge of the world to be non-local" is quoted directly and used to anchor the non-local consciousness argument).
   Relevance: The most accessible scholarly account of Bell's theorem and its philosophical implications; Herbert's articulation that non-locality does not permit signal transmission (correlations are visible only retrospectively) is the precise point Dossey applies to prayer. Essential companion to the non-local-consciousness concept page and the physics section of prayer-and-healing. Herbert is a physicist from Lawrence Berkeley National Laboratory.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: Quantum Reality - Beyond the New Physics -- Herbert, Nick -- ( WeLib.org ) (compressed).md).
 
 - **Jahn, R. G., & Dunne, B. J. (1987). *Margins of reality: The role of consciousness in the physical world*. Harcourt Brace Jovanovich.**
   Found in: Healing Words (PEAR Lab research — Princeton Engineering Anomalies Research Laboratory; over 2.5 million REG trials showing individuals and bonded pairs can influence random event generators at distance and retroactively; Jahn was dean of engineering at Princeton).
@@ -1561,7 +1591,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Cousins, N. (1979). *Anatomy of an illness as perceived by the patient: Reflections on healing and regeneration*. Norton.**
   Found in: Love, Medicine and Miracles, Chapter 4 (Cousins wrote: "The will to live is not a theoretical abstraction, but a physiologic reality with therapeutic characteristics"); also in Meaning & Medicine.
   Relevance: Cousins's recovery from ankylosing spondylitis using laughter, vitamin C, and active self-involvement in treatment; the paradigm case for patient-as-partner and meaning-as-medicine before Dossey and Siegel systematised the evidence.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22
 
 ### On Survivor Personality and Resilience
 
@@ -1644,7 +1674,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Estés, C. P. (1992). *Women who run with the wolves: Myths and stories of the wild woman archetype*. Ballantine Books.**
   Found in: Women's Bodies, Women's Wisdom (cited as a complementary resource for reclaiming feminine instinct and wisdom; Estés's Wild Woman archetype parallels Northrup's feminine intelligence concept). Also found in Sacred Contracts (Chapters 2, 4, and acknowledgements — Vasalisa story).
   Relevance: Already listed under Sacred Contracts sources. Northrup confirms its additional relevance to the women's healing framework: Wild Woman as the instinctual wisdom body that the addictive system suppresses, and that the twelve steps to healing aim to reclaim. Relevant to female-energy-system, addictive-system, and menstrual-cycle-as-wisdom pages.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: Clarissa Pincola Estes - Women Who Run With the Wolves - -- Clarissa Pinkola Estés Phd -- ( WeLib.org ) (compressed).md).
 
 ### On Healing and Dying
 
@@ -1724,7 +1754,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Herbert, N. (1985). *Quantum reality: Beyond the new physics*. Anchor Books.**
   Found in: The Holographic Universe, Chapter 2 (Herbert's survey of eight quantum reality interpretations; his statement "Bell's theorem requires our knowledge of the world to be non-local" is Talbot's definitive citation for the non-locality argument; also his book *Elemental Mind* (1993) on quantum consciousness).
   Relevance: The clearest and most rigorous popular account of quantum non-locality and Bell's theorem; essential reading for the non-local-consciousness concept page. Herbert was a physicist at Lawrence Berkeley Laboratory.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: Quantum Reality - Beyond the New Physics -- Herbert, Nick -- ( WeLib.org ) (compressed).md). Note: his other cited book, *Elemental Mind* (1993), remains not in vault and is a separate candidate if wanted.
 
 - **Peat, F. D. (1987). *Synchronicity: The bridge between matter and mind*. Bantam Books.**
   Found in: The Holographic Universe, Introduction and Chapter 2 (Peat, a physicist and Bohm collaborator, argues that Bohm's implicate order provides the physical mechanism for Jung's synchronicity — the connection between inner and outer events that acausal connecting principle attempts to describe).
@@ -1846,7 +1876,7 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Frazer, J. G. (1890). *The golden bough: A study in magic and religion*. Macmillan.**
   Found in: The Rites of Passage, cited extensively throughout (funerary customs, seasonal/vegetation rites, the dying-and-rising god pattern, circumcision theory) — already listed under Sacred Contracts; confirmed here as one of van Gennep's most heavily cited sources.
   Relevance: Already listed elsewhere in this file; van Gennep's citations reinforce its centrality to the wiki's dying-and-rising-god and initiation-rites material.
-  Status: Not in vault.
+  Status: ✓ Ingested 2026-07-22 (vault file: The Golden Bough- A Study in Magic and Religion (Oxford -- Frazer, Sir James George & Sir -- ( WeLib.org ) (compressed).md).
 
 - **Harrison, J. E. (1903). *Prolegomena to the study of Greek religion*. Cambridge University Press.**
   Found in: The Rites of Passage, Chapter VI (van Gennep's primary source for the Eleusinian Mysteries' initiation structure — the definition of "mysteries," the *halade mystai* seaward procession, and the ritual sequence culminating in the revelation of the sacra).
@@ -1901,9 +1931,45 @@ Ties are broken by judgment on (3). This section is regenerated at the end of ev
 - **Jung, C. G. (Ed.), & Shamdasani, S. (Ed.). (2009). *The red book: Liber novus* (M. Kyburz, J. Peck, & S. Shamdasani, Trans.). W. W. Norton.**
   Found in: Memories, Dreams, Reflections, "Confrontation with the Unconscious" (Jaffé's account describes the *Red Book*/*Liber Novus* as the calligraphed folio volume into which Jung transcribed and illustrated the 1913-1917 fantasy material; it remained unpublished in Jung's lifetime and for decades after).
   Relevance: The primary, posthumously published text of the fantasy material this wiki's new `wiki/concepts/active-imagination-and-the-red-book.md` page currently covers only via Jung's own retrospective summary in his autobiography; would let the wiki engage the original material (and Shamdasani's extensive scholarly introduction on its composition and editorial history) directly.
+  Status: ✓ Ingested 2026-07-22 (vault file: The red book Liber novus - a readers edition -- C G Jung; Sonu Shamdasani; Mark Kyburz; John Peck; Ulrich -- ( WeLib.org ) (compressed).md).
+
+- **Noll, R. (1994). *The Jung cult: Origins of a charismatic movement*. Princeton University Press.**
+  Found in: The Red Book: Liber Novus, Shamdasani's introduction (referenced obliquely as the critical counter-tradition arguing Jung's system originated in a period of psychological crisis rather than disciplined self-observation; now cited directly in `wiki/concepts/active-imagination-and-the-red-book.md`'s Critique section).
+  Relevance: The most prominent scholarly critique of the Red Book period as method rather than pathology; would let the wiki engage Noll's specific argument directly instead of only naming it secondhand, and would sharpen the balance-and-critique treatment CLAUDE.md requires for this material.
   Status: Not in vault.
 
 - **Wilhelm, R. (Trans.), & Jung, C. G. (1962). *The secret of the golden flower: A Chinese book of life* (C. F. Baynes, Trans.). Harcourt, Brace & World. (Original work published 1929)**
   Found in: Memories, Dreams, Reflections, "Work" chapter (Jung describes receiving Wilhelm's manuscript and translation of this Taoist alchemical text as the crucial external confirmation of his mandala/individuation theory, and later contributed a psychological commentary to it). Already listed under Man and His Symbols sources above (Jacobi's "Henry" case, I Ching synchronicity); this is a second, independent point of citation for the Wilhelm collaboration itself.
   Relevance: Would deepen `wiki/concepts/active-imagination-and-the-red-book.md` and `wiki/thinkers/richard-wilhelm.md` (if a page exists) with the specific text Jung credits as breaking his years of isolation on the mandala/individuation material.
+  Status: Not in vault.
+
+## Key Works Cited in Anatomy of an Illness as Perceived by the Patient (Cousins, 1979)
+
+- **Cannon, W. B. (1932). *The wisdom of the body*. W. W. Norton.**
+  Found in: Anatomy of an Illness, Chapter 1 (Cousins invokes Cannon's concept of homeostasis directly when reasoning about restoring adrenal function, and again regarding the body's regulated, non-toxic uptake of ascorbic acid). Already listed above (Priority Top 10 #10; newly surfaced by the Selye ingest) — this is a second, independent point of citation reinforcing its rank.
+  Relevance: Founding text of "homeostasis"; thinker page exists (`wiki/thinkers/walter-cannon.md`), no source yet.
+  Status: Not in vault.
+
+- **Brand, P., & Yancey, P. (1993). *Pain: The gift nobody wants*. HarperCollins.**
+  Found in: Anatomy of an Illness, Chapter 4 ("Pain Is Not the Ultimate Enemy") draws extensively on Dr. Paul Brand's leprosy research at Vellore, India — the discovery that leprosy's tissue loss results from painless, unnoticed injury (nerve-ending destruction) rather than the disease directly.
+  Relevance: Brand's own full account (co-written with Philip Yancey) of pain as a protective, God-designed signaling system, developed from decades of leprosy treatment; would deepen the pain/protective-signal material in `wiki/sources/anatomy-of-an-illness.md` with the primary account rather than Cousins's secondhand summary, and is thematically adjacent to this wiki's illness-and-meaning literature (Cousins, Dossey, Siegel).
+  Status: Not in vault.
+
+- **Pauling, L. (1970). *Vitamin C and the common cold*. W. H. Freeman.**
+  Found in: Anatomy of an Illness, Chapter 6 (Cousins credits Pauling's 1970 book, read after his own 1964 recovery, with confirming and extending his own reasoning about ascorbic acid; also references Pauling and Ewan Cameron's later cancer-survival research).
+  Relevance: The best-known popular vitamin C advocacy text by a Nobel laureate chemist; directly relevant to the ascorbic-acid material in `wiki/sources/anatomy-of-an-illness.md` and to the wiki's broader treatment of orthomolecular medicine's mixed scientific reception.
+  Status: Not in vault.
+
+---
+
+## Key Works Cited in The Book: On the Taboo Against Knowing Who You Are (Watts, 1966)
+
+- **Bucke, R. M. (1901). *Cosmic consciousness: A study in the evolution of the human mind*. Innes & Sons.**
+  Found in: The Book, Chapter Six, note 2 (Watts directs readers to Bucke alongside James's *Varieties of Religious Experience* as a survey of unitive mystical experience).
+  Relevance: An early, influential cross-cultural survey of mystical "cosmic consciousness" episodes (Whitman, Bacon, Balzac, and Bucke's own experience); would deepen `wiki/concepts/mysticism-four-marks.md` and `wiki/concepts/skin-encapsulated-ego.md` with a primary historical source distinct from James's own treatment.
+  Status: Not in vault.
+
+- **Suzuki, D. T. (1956). *Zen Buddhism* (W. Barrett, Ed.). Doubleday.**
+  Found in: The Book, Bibliography (listed among the works Watts credits with shaping his own synthesis).
+  Relevance: D. T. Suzuki was the single most influential populariser of Zen for Western audiences before Watts himself; a primary source would let the wiki distinguish Zen Buddhist non-self teaching from Watts's own more Vedanta-inflected framing, sharpening the tradition-blending critique already noted on `wiki/thinkers/alan-watts.md`.
   Status: Not in vault.

@@ -5,8 +5,9 @@
 **Sources**:
 - [Matt, D. C. (Ed. & Trans.). (1983). *Zohar: The book of enlightenment* (Classics of Western Spirituality). Paulist Press.](../sources/zohar-book-of-enlightenment.md)
 - [Myss, C. (1996). *Anatomy of the spirit: The seven stages of power and healing*. Harmony Books.](../sources/anatomy-of-the-spirit.md)
+- [Scholem, G. (1995). *Major trends in Jewish mysticism* (3rd rev. ed.). Schocken Books. (Original work published 1941)](../sources/major-trends-in-jewish-mysticism.md)
 
-**Last updated**: 2026-06-25
+**Last updated**: 2026-07-22
 
 ---
 
@@ -103,3 +104,6 @@ The Zohar teaches that Torah — and by extension all sacred text — has four l
 - [Christian Sacraments](christian-sacraments.md)
 - [Energy Anatomy](energy-anatomy.md)
 - [Shadow](shadow.md)
+- [Major Trends in Jewish Mysticism (source)](../sources/major-trends-in-jewish-mysticism.md)
+- [Gershom Scholem](../thinkers/gershom-scholem.md)
+- [Lurianic Kabbalah](lurianic-kabbalah.md)

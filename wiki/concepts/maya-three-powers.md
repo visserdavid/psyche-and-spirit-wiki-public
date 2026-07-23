@@ -78,6 +78,10 @@ The three-powers framework offers a rigorous metaphysical account of what healin
 
 3. **Activating the Revealing Power** — moving from seeing symptoms as facts to seeing them as symbolic communications; using art, imagery, meditation, and mythological amplification to dissolve the Veiling Power's opacity and restore the experience of wholeness that underlies even serious illness.
 
+## Parallel: Watts's Skin-Encapsulated Ego
+
+Alan Watts's [Skin-Encapsulated Ego](skin-encapsulated-ego.md) thesis — that the separate self is a societally maintained hallucination sustained by narrowed conscious attention and the social "double-bind" — arrives independently, in accessible non-Sanskrit language, at essentially the same diagnosis as the Veiling and Projecting Powers described above: narrowed attention performs the Veiling Power's function, and the double-bind's manufactured guilt performs the Projecting Power's function of generating and sustaining an apparently separate, embattled ego. Watts's book can be read as an extended popular commentary on precisely these two powers.
+
 ## Tensions and Critique
 
 **From mainstream science**: Maya's three powers describe a metaphysical structure that cannot be directly verified or falsified. The claim that all phenomenal experience is a projection of divine consciousness is a philosophical position, not an empirical finding. The healing claims that follow from this metaphysics (e.g., that recognising maya's operation could accelerate recovery) lack controlled trial evidence.
@@ -99,3 +103,5 @@ The three-powers framework offers a rigorous metaphysical account of what healin
 - [Core Star](core-star.md)
 - [Cellular Energy Bank](cellular-energy-bank.md)
 - [Mandala](mandala.md)
+- [The Skin-Encapsulated Ego](skin-encapsulated-ego.md)
+- [Alan Watts](../thinkers/alan-watts.md)

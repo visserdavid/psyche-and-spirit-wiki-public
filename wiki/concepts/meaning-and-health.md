@@ -88,7 +88,7 @@ The meaning-and-health thesis primarily operates in Era II, but the evidence for
 
 ## Relation to Biography Is Biology
 
-Dossey's framework is the closest published external corroboration of Myss's [biography is biology](biography-is-biology.md) principle. Where Myss frames the encoding of biography in energetic terms (chakra depletion), Dossey frames it in clinical narrative and cites the psychoneuroimmunological research that provides the biochemical mechanism. Norman Cousins's phrase — "belief becomes biology" — appears in Dossey's discussion of [voodoo death](voodoo-death.md) and summarises the bridge between the two frameworks.
+Dossey's framework is the closest published external corroboration of Myss's [biography is biology](biography-is-biology.md) principle. Where Myss frames the encoding of biography in energetic terms (chakra depletion), Dossey frames it in clinical narrative and cites the psychoneuroimmunological research that provides the biochemical mechanism. [Norman Cousins's](../thinkers/norman-cousins.md) phrase — "belief becomes biology" — appears in Dossey's discussion of [voodoo death](voodoo-death.md) and summarises the bridge between the two frameworks; see [Cousins's own book](../sources/anatomy-of-an-illness.md) for the primary account behind the phrase.
 
 Both Myss and Dossey identify:
 - Shame, helplessness, and entrapment as particularly destructive meanings
@@ -137,7 +137,7 @@ These questions make Dossey's general claim — that meaning is the active biolo
 
 **LeShan's loss of meaning connection**: [Lawrence LeShan](../thinkers/lawrence-leshan.md)'s three decades of research with cancer patients identified a specific meaning-collapse as the precipitating psychological event: the loss of the person's "life meaning connection" — the one relationship, career, or cause that made life feel real. When that connection broke, quiet desperation followed, and cancer appeared within months to years. The mechanism is what Dossey calls the "giving-up, given-up complex": hopelessness as a physiological instruction to lower biological defences. [(Siegel, 1986)](../sources/love-medicine-miracles.md)
 
-**Love as meaning-carrier**: Siegel's central claim is that love is the most powerful meaning that medicine can deploy. Norman Cousins's phrase — "belief becomes biology" — captures the general principle; Siegel's specific addition is that the belief most reliably associated with healing is love: love received, love expressed, love given unconditionally. McClelland's IgA research (Harvard) and Medalie and Goldbourt's Israeli angina study establish that experienced love predicts immune and cardiovascular health better than any standard clinical variable. Love is meaning made measurable.
+**Love as meaning-carrier**: Siegel's central claim is that love is the most powerful meaning that medicine can deploy. [Norman Cousins's](../thinkers/norman-cousins.md) phrase — "belief becomes biology" — captures the general principle; Siegel's specific addition is that the belief most reliably associated with healing is love: love received, love expressed, love given unconditionally. McClelland's IgA research (Harvard) and Medalie and Goldbourt's Israeli angina study establish that experienced love predicts immune and cardiovascular health better than any standard clinical variable. Love is meaning made measurable.
 
 ## Related pages
 

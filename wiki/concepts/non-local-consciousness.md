@@ -6,9 +6,10 @@
 - [Bohm, D. (1980). *Wholeness and the implicate order*. Routledge & Kegan Paul.](../sources/wholeness-and-the-implicate-order.md)
 - [Dossey, L. (1991). *Meaning & medicine: A doctor's tales of breakthrough and healing*. Bantam Books.](../sources/meaning-and-medicine.md)
 - [Dossey, L. (1993). *Healing words: The power of prayer and the practice of medicine*. HarperSanFrancisco.](../sources/healing-words.md)
+- [Herbert, N. (1985). *Quantum reality: Beyond the new physics*. Anchor Books/Doubleday.](../sources/quantum-reality.md)
 - [Talbot, M. (1991). *The holographic universe*. HarperCollins.](../sources/the-holographic-universe.md)
 
-**Last updated**: 2026-07-10
+**Last updated**: 2026-07-22
 
 ---
 
@@ -28,7 +29,7 @@ See [Healing Words](../sources/healing-words.md) and [Meaning & Medicine](../sou
 
 The theoretical anchor is **Bell's theorem** (John Stewart Bell, 1964) and the experiments it generated. Classical physics required that distant objects be independent — no faster-than-light influence, no "spooky action at a distance." Bell proved mathematically that any locally realistic theory (one in which correlations between distant particles are explained by shared local properties, not genuine non-local connections) makes predictions incompatible with quantum mechanics. Subsequent experiments (Aspect et al., 1982; many successors) confirmed the quantum prediction: particles that have interacted remain correlated regardless of subsequent separation. Change the spin of one and the other changes instantaneously — non-locally, with no signal travelling between them.
 
-Nick Herbert (*Quantum Reality*, 1985) states: "Bell's theorem requires our knowledge of the world to be non-local." Herbert also notes that this non-locality does not permit sending information — the correlations are only visible retrospectively. Dossey takes both features seriously:
+[Nick Herbert](../thinkers/nick-herbert.md) (*[Quantum Reality](../sources/quantum-reality.md)*, 1985) states: "Bell's theorem requires our knowledge of the world to be non-local." Herbert also notes that this non-locality does not permit sending information — a separate result (Eberhard's proof) shows quantum randomness itself blocks any usable faster-than-light message riding on the correlation; the correlations are only visible retrospectively. Dossey takes both features seriously:
 
 - **Non-locality without signal transmission**: prayer does not "send" anything across space. It is not a radio wave that weakens with distance. Consistent with the experimental finding that healing effects do not diminish over distance.
 - **Non-locality visible retrospectively**: the PEAR Lab's random event generator experiments show that persons can retroactively correlate with output that was generated before they engaged with it. Time-displaced prayer is thus coherent in principle.
@@ -82,7 +83,7 @@ The evidence better fits a non-local consciousness model than an energy transmis
 
 The critical objections are serious:
 
-**The scale problem**: Bell's theorem proves non-locality at the subatomic scale. Scaling it to human consciousness requires bridging quantum physics and neuroscience — a bridge that does not currently exist. Schrödinger's aphorism is poetic, not scientific.
+**The scale problem**: Bell's theorem proves non-locality at the subatomic scale. Scaling it to human consciousness requires bridging quantum physics and neuroscience — a bridge that does not currently exist. Schrödinger's aphorism is poetic, not scientific. Even Herbert himself — whose *Quantum Reality* is the source of the "Bell's theorem requires... non-local" quote Dossey builds on — treats this scaling-up as his own final-chapter speculation, explicitly distinct from what Bell's proof itself establishes; see [Quantum Reality](../sources/quantum-reality.md).
 
 **The evidence problem**: The controlled experiments supporting distant healing are real but controversial. The file-drawer problem (unpublished negative results skewing the literature toward positive findings) is a persistent concern. Meta-analyses of prayer studies in particular have found inconsistent and frequently null results (STEP, 2006). Braud-Schlitz and Schmidt's work has been criticized for methodological weaknesses and insufficient independent replication.
 
@@ -103,6 +104,8 @@ Talbot extends this: the PEAR lab's REG and pinball experiments show that human 
 - [Healing Words (source)](../sources/healing-words.md)
 - [Meaning & Medicine (source)](../sources/meaning-and-medicine.md)
 - [The Holographic Universe (source)](../sources/the-holographic-universe.md)
+- [Quantum Reality (source)](../sources/quantum-reality.md)
+- [Nick Herbert](../thinkers/nick-herbert.md)
 - [Larry Dossey](../thinkers/larry-dossey.md)
 - [David Bohm](../thinkers/david-bohm.md)
 - [Michael Talbot](../thinkers/michael-talbot.md)

@@ -22,7 +22,7 @@ The hero myth is the most widely distributed narrative structure in human storyt
 5. **The transformation**: Death and rebirth, loss of the old self and emergence of the new
 6. **The return**: Re-entry into the community, bringing the gift of what has been won
 
-[Joseph Campbell](../thinkers/joseph-campbell.md)'s *[The Hero with a Thousand Faces](../sources/the-hero-with-a-thousand-faces.md)* (1949) codified this pattern as the **monomyth**. [Joseph L. Henderson](../thinkers/joseph-henderson.md)'s chapter in [*Man and His Symbols*](../sources/man-and-his-symbols.md) examines the same pattern through the lens of analytical psychology, focusing on what the myth *does* psychologically rather than simply documenting its universality.
+[Joseph Campbell](../thinkers/joseph-campbell.md)'s *[The Hero with a Thousand Faces](../sources/the-hero-with-a-thousand-faces.md)* (1949) codified this pattern as the **monomyth**, building directly on [Jung](../thinkers/carl-jung.md)'s own earlier treatment of the hero's mother-battle and rebirth in *[Symbols of Transformation](../sources/symbols-of-transformation.md)* (1912/1952). [Joseph L. Henderson](../thinkers/joseph-henderson.md)'s chapter in [*Man and His Symbols*](../sources/man-and-his-symbols.md) examines the same pattern through the lens of analytical psychology, focusing on what the myth *does* psychologically rather than simply documenting its universality.
 
 ## The Monomyth's Seventeen Stages (Campbell)
 
@@ -117,3 +117,4 @@ In [*The Mythic Image*](../sources/the-mythic-image.md), Campbell extends the he
 - [Symbolic Death and Rebirth](symbolic-death-and-rebirth.md)
 - [Rites and Symbols of Initiation (source)](../sources/rites-and-symbols-of-initiation.md)
 - [Mircea Eliade](../thinkers/mircea-eliade.md)
+- [Symbols of Transformation (source)](../sources/symbols-of-transformation.md)

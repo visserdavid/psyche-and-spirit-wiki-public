@@ -58,7 +58,7 @@ A recurring image throughout the book is the **World Navel** or *axis mundi* —
 
 ## Sources and Method
 
-Campbell's method is avowedly comparative and psychoanalytic rather than fieldwork-based: he synthesizes material from published mythography, folklore collections, and psychoanalytic case literature (citing Freud, Jung, Géza Róheim, and Wilhelm Stekel extensively alongside Frazer, van Gennep, and Ananda Coomaraswamy) rather than his own ethnographic research. He explicitly credits [Carl Jung](../thinkers/carl-jung.md)'s theory of archetypes as the psychological foundation of his comparative claim, and cites [Arnold van Gennep](../thinkers/arnold-van-gennep.md)'s *Les rites de passage* (1909) directly as a source for the separation/initiation/return terminology he adapts to myth — see [The Rites of Passage Schema](../concepts/rites-of-passage-schema.md).
+Campbell's method is avowedly comparative and psychoanalytic rather than fieldwork-based: he synthesizes material from published mythography, folklore collections, and psychoanalytic case literature (citing Freud, Jung, Géza Róheim, and Wilhelm Stekel extensively alongside [Frazer](../thinkers/james-george-frazer.md), van Gennep, and Ananda Coomaraswamy) rather than his own ethnographic research. He explicitly credits [Carl Jung](../thinkers/carl-jung.md)'s theory of archetypes as the psychological foundation of his comparative claim, and cites [Arnold van Gennep](../thinkers/arnold-van-gennep.md)'s *Les rites de passage* (1909) directly as a source for the separation/initiation/return terminology he adapts to myth — see [The Rites of Passage Schema](../concepts/rites-of-passage-schema.md).
 
 ## Critique
 
@@ -80,3 +80,5 @@ Campbell's method is avowedly comparative and psychoanalytic rather than fieldwo
 - [Trickster Archetype](../concepts/trickster-archetype.md)
 - [The Mythic Image (source)](the-mythic-image.md)
 - [The Rites of Passage (source)](the-rites-of-passage.md)
+- [The Golden Bough (source)](the-golden-bough.md)
+- [James George Frazer](../thinkers/james-george-frazer.md)

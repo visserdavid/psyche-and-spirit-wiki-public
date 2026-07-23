@@ -4,6 +4,7 @@
 
 **Sources**:
 - [Benson, H., & Klipper, M. Z. (1975). *The relaxation response*. William Morrow.](../sources/the-relaxation-response.md)
+- [Cousins, N. (1979). *Anatomy of an illness as perceived by the patient: Reflections on healing and regeneration*. W. W. Norton.](../sources/anatomy-of-an-illness.md)
 - [Dossey, L. (1991). *Meaning & medicine: Lessons from a doctor's tales of breakthrough and healing*. Bantam Books.](../sources/meaning-and-medicine.md)
 - [Talbot, M. (1991). *The holographic universe*. HarperCollins.](../sources/the-holographic-universe.md)
 - [Weil, A. (1983). *Health and healing: Understanding conventional and alternative medicine*. Houghton Mifflin.](../sources/health-and-healing.md)
@@ -37,6 +38,10 @@ The effectiveness of a placebo is modulated by:
 - **Delivery**: Injections are perceived as more potent than pills; capsules more than tablets
 - **Appearance**: Colour, size, and shape affect expectation — orange pills are perceived as stimulants, white as painkillers
 - **Physician attitude**: The same inert substance produced different results depending on the prescribing doctor's enthusiasm. Sobel's case of the asthmatic patient showed that the physician's enthusiasm for a drug was the determining factor, not the drug's chemistry
+
+## Cousins's Account: A Founding Popular Case
+
+[Norman Cousins](../thinkers/norman-cousins.md), in *[Anatomy of an Illness as Perceived by the Patient](../sources/anatomy-of-an-illness.md)* (1979), surveys much of the same Beecher/Shapiro/Wolf/Lasagna clinical placebo literature summarized above while formulating his own self-directed recovery from a severe collagen illness — making this book the popular-audience bridge between the clinical placebo research and the wider mind-body medicine movement (Dossey, Siegel, Weil all cite Cousins directly or via his phrase "belief becomes biology"). Cousins is explicit that he cannot rule out a placebo explanation for his own recovery, and treats several physicians' suggestion that he was "the beneficiary of a mammoth venture in self-administered placebos" as consistent with, not a refutation of, his thesis. His parallel claim that deliberately induced *laughter* produced measurable drops in his sedimentation rate is treated separately — see [Laughter and Healing](laughter-and-healing.md) — since it proposes a more specific (endorphin-mediated) mechanism than generic placebo belief.
 
 ## Nocebo Effect
 
@@ -124,6 +129,9 @@ This implies that active placebos (substances with genuine pharmacological effec
 
 - [Andrew Weil](../thinkers/andrew-weil.md)
 - [Health and Healing (source)](../sources/health-and-healing.md)
+- [Norman Cousins](../thinkers/norman-cousins.md)
+- [Anatomy of an Illness (source)](../sources/anatomy-of-an-illness.md)
+- [Laughter and Healing](laughter-and-healing.md)
 - [Innate Healing System](innate-healing-system.md)
 - [Psychoneuroimmunology](psychoneuroimmunology.md)
 - [Biography Is Biology](biography-is-biology.md)
